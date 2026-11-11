@@ -1,6 +1,6 @@
 # Context and Domain Cues in Masked-Word Prediction
 
-Code and results for the M.Tech project (MTP-1) *Context and Domain Cues in Masked-Word
+Code and results for the Masters Thesis Project (MTP-1) *Context and Domain Cues in Masked-Word
 Prediction: An Interpretability Study of BERT and RoBERTa*, Department of Artificial
 Intelligence, IIT Kharagpur, 2026.
 
