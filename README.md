@@ -52,12 +52,12 @@ Output files keep the prefix of the experiment that wrote them (`c1_…`, `x1_�
 | `c2_minimal_pairs.py` | Change one element at a time (subject, verb, masked slot, time phrase, negation) | Ch. 5.2, 5.5 |
 | `c3_logit_lens.py` | Logit lens: the MLM head applied to every layer at the mask | Ch. 5.6 |
 | `c4_attention_at_mask.py` | Attention from the mask, per layer and head | exploratory, not used in the report |
-| `c5_occlusion.py` | Replace each context word with [MASK], measure KL at the target | Ch. 8.1 (discussed as the earlier, misleading method) |
+| `c5_occlusion.py` | Replace each context word with [MASK], measure KL at the target | Ch. 5.4 (the earlier mask-based analysis whose limitation is measured in Ch. 8.1) |
 | `c6_layerwise_occlusion.py` | Logit lens under occlusion | exploratory, superseded by C8 |
 | `c7_subject_ladder.py` | Remove the subject step by step: is *medication* selected or a default? | Ch. 5.3 |
 | `c8_activation_patching.py` | Activation patching (clean → corrupted) at every layer and position | Ch. 5.7 |
 
-The `c8_patching_occlude_*` files use a [MASK]-corrupted run. They are kept for comparison
+The `c8_patching_occlude_*_COMPARISON` files use a [MASK]-corrupted run. They are kept for comparison
 only: at early layers, patching into a masked position injects content the run never had,
 so they are not read causally. The counterfactual runs (`patient_to_athlete`,
 `patient_to_machine`, `taking_to_eating`) are the ones used in the report.
