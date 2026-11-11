@@ -1,0 +1,11 @@
+domain,sentence,final_winner,emergence_layer,prob_at_L6,prob_at_L9,prob_final,rank_at_L6,rank_at_L9
+education,the student is studying [MASK] since the last 2 years .,abroad,8,0.008222444914281368,0.2375284731388092,0.20772628486156464,8,1
+sport,the athlete is playing [MASK] since the last 2 years .,football,10,0.0009133655694313347,0.02013830654323101,0.14533601701259613,50,8
+medical,the patient is taking [MASK] since the last 2 years .,medication,11,4.750163861899637e-05,0.023784978315234184,0.430385023355484,538,8
+food,the person is eating [MASK] since the last 2 years .,regularly,11,0.0023565057199448347,0.0096370754763484,0.08847762644290924,32,14
+music,the musician is playing [MASK] since the last 2 years .,guitar,12,9.041681187227368e-05,0.002256652805954218,0.18153677880764008,444,42
+generic,the person is taking [MASK] since the last 2 years .,medication,12,3.1174982723314315e-05,0.005969255696982145,0.09291141480207443,618,22
+finance,the investor is buying [MASK] since the last 2 years .,land,12,0.0006288366275839508,0.012791860848665237,0.09939856827259064,60,11
+tech,the programmer is writing [MASK] since the last 2 years .,code,12,0.002335580764338374,0.0035277993883937597,0.22930948436260223,27,38
+farming,the farmer is growing [MASK] since the last 2 years .,crops,12,0.00022773465025238693,0.011288457550108433,0.22186627984046936,119,13
+legal,the lawyer is filing [MASK] since the last 2 years .,cases,12,0.00010412746632937342,0.006914014928042889,0.1862291544675827,834,17

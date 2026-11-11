@@ -1,0 +1,98 @@
+domain,idx,target,k,pieces,parallel,l2r,conf_first,exact_parallel,exact_l2r,exact_conf,first_piece_parallel,gold_logprob_l2r
+GENERAL ENGLISH,3,spectacles,2,spectacle ##s,gold card,gold watch,credit card,False,False,False,False,-12.392901059392898
+GENERAL ENGLISH,4,drizzle,3,dr ##iz ##zle,", of wind",", cold wind",gust of wind,False,False,False,False,-13.948089837198495
+GENERAL ENGLISH,8,pulley,2,pull ##ey,metal from,metal piece,metal piece,False,False,False,False,-11.635565012693405
+GENERAL ENGLISH,13,alleyway,2,alley ##way,road road,road just,road just,False,False,False,False,-5.4861182272434235
+GENERAL ENGLISH,15,pruning,3,pr ##uni ##ng,", -ching",", sharp gardening",grass - cutting,False,False,False,False,-18.058620095249807
+GENERAL ENGLISH,20,slipper,2,slip ##per,brown from,brown tail,brown tail,False,False,False,False,-9.226821724325418
+GENERAL ENGLISH,21,peaches,2,peach ##es,orange fruit,oranges,##ned fruit,False,False,False,False,-4.055457969196141
+GENERAL ENGLISH,22,signpost,2,sign ##post,trail trail,trail down,dirt trail,False,False,False,False,-13.154629707336426
+GENERAL ENGLISH,24,lemonade,2,lemon ##ade,some wine,some wine,some wine,False,False,False,False,-7.629326105117798
+GENERAL ENGLISH,39,oranges,2,orange ##s,large balls,large balls,large balls,False,False,False,False,-5.184594839811325
+GENERAL ENGLISH,44,saffron,3,sa ##ff ##ron,the - sauce,the black pepper,the green salt,False,False,False,False,-15.750702001270838
+MEDICINE,11,reflexes,2,reflex ##es,brain status,brain activity,brain activity,False,False,False,False,-7.521600257605314
+MEDICINE,18,dizziness,2,di ##zziness,chest paralysis,chest pain,limb paralysis,False,False,False,False,-6.725815761223203
+MEDICINE,22,platelet,2,plate ##let,blood blood,blood cell,total blood,False,False,False,False,-10.40235639642924
+MEDICINE,24,catheter,3,cat ##het ##er,plastic in inserted,plastic surgical needle,needle in it,False,False,False,False,-14.097616900733556
+MEDICINE,27,numbness,2,numb ##ness,pain pain,pain sensation,pain sensation,False,False,False,False,-4.852131224120967
+MEDICINE,28,tumour,2,tu ##mour,tumor tumor,tumor there,brain tumor,False,False,False,False,-10.371303643391002
+MEDICINE,31,anaesthetic,3,ana ##est ##hetic,health just shortly,health care plan,health certificate shortly,False,False,False,False,-25.976338617590955
+MEDICINE,32,allergies,3,all ##er ##gies,""" ands",""" treatment """,condition and history,False,False,False,False,-15.30030309013091
+MEDICINE,33,radiograph,2,radio ##graph,##y ache,##y sigh,##y sigh,False,False,False,False,-15.784529685974121
+MEDICINE,36,infusion,2,in ##fusion,oral injection,oral dose,oral dose,False,False,False,False,-10.129624959394278
+MEDICINE,37,cholesterol,3,cho ##les ##terol,blood hormone hormone,blood glucose -,blood glucose -,False,False,False,False,-22.99890148639622
+MEDICINE,38,splint,3,sp ##lin ##t,pain support device,pain relief medication,medical support device,False,False,False,False,-8.687048673658865
+MEDICINE,42,nebulizer,3,ne ##bu ##lizer,and during children,and the business,and the business,False,False,False,False,-26.425288666039705
+MEDICINE,49,dosage,2,dos ##age,medical number,medical history,phone number,False,False,False,False,-7.8273985823616385
+MEDICINE,50,follow-up,3,follow - up,""" of """,""" recovery """,revision of the,False,False,False,False,-8.769961267709732
+LAW,1,arraignment,4,ar ##rai ##gn ##ment,""" "" "" """,""" trial "" date",""" preliminary hearing """,False,False,False,False,-20.758469930806314
+LAW,2,affidavit,4,af ##fi ##dav ##it,""" -,,",""" a "" letter",""" e "",",False,False,False,False,-21.587426399928518
+LAW,10,acquittal,3,ac ##qui ##ttal,identical guilty verdict,identical guilty verdict,overwhelmingly guilty verdict,False,False,False,False,-14.405224204058186
+LAW,12,admissible,2,ad ##missible,was unreliable,was unreliable,was unreliable,False,False,False,False,-11.197301864442124
+LAW,18,cross-examination,3,cross - examination,the trial hearing,the trial itself,the trial itself,False,False,False,False,-14.407378959469497
+LAW,20,mistrial,2,mist ##rial,guilty conviction,guilty verdict,guilty verdict,False,False,False,False,-11.839119314781783
+LAW,24,allegation,3,all ##ega ##tion,claim in allegations,claim on grounds,claims in terms,False,False,False,False,-17.07353985255031
+LAW,25,subpoena,3,sub ##po ##ena,"court order,","court order,","court order,",False,False,False,False,-20.954717849570443
+LAW,36,restitution,3,rest ##it ##ution,a a damages,a settlement amount,a cash settlement,False,False,False,False,-22.930133342602858
+LAW,37,adjourn,3,ad ##jou ##rn,delay delay from,delay further on,delay commencement of,False,False,False,False,-11.630175327591132
+LAW,39,mediator,2,media ##tor,arbitration party,arbitration tribunal,third party,False,False,False,False,-6.2150125303305686
+LAW,40,hearsay,2,hears ##ay,not false,not true,not true,False,False,False,False,-14.00416823462001
+FINANCE,5,volatility,3,vol ##ati ##lity,- prices,- share changes,- related risks,False,False,False,False,-19.2030917403099
+FINANCE,17,equities,3,e ##qui ##ties,the pension fund,the pension fund,the pension fund,False,False,False,False,-15.549848389811814
+FINANCE,27,cashflow,2,cash ##flow,financial payments,financial statements,financial statements,False,False,False,False,-6.582642316818237
+FINANCE,29,diversification,2,divers ##ification,the strategies,the funds,the funds,False,False,False,False,-10.995623768074438
+FINANCE,30,deferment,3,def ##er ##ment,loan in out,loan as part,loan as part,False,False,False,False,-15.48888647928834
+FINANCE,36,dividend,2,divide ##nd,subscription plan,subscription fee,subscription fee,False,False,False,False,-10.607190089300275
+FINANCE,41,liquidity,2,liquid ##ity,financial resources,financial resources,financial resources,False,False,False,False,-8.456158288754523
+CLIMATE SCIENCE,2,albedo,2,al ##bedo,climate climate,climate variability,ocean climate,False,False,False,False,-12.381565978750587
+CLIMATE SCIENCE,8,bleaching,3,b ##lea ##ching,a growth growth,a rapid expansion,a complete collapse,False,False,False,False,-22.463193914387375
+CLIMATE SCIENCE,9,heatwaves,3,heat ##wave ##s,and and rainfall,and fall rainfall,and fall rainfall,False,False,False,False,-8.051230554003268
+CLIMATE SCIENCE,13,carbon dioxide,2,carbon dioxide,marine waste,marine carbon,solid waste,False,False,False,False,-5.298240799922496
+CLIMATE SCIENCE,15,dryness,2,dry ##ness,oxygen pressure,oxygen levels,pressure pressure,False,False,False,False,-7.823082813061774
+CLIMATE SCIENCE,18,anomalies,3,an ##oma ##lies,and and levels,and temperature data,and temperature levels,False,False,False,False,-22.269784688939126
+CLIMATE SCIENCE,23,acidity,2,acid ##ity,surface temperatures,surface temperatures,water temperatures,False,False,False,False,-10.5239098072052
+CLIMATE SCIENCE,30,thaw,2,tha ##w,layers layers,layers all,layers all,False,False,False,False,-15.639135837554932
+CLIMATE SCIENCE,32,watercycle,2,water ##cycle,climate temperature,climate even,climate even,False,False,False,False,-18.279310703277588
+CLIMATE SCIENCE,38,decarbonization,4,dec ##ar ##bon ##ization,coal and and investment,coal mine development strategy,energy strategy and a,False,False,False,False,-21.56543743610382
+CLIMATE SCIENCE,41,scarcity,2,scar ##city,flood changes,flood levels,flood levels,False,False,False,False,-11.423583668656647
+CLIMATE SCIENCE,42,icebergs,3,ice ##berg ##s,climate temperatures immediately,climate immediately immediately,climate until shortly,False,False,False,False,-8.748745024204254
+CLIMATE SCIENCE,46,chronologies,3,ch ##ron ##ologies,and and methods,and drought models,data reconstruction methods,False,False,False,False,-17.330512523651123
+CYBERSECURITY,1,login,2,log ##in,aircraft coming,aircraft approaching,call coming,False,False,False,False,-12.024814128875732
+CYBERSECURITY,4,workstation,2,works ##tation,computer system,computer virus,computer virus,False,False,False,False,-8.694233164191246
+CYBERSECURITY,5,phishing,2,phi ##shing,text text,text -,fake text,False,False,False,False,-18.567277908325195
+CYBERSECURITY,6,ransomware,2,ransom ##ware,the explosives,the virus,plastic explosives,False,False,False,False,-7.029061205685139
+CYBERSECURITY,11,endpoint,2,end ##point,and error,and left,and left,False,False,False,False,-9.560597579926252
+CYBERSECURITY,20,attachments,2,attachment ##s,and messages,and files,and files,False,False,False,False,-8.65459781140089
+CYBERSECURITY,21,zero-trust,3,zero - trust,""" - """,""" conservative """,market - based,False,False,False,False,-18.971542358398438
+CYBERSECURITY,26,ization,2,i ##zation,cards,card technology,tokens,False,False,False,False,-19.829811096191406
+CYBERSECURITY,34,checksum,2,checks ##um,security quality,security features,security features,False,False,False,False,-11.626210689544678
+CYBERSECURITY,41,passwords,2,password ##s,information data,information online,management data,False,False,False,False,-5.537193580996245
+CYBERSECURITY,45,sandbox,2,sand ##box,storage folder,storage system,file folder,False,False,False,False,-11.839942210353911
+EDUCATION,20,fluency,2,flu ##ency,and significantly,and writing,and writing,False,False,False,False,-17.188167570791848
+EDUCATION,31,hypotheses,4,h ##yp ##oth ##eses,theories and the presented,theories that were presented,theories of the universe,False,False,False,False,-28.38562500466469
+EDUCATION,46,causation,3,ca ##usa ##tion,"a and """,a single event,a negative correlation,False,False,False,False,-16.961142007261515
+BIOLOGY,4,mitochondria,4,mit ##och ##ond ##ria,""", found embedded",""" eyes "" located","structures, all located",False,False,False,False,-19.47372091084253
+BIOLOGY,6,alleles,2,all ##eles,genes genes,genes directly,genes directly,False,False,False,False,-11.664939401904121
+BIOLOGY,8,cytoplasm,4,cy ##top ##las ##m,cell and. system,cell through the membrane,cell membrane..,False,False,False,False,-15.857453582248127
+BIOLOGY,16,respiration,2,res ##piration,metabolic metabolism,metabolic processes,energy metabolism,False,False,False,False,-9.944968104358622
+BIOLOGY,18,chloroplasts,5,ch ##lor ##op ##las ##ts,"the the, "" embedded",the mineralized material embedded,both the air and water,False,False,False,False,-22.501364693045616
+BIOLOGY,36,plankton,2,plank ##ton,coral of,coral reef,signs of,False,False,False,False,-11.587319254875183
+BIOLOGY,39,biofilm,2,bio ##film,layer layer,layer growing,surface layer,False,False,False,False,-10.326451137661934
+BIOLOGY,41,germination,3,ge ##rmin ##ation,##ling and development,##ling growth rates,##ling flower development,False,False,False,False,-21.421443361323327
+BIOLOGY,42,assay,2,ass ##ay,genetic technique,genetic test,genetic technique,False,False,False,False,-15.012916415027576
+BIOLOGY,44,hibernation,3,hi ##ber ##nation,the the attack,the initial bite,the initial attack,False,False,False,False,-17.346632003775085
+BIOLOGY,45,metamorphosis,4,meta ##mo ##rp ##hosis,the.. test,the first test run,the b. c,False,False,False,False,-22.038319811179463
+BIOLOGY,48,rearrangement,3,rear ##rang ##ement,and ands,and functional characteristics,structure and function,False,False,False,False,-16.124944955663523
+BIOLOGY,50,stressors,2,stress ##ors,factors can,factors may,factors may,False,False,False,False,-8.518045425415039
+TECHNOLOGY,16,identifier,3,id ##ent ##ifier,and and number,and a profile,and visitor profile,False,False,False,False,-11.403730826685205
+TECHNOLOGY,17,orchestration,2,orchestra ##tion,##ized systems,##ized systems,##ized systems,False,False,False,False,-11.670765459537506
+TECHNOLOGY,26,architectures,2,architecture ##s,models,model implementations,architectures,False,False,True,False,-3.987647016532719
+TECHNOLOGY,34,throughput,2,through ##put,rate rate,rate capacity,transmission rate,False,False,False,False,-9.885250686988002
+TECHNOLOGY,43,chipset,2,chips ##et,battery battery,battery pack,lithium battery,False,False,False,False,-9.369490348966792
+TECHNOLOGY,45,roadmap,3,road ##ma ##p,"magazine called,",magazine called developer,kit called eclipse,False,False,False,False,-25.699747791164555
+GEOGRAPHY,6,isthmus,3,ist ##hm ##us,", - bridge",", rocky causeway",suspension suspension bridge,False,False,False,False,-15.808092951677281
+GEOGRAPHY,26,latitudes,2,latitude ##s,different countries,different countries,african countries,False,False,False,False,-6.045861546881497
+GEOGRAPHY,30,aquifer,3,a ##qui ##fer,water and system,water supply system,water supply system,False,False,False,False,-13.64792977127945
+GEOGRAPHY,31,urbanization,2,urban ##ization,growth growth,growth has,growth has,False,False,False,False,-4.583317279815674
+GEOGRAPHY,32,biomes,2,bio ##mes,and grassland,and farmland,and farmland,False,False,False,False,-12.336246356368065
+GEOGRAPHY,45,lagoons,2,lagoon ##s,nature areas,nature reserves,marine areas,False,False,False,False,-8.967894414439797

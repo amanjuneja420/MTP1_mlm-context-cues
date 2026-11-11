@@ -1,0 +1,82 @@
+domain,idx,target,k,pieces,parallel,l2r,conf_first,exact_parallel,exact_l2r,exact_conf,first_piece_parallel,gold_logprob_l2r
+GENERAL ENGLISH,3,spectacles,2,Ġspect acles,cell phone,cell phone,cell phone,False,False,False,False,-8.07321172952652
+GENERAL ENGLISH,4,drizzle,2,Ġdri zzle,cold suddenly,cold snap,chill suddenly,False,False,False,False,-7.32817876261106
+GENERAL ENGLISH,8,pulley,2,Ġpul ley,metal from,metal piece,bolt from,False,False,False,False,-6.687573902308941
+GENERAL ENGLISH,12,trolley,2,Ġt rolley,separate shelf,separate shelf,nearby shelf,False,False,False,False,-6.932482395321131
+GENERAL ENGLISH,13,alleyway,2,Ġalley way,alley just,alley just,path just,False,False,False,True,-5.565738916397095
+GENERAL ENGLISH,15,pruning,2,Ġpr uning,eneduning,ened gardening,pruning,False,False,True,False,-6.146325626410544
+GENERAL ENGLISH,20,slipper,2,Ġsl ipper,soccer bag,soccer ball,sleeping bag,False,False,False,False,-9.466265439987183
+GENERAL ENGLISH,21,peaches,2,Ġpe aches,mango fruit,mangoes,mangoes,False,False,False,False,-5.144030071794987
+GENERAL ENGLISH,22,signpost,2,Ġsign post,wooden trail,wooden path,dirt trail,False,False,False,False,-10.350683212280273
+GENERAL ENGLISH,24,lemonade,2,Ġlemon ade,his wine,his drink,his drink,False,False,False,False,-5.995060324668884
+GENERAL ENGLISH,30,netting,2,Ġnet ting,fishing boat,fishing line,fishing line,False,False,False,False,-8.097398042678833
+GENERAL ENGLISH,44,saffron,3,Ġsa ff ron,lemonesame salt,lemon and ginger,black sea salt,False,False,False,False,-7.121657339390367
+MEDICINE,11,reflexes,2,Ġreflex es,neurological history,neurological condition,medical history,False,False,False,False,-9.184832587838173
+MEDICINE,18,dizziness,2,Ġdizz iness,dizz pain,dizziness,back pain,False,True,False,True,-1.7678802441805601
+MEDICINE,22,platelet,2,Ġplate let,whiteoglobin,white blood,white blood,False,False,False,False,-5.896014127880335
+MEDICINE,24,catheter,2,Ġcat heter,gallheter,gall bladder,catheter,False,False,True,False,-6.403068778323359
+MEDICINE,27,numbness,2,Ġnumb ness,numbness,numbness,numbness,True,True,True,True,-0.2409930691937916
+MEDICINE,28,tumour,2,Ġtum our,brain tumor,brain tumor,brain tumor,False,False,False,False,-5.36948034458328
+MEDICINE,31,anaesthetic,2,Ġana esthetic,eyeesthetic,eye exam,anesthetic,False,False,False,False,-5.451053132303059
+MEDICINE,33,radiograph,2,Ġradi ograph,compress check,compression,compression,False,False,False,False,-10.643750667572021
+MEDICINE,34,pathogen,2,Ġpath ogen,bacterial infection,bacterial infection,bacterial infection,False,False,False,False,-7.855854533263482
+MEDICINE,38,splint,2,Ġspl int,band brace,bandage,bandage,False,False,False,False,-5.293574865907431
+MEDICINE,42,nebulizer,3,Ġne bul izer,and a equipment,and the equipment,and the equipment,False,False,False,False,-16.097626108676195
+MEDICINE,50,follow-up,3,Ġfollow - up,change- treatment,change in work,follow-up,False,False,True,False,-6.674056482617743
+LAW,1,arraignment,2,Ġarra ignment,arra appearance,arraignment,first appearance,False,True,False,True,-0.947988867177628
+LAW,10,acquittal,2,Ġacqu ittal,acqu verdict,acquittal,unanimous verdict,False,True,False,True,-0.893435837700963
+LAW,12,admissible,2,Ġad missible,wasmissible,was reasonable,admissible,False,False,True,False,-5.904535407949879
+LAW,18,cross-examination,3,Ġcross - examination,the preliminary hearing,the preliminary hearing,the preliminary hearing,False,False,False,False,-8.1912426497438
+LAW,20,mistrial,2,Ġmist rial,guiltyrial,guilty verdict,mistrial,False,False,True,False,-1.3847204412013525
+LAW,39,mediator,2,Ġmedi ator,arbitrator,arbitrator,arbitrator,False,False,False,False,-1.5105429679242661
+LAW,40,hearsay,2,Ġhears ay,too false,too inflammatory,too inflammatory,False,False,False,False,-9.841598407743732
+FINANCE,17,equities,2,Ġequ ities,the bonds,the fund,the fund,False,False,False,False,-4.449772896798095
+FINANCE,27,cashflow,2,Ġcash flow,financial activity,financial statements,financial statements,False,False,False,False,-7.879714488983154
+FINANCE,29,diversification,2,Ġdivers ification,the model,the data,the data,False,False,False,False,-9.78186193620786
+FINANCE,30,deferment,2,Ġdefer ment,postponement,postponement,postponement,False,False,False,False,-3.804394483566284
+CLIMATE SCIENCE,2,albedo,3,Ġal bed o,ice in levels,ice thicknesses,ice thicknesses,False,False,False,False,-9.862700668163598
+CLIMATE SCIENCE,8,bleaching,2,Ġble aching,a changes,a transformation,behavioral changes,False,False,False,False,-7.534894958138466
+CLIMATE SCIENCE,9,heatwaves,2,Ġheat waves,heatstorms,heat waves,heat waves,False,False,False,True,-3.184048056602478
+CLIMATE SCIENCE,11,monsoon,2,Ġmon soon,polar population,polar bears,human population,False,False,False,False,-8.317565433681011
+CLIMATE SCIENCE,13,carbon dioxide,2,Ġcarbon Ġdioxide,fossil pollution,fossil fuels,carbon pollution,False,False,False,False,-2.0310971289873123
+CLIMATE SCIENCE,15,dryness,2,Ġdry ness,carbon levels,carbon dioxide,carbon dioxide,False,False,False,False,-8.06293599307537
+CLIMATE SCIENCE,23,acidity,2,Ġacid ity,ic levels,ic activity,water levels,False,False,False,False,-5.658513844013214
+CLIMATE SCIENCE,30,thaw,2,Ġth aw,bas patterns,basins,erosion patterns,False,False,False,False,-10.60974371433258
+CLIMATE SCIENCE,32,watercycle,2,Ġwater cycle,temperature temperature,temperature gradient,temperature gradient,False,False,False,False,-17.63496494293213
+CLIMATE SCIENCE,38,decarbonization,3,Ġdec arbon ization,strategy and investment,strategy and regional,research and development,False,False,False,False,-13.79167103767395
+CLIMATE SCIENCE,42,icebergs,2,Ġiceberg s,ice temperatures,ice thickness,ice thickness,False,False,False,False,-9.007707118988037
+CLIMATE SCIENCE,43,mangrove,3,Ġman gro ve,",-made",", natural sound",man-made,False,False,False,False,-6.546383701148443
+CLIMATE SCIENCE,46,chronologies,2,Ġchron ologies,ing techniques,ing techniques,ing techniques,False,False,False,False,-11.816722393035889
+CLIMATE SCIENCE,50,electrification,2,Ġelectr ification,energy sources,energy sources,energy sources,False,False,False,False,-11.639696312427986
+CYBERSECURITY,4,workstation,2,Ġwork station,computer servers,computer system,computer system,False,False,False,False,-8.297736525535583
+CYBERSECURITY,5,phishing,2,Ġph ishing,and threatening,and helpful,and helpful,False,False,False,False,-8.290206491947174
+CYBERSECURITY,21,zero-trust,3,Ġzero - trust,multi-based,multi-step,cloud-based,False,False,False,False,-4.288572363555431
+CYBERSECURITY,26,ization,2,Ġ ization,ized technology,ized tokens,ized tokens,False,False,False,False,-20.424962043762207
+CYBERSECURITY,34,checksum,2,Ġchecks um,security integrity,security features,security features,False,False,False,False,-11.850878715515137
+EDUCATION,18,mentoring,2,Ġment oring,-review,-review,-review,False,False,False,False,-3.6558899581432343
+EDUCATION,20,fluency,2,Ġflu ency,and writing,and writing,and writing,False,False,False,False,-12.335000365972519
+BIOLOGY,4,mitochondria,2,Ġmitochond ria,rib cells,ribbons,nerve cells,False,False,False,False,-4.834493382426444
+BIOLOGY,6,alleles,2,Ġalle les,chemical genes,chemical compounds,different genes,False,False,False,False,-11.02749003469944
+BIOLOGY,8,cytoplasm,4,Ġcy top l asm,cell of the cells,cell's internal environment,cell's nervous system,False,False,False,False,-11.219604703015648
+BIOLOGY,16,respiration,2,Ġresp iration,exertiration,exertion,respiration,False,False,True,False,-3.2103216625837376
+BIOLOGY,18,chloroplasts,3,Ġchlor opl asts,the and cells,the same protein,epithelial cells,False,False,False,False,-8.496925473213196
+BIOLOGY,36,plankton,2,Ġplank ton,sea algae,sea ice,green algae,False,False,False,False,-3.8900467201019637
+BIOLOGY,39,biofilm,2,Ġbio film,growth layer,growth zone,growth zone,False,False,False,False,-5.533195862546563
+BIOLOGY,41,germination,2,Ġger mination,lingynthesis,ling growth,ling growth,False,False,False,False,-4.458034751922241
+BIOLOGY,44,hibernation,2,Ġhiber nation,the experiment,the experiment,the experiment,False,False,False,False,-7.536088572465815
+BIOLOGY,45,metamorphosis,3,Ġmet amorph osis,the lab experiment,the breeding season,the breeding process,False,False,False,False,-13.645075103268027
+BIOLOGY,48,rearrangement,3,Ġrearr ang ement,and and DNA,and functional properties,and functional properties,False,False,False,False,-12.75072392821312
+BIOLOGY,50,stressors,2,Ġstress ors,factors may,factors may,factors may,False,False,False,False,-5.412440776824951
+TECHNOLOGY,17,orchestration,2,Ġorche stration,ized containers,ized containers,ized containers,False,False,False,False,-4.19703550968552
+GEOGRAPHY,6,isthmus,3,Ġis th mus,", of road",", winding road",chain of islands,False,False,False,False,-14.185959216789342
+GEOGRAPHY,13,equator,2,Ġequ ator,solar System,solar system,solar system,False,False,False,False,-7.630959023808828
+GEOGRAPHY,21,oasis,2,Ġo asis,Roman site,Roman temple,burial site,False,False,False,False,-8.793109808117151
+GEOGRAPHY,22,archipelago,3,Ġarch ipel ago,chain of islands,chain of islands,group of islands,False,False,False,False,-4.862990212277509
+GEOGRAPHY,23,steppe,2,Ġste ppe,desert density,desert landscape,desert landscape,False,False,False,False,-15.016628502984531
+GEOGRAPHY,26,latitudes,2,Ġlat itudes,tropical regions,tropical regions,geographic regions,False,False,False,False,-6.541465763933957
+GEOGRAPHY,28,wetland,2,Ġwet land,breeding stream,breeding site,breeding site,False,False,False,False,-6.566580593585968
+GEOGRAPHY,30,aquifer,2,Ġaqu ifer,power network,power supply,communication network,False,False,False,False,-9.213638848945266
+GEOGRAPHY,31,urbanization,2,Ġurban ization,growth has,growth has,growth has,False,False,False,False,-5.175339907407761
+GEOGRAPHY,32,biomes,2,Ġbi omes,and farmland,and farmland,and farmland,False,False,False,False,-11.919922448694706
+GEOGRAPHY,39,foothills,2,Ġfooth ills,ofte,of Everest,of Everest,False,False,False,False,-4.812492882832885
+GEOGRAPHY,45,lagoons,3,Ġl ago ons,and and reefs,and protected islands,islands and reefs,False,False,False,False,-6.996417049260344

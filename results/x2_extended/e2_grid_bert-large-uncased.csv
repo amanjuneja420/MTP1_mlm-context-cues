@@ -1,0 +1,81 @@
+subject,tail,medical_share,top1
+patient,(none),0.8657694565207547,medication
+patient,since the last 2 years,0.9431948124915649,medication
+patient,for the last two years,0.9524660177258469,medication
+patient,for years,0.819678611212503,drugs
+patient,for two days,0.9109149043471716,medication
+patient,since the last 2 minutes,0.9241256636013849,medication
+patient,since yesterday,0.9303229119666974,medication
+patient,every day,0.616958083442101,it
+patient,right now,0.35696379311308235,it
+patient,at the moment,0.40085424294010463,care
+person,(none),0.4199174873477204,drugs
+person,since the last 2 years,0.587332956861801,drugs
+person,for the last two years,0.4090204072755324,drugs
+person,for years,0.8591291984950603,drugs
+person,for two days,0.5459518256937884,care
+person,since the last 2 minutes,0.44556993613357154,drugs
+person,since yesterday,0.2882105632596633,drugs
+person,every day,0.6754144572850955,drugs
+person,right now,0.04265764147092286,it
+person,at the moment,0.08256631139804887,charge
+woman,(none),0.03052086507296514,over
+woman,since the last 2 years,0.7213797456722111,medication
+woman,for the last two years,0.448824054464151,off
+woman,for years,0.5253371364849466,drugs
+woman,for two days,0.4034725801446827,off
+woman,since the last 2 minutes,0.5257409323546296,medication
+woman,since yesterday,0.22767656301004816,over
+woman,every day,0.34170425603281007,it
+woman,right now,0.026175521624417372,off
+woman,at the moment,0.04097759682261658,over
+man,(none),0.02201046829871594,over
+man,since the last 2 years,0.41686393541851335,drugs
+man,for the last two years,0.14561205129888638,off
+man,for years,0.301739485007424,it
+man,for two days,0.1069002155738583,off
+man,since the last 2 minutes,0.11774729895860411,pictures
+man,since yesterday,0.12694417293283938,over
+man,every day,0.13847081092305902,it
+man,right now,0.014639387246290133,off
+man,at the moment,0.042717626152999004,off
+someone,(none),0.025108551848120185,it
+someone,since the last 2 years,0.09056366221211808,over
+someone,for the last two years,0.022913028699407045,over
+someone,for years,0.12206189775927884,it
+someone,for two days,0.08009853091640139,off
+someone,since the last 2 minutes,0.05357942817338203,pictures
+someone,since yesterday,0.05346074850128902,over
+someone,every day,0.14217249523153108,it
+someone,right now,0.022325046917575714,over
+someone,at the moment,0.015297291995074836,over
+child,(none),0.10213985728479738,it
+child,since the last 2 years,0.8141746864213311,medication
+child,for the last two years,0.8777706639427034,medication
+child,for years,0.8466413543989196,drugs
+child,for two days,0.6968622174654706,medication
+child,since the last 2 minutes,0.7865288929517261,medication
+child,since yesterday,0.4318071811857728,medication
+child,every day,0.5183170266449725,it
+child,right now,0.01926059935288413,over
+child,at the moment,0.04265550057274912,care
+dog,(none),0.0026178249609857965,off
+dog,since the last 2 years,0.09934049468428706,off
+dog,for the last two years,0.11653864191054696,off
+dog,for years,0.06388435867994267,it
+dog,for two days,0.04166635353699635,off
+dog,since the last 2 minutes,0.022775391276595846,off
+dog,since yesterday,0.010908755326594386,over
+dog,every day,0.01721988276928525,it
+dog,right now,0.0017672345906268963,off
+dog,at the moment,0.003954595759817021,over
+machine,(none),0.0013689207082833459,over
+machine,since the last 2 years,0.004896272031972232,off
+machine,for the last two years,0.03482293621674609,over
+machine,for years,0.02818949001106029,pictures
+machine,for two days,0.016730576416840462,off
+machine,since the last 2 minutes,0.012936930942910088,pictures
+machine,since yesterday,0.010238145907768456,over
+machine,every day,0.026623085639008,over
+machine,right now,0.0028514601187687467,over
+machine,at the moment,0.0019628607713007627,over

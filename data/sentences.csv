@@ -1,0 +1,501 @@
+domain,no,original_sentence,target,masked_sentence
+GENERAL ENGLISH,1,Maya left her [TARGET: umbrella] beside the apartment door.,umbrella,Maya left her <mask> beside the apartment door.
+GENERAL ENGLISH,2,The baker wrapped the warm [TARGET: loaf] in brown paper.,loaf,The baker wrapped the warm <mask> in brown paper.
+GENERAL ENGLISH,3,Daniel misplaced his [TARGET: spectacles] during the train journey.,spectacles,Daniel misplaced his <mask> during the train journey.
+GENERAL ENGLISH,4,A sudden [TARGET: drizzle] cooled the crowded marketplace.,drizzle,A sudden <mask> cooled the crowded marketplace.
+GENERAL ENGLISH,5,Priya keeps a small [TARGET: notebook] in her jacket pocket.,notebook,Priya keeps a small <mask> in her jacket pocket.
+GENERAL ENGLISH,6,The children built a [TARGET: shelter] from fallen branches.,shelter,The children built a <mask> from fallen branches.
+GENERAL ENGLISH,7,Our neighbor grows fresh [TARGET: basil] on the kitchen windowsill.,basil,Our neighbor grows fresh <mask> on the kitchen windowsill.
+GENERAL ENGLISH,8,The mechanic discovered a loose [TARGET: pulley] beneath the engine cover.,pulley,The mechanic discovered a loose <mask> beneath the engine cover.
+GENERAL ENGLISH,9,Elena folded the clean [TARGET: laundry] before watching television.,laundry,Elena folded the clean <mask> before watching television.
+GENERAL ENGLISH,10,The old clock makes a soft [TARGET: clicking] sound at night.,clicking,The old clock makes a soft <mask> sound at night.
+GENERAL ENGLISH,11,Ravi poured the soup into a ceramic [TARGET: bowl].,bowl,Ravi poured the soup into a ceramic <mask>.
+GENERAL ENGLISH,12,The librarian placed the returned novels on a [TARGET: trolley].,trolley,The librarian placed the returned novels on a <mask>.
+GENERAL ENGLISH,13,We found a narrow [TARGET: alleyway] behind the railway station.,alleyway,We found a narrow <mask> behind the railway station.
+GENERAL ENGLISH,14,Her cheerful [TARGET: greeting] eased the tension in the room.,greeting,Her cheerful <mask> eased the tension in the room.
+GENERAL ENGLISH,15,The gardener used a sharp [TARGET: pruning] tool on the rosebush.,pruning,The gardener used a sharp <mask> tool on the rosebush.
+GENERAL ENGLISH,16,The toddler dropped a wooden [TARGET: puzzle] beside the sofa.,puzzle,The toddler dropped a wooden <mask> beside the sofa.
+GENERAL ENGLISH,17,A bright [TARGET: lantern] illuminated the campsite after sunset.,lantern,A bright <mask> illuminated the campsite after sunset.
+GENERAL ENGLISH,18,The shopkeeper offered us a generous [TARGET: discount] on the damaged vase.,discount,The shopkeeper offered us a generous <mask> on the damaged vase.
+GENERAL ENGLISH,19,The musician tuned her [TARGET: violin] before the rehearsal began.,violin,The musician tuned her <mask> before the rehearsal began.
+GENERAL ENGLISH,20,The dog dragged a muddy [TARGET: slipper] across the hallway.,slipper,The dog dragged a muddy <mask> across the hallway.
+GENERAL ENGLISH,21,Omar placed the ripe [TARGET: peaches] in a woven basket.,peaches,Omar placed the ripe <mask> in a woven basket.
+GENERAL ENGLISH,22,The hikers followed a faded [TARGET: signpost] toward the waterfall.,signpost,The hikers followed a faded <mask> toward the waterfall.
+GENERAL ENGLISH,23,Her morning [TARGET: routine] includes stretching and watering the plants.,routine,Her morning <mask> includes stretching and watering the plants.
+GENERAL ENGLISH,24,The waiter accidentally spilled [TARGET: lemonade] across the tablecloth.,lemonade,The waiter accidentally spilled <mask> across the tablecloth.
+GENERAL ENGLISH,25,A mischievous [TARGET: squirrel] carried the bread toward the garden wall.,squirrel,A mischievous <mask> carried the bread toward the garden wall.
+GENERAL ENGLISH,26,The tailor repaired a torn [TARGET: collar] on the winter coat.,collar,The tailor repaired a torn <mask> on the winter coat.
+GENERAL ENGLISH,27,We heard distant [TARGET: thunder] while driving through the hills.,thunder,We heard distant <mask> while driving through the hills.
+GENERAL ENGLISH,28,The hotel placed a soft [TARGET: mattress] in the spare bedroom.,mattress,The hotel placed a soft <mask> in the spare bedroom.
+GENERAL ENGLISH,29,Nisha saved the recipe in a digital [TARGET: folder].,folder,Nisha saved the recipe in a digital <mask>.
+GENERAL ENGLISH,30,The fisherman repaired his damaged [TARGET: netting] before returning to the river.,netting,The fisherman repaired his damaged <mask> before returning to the river.
+GENERAL ENGLISH,31,The child gave her grandmother a handmade [TARGET: bracelet].,bracelet,The child gave her grandmother a handmade <mask>.
+GENERAL ENGLISH,32,The bus driver announced a brief [TARGET: delay] near the city center.,delay,The bus driver announced a brief <mask> near the city center.
+GENERAL ENGLISH,33,A fragrant [TARGET: cinnamon] aroma filled the bakery.,cinnamon,A fragrant <mask> aroma filled the bakery.
+GENERAL ENGLISH,34,The photographer adjusted the camera’s [TARGET: focus] before taking the portrait.,focus,The photographer adjusted the camera’s <mask> before taking the portrait.
+GENERAL ENGLISH,35,The festival began with a colorful [TARGET: parade] through the main street.,parade,The festival began with a colorful <mask> through the main street.
+GENERAL ENGLISH,36,Farah placed a folded [TARGET: map] inside her travel bag.,map,Farah placed a folded <mask> inside her travel bag.
+GENERAL ENGLISH,37,The carpenter measured the wooden [TARGET: staircase] twice before cutting it.,staircase,The carpenter measured the wooden <mask> twice before cutting it.
+GENERAL ENGLISH,38,The roommates reached a quiet [TARGET: agreement] about cleaning the kitchen.,agreement,The roommates reached a quiet <mask> about cleaning the kitchen.
+GENERAL ENGLISH,39,The street performer balanced three [TARGET: oranges] on one hand.,oranges,The street performer balanced three <mask> on one hand.
+GENERAL ENGLISH,40,A thick [TARGET: curtain] blocked the afternoon sunlight.,curtain,A thick <mask> blocked the afternoon sunlight.
+GENERAL ENGLISH,41,The cyclist wore a reflective [TARGET: jacket] during the evening ride.,jacket,The cyclist wore a reflective <mask> during the evening ride.
+GENERAL ENGLISH,42,The museum displayed an ancient [TARGET: compass] in a glass case.,compass,The museum displayed an ancient <mask> in a glass case.
+GENERAL ENGLISH,43,The baby fell asleep to the gentle [TARGET: humming] of the ceiling fan.,humming,The baby fell asleep to the gentle <mask> of the ceiling fan.
+GENERAL ENGLISH,44,The chef added a pinch of [TARGET: saffron] to the rice.,saffron,The chef added a pinch of <mask> to the rice.
+GENERAL ENGLISH,45,The apartment’s narrow [TARGET: balcony] overlooks the public garden.,balcony,The apartment’s narrow <mask> overlooks the public garden.
+GENERAL ENGLISH,46,The teacher praised Luis for his thoughtful [TARGET: explanation].,explanation,The teacher praised Luis for his thoughtful <mask>.
+GENERAL ENGLISH,47,A broken [TARGET: zipper] prevented her from closing the suitcase.,zipper,A broken <mask> prevented her from closing the suitcase.
+GENERAL ENGLISH,48,The villagers gathered around a stone [TARGET: fountain] in the square.,fountain,The villagers gathered around a stone <mask> in the square.
+GENERAL ENGLISH,49,The exhausted runner drank water at the finish-line [TARGET: station].,station,The exhausted runner drank water at the finish-line <mask>.
+GENERAL ENGLISH,50,The family celebrated the arrival of their new [TARGET: puppy].,puppy,The family celebrated the arrival of their new <mask>.
+MEDICINE,1,The physician recorded the patient’s elevated [TARGET: pressure] during the examination.,pressure,The physician recorded the patient’s elevated <mask> during the examination.
+MEDICINE,2,The laboratory confirmed a deficiency of [TARGET: insulin] in the blood sample.,insulin,The laboratory confirmed a deficiency of <mask> in the blood sample.
+MEDICINE,3,The nurse disinfected the wound before applying a sterile [TARGET: dressing].,dressing,The nurse disinfected the wound before applying a sterile <mask>.
+MEDICINE,4,The child developed a mild [TARGET: fever] after the vaccination.,fever,The child developed a mild <mask> after the vaccination.
+MEDICINE,5,The radiologist reviewed the patient’s [TARGET: scan] for signs of internal injury.,scan,The radiologist reviewed the patient’s <mask> for signs of internal injury.
+MEDICINE,6,The surgeon explained the possible risks of the planned [TARGET: procedure].,procedure,The surgeon explained the possible risks of the planned <mask>.
+MEDICINE,7,The patient described a persistent [TARGET: headache] behind the left eye.,headache,The patient described a persistent <mask> behind the left eye.
+MEDICINE,8,The clinic used a rapid [TARGET: test] to screen patients for infection.,test,The clinic used a rapid <mask> to screen patients for infection.
+MEDICINE,9,The pharmacist placed the tablets in a labeled [TARGET: container].,container,The pharmacist placed the tablets in a labeled <mask>.
+MEDICINE,10,The patient’s breathing improved after the inhaled [TARGET: medication] took effect.,medication,The patient’s breathing improved after the inhaled <mask> took effect.
+MEDICINE,11,The neurologist assessed the patient’s [TARGET: reflexes**] during the consultation.,reflexes,The neurologist assessed the patient’s <mask> during the consultation.
+MEDICINE,12,The nurse monitored the newborn’s [TARGET: heartbeat] throughout the examination.,heartbeat,The nurse monitored the newborn’s <mask> throughout the examination.
+MEDICINE,13,The biopsy revealed abnormal [TARGET: tissue] beneath the surface of the skin.,tissue,The biopsy revealed abnormal <mask> beneath the surface of the skin.
+MEDICINE,14,The rehabilitation team designed exercises to restore shoulder [TARGET: mobility].,mobility,The rehabilitation team designed exercises to restore shoulder <mask>.
+MEDICINE,15,The patient was referred to a specialist for recurring [TARGET: seizures].,seizures,The patient was referred to a specialist for recurring <mask>.
+MEDICINE,16,The hospital introduced stricter [TARGET: hygiene] procedures in the surgical ward.,hygiene,The hospital introduced stricter <mask> procedures in the surgical ward.
+MEDICINE,17,The doctor ordered an [TARGET: ultrasound] examination of the abdomen.,ultrasound,The doctor ordered an <mask> examination of the abdomen.
+MEDICINE,18,The patient reported sudden [TARGET: dizziness] while standing up.,dizziness,The patient reported sudden <mask> while standing up.
+MEDICINE,19,The research team compared the participants’ immune [TARGET: responses] after vaccination.,responses,The research team compared the participants’ immune <mask> after vaccination.
+MEDICINE,20,The emergency department treated a deep [TARGET: fracture] of the forearm.,fracture,The emergency department treated a deep <mask> of the forearm.
+MEDICINE,21,The dietitian recommended increasing dietary [TARGET: fibre] gradually.,fibre,The dietitian recommended increasing dietary <mask> gradually.
+MEDICINE,22,The blood report showed a reduced [TARGET: platelet] count.,platelet,The blood report showed a reduced <mask> count.
+MEDICINE,23,The patient used a wearable device to track overnight [TARGET: oxygen] levels.,oxygen,The patient used a wearable device to track overnight <mask> levels.
+MEDICINE,24,The surgeon inserted a small [TARGET: catheter] during the operation.,catheter,The surgeon inserted a small <mask> during the operation.
+MEDICINE,25,The public-health team investigated the source of the [TARGET: outbreak].,outbreak,The public-health team investigated the source of the <mask>.
+MEDICINE,26,The doctor prescribed physical [TARGET: therapy] after the knee injury.,therapy,The doctor prescribed physical <mask> after the knee injury.
+MEDICINE,27,The patient experienced temporary [TARGET: numbness] in the fingertips.,numbness,The patient experienced temporary <mask> in the fingertips.
+MEDICINE,28,The pathology report identified a benign [TARGET: tumour].,tumour,The pathology report identified a benign <mask>.
+MEDICINE,29,The nurse checked the patient’s [TARGET: temperature] before administering treatment.,temperature,The nurse checked the patient’s <mask> before administering treatment.
+MEDICINE,30,The physician discussed the importance of regular [TARGET: screening] for high-risk patients.,screening,The physician discussed the importance of regular <mask> for high-risk patients.
+MEDICINE,31,The patient received a local [TARGET: anaesthetic] before the dental operation.,anaesthetic,The patient received a local <mask> before the dental operation.
+MEDICINE,32,The medical team documented the patient’s previous [TARGET: allergies] in the record.,allergies,The medical team documented the patient’s previous <mask> in the record.
+MEDICINE,33,The child’s persistent cough prompted a chest [TARGET: radiograph].,radiograph,The child’s persistent cough prompted a chest <mask>.
+MEDICINE,34,The hospital isolated the patient after detecting a contagious [TARGET: pathogen].,pathogen,The hospital isolated the patient after detecting a contagious <mask>.
+MEDICINE,35,The endocrinologist reviewed the patient’s [TARGET: glucose] readings from the previous week.,glucose,The endocrinologist reviewed the patient’s <mask> readings from the previous week.
+MEDICINE,36,The patient received an intravenous [TARGET: infusion] during the observation period.,infusion,The patient received an intravenous <mask> during the observation period.
+MEDICINE,37,The clinical trial measured changes in participants’ [TARGET: cholesterol] levels.,cholesterol,The clinical trial measured changes in participants’ <mask> levels.
+MEDICINE,38,The surgeon applied a temporary [TARGET: splint] to stabilize the injured wrist.,splint,The surgeon applied a temporary <mask> to stabilize the injured wrist.
+MEDICINE,39,The patient’s medical history included childhood [TARGET: asthma].,asthma,The patient’s medical history included childhood <mask>.
+MEDICINE,40,The laboratory stored the biological [TARGET: specimens] at a controlled temperature.,specimens,The laboratory stored the biological <mask> at a controlled temperature.
+MEDICINE,41,The doctor explained that persistent [TARGET: inflammation] could affect the joint.,inflammation,The doctor explained that persistent <mask> could affect the joint.
+MEDICINE,42,The nurse taught the family how to operate the home [TARGET: nebulizer].,nebulizer,The nurse taught the family how to operate the home <mask>.
+MEDICINE,43,The patient’s recovery required careful [TARGET: monitoring] during the first night.,monitoring,The patient’s recovery required careful <mask> during the first night.
+MEDICINE,44,The public-health laboratory sequenced the viral [TARGET: sample].,sample,The public-health laboratory sequenced the viral <mask>.
+MEDICINE,45,The physician documented reduced kidney [TARGET: function] in the discharge summary.,function,The physician documented reduced kidney <mask> in the discharge summary.
+MEDICINE,46,The patient described a sharp [TARGET: sensation] near the surgical incision.,sensation,The patient described a sharp <mask> near the surgical incision.
+MEDICINE,47,The vaccination campaign focused on improving community [TARGET: immunity].,immunity,The vaccination campaign focused on improving community <mask>.
+MEDICINE,48,The therapist evaluated the patient’s speech [TARGET: comprehension] after the injury.,comprehension,The therapist evaluated the patient’s speech <mask> after the injury.
+MEDICINE,49,The medical record listed the patient’s current [TARGET: dosage] for each prescription.,dosage,The medical record listed the patient’s current <mask> for each prescription.
+MEDICINE,50,The specialist recommended a gradual [TARGET: follow-up] schedule after discharge.,follow-up,The specialist recommended a gradual <mask> schedule after discharge.
+LAW,1,The judge scheduled the defendant’s [TARGET: arraignment] for Monday morning.,arraignment,The judge scheduled the defendant’s <mask> for Monday morning.
+LAW,2,The witness signed an [TARGET: affidavit] describing what she had observed.,affidavit,The witness signed an <mask> describing what she had observed.
+LAW,3,The prosecutor presented new [TARGET: evidence] during the hearing.,evidence,The prosecutor presented new <mask> during the hearing.
+LAW,4,The tenant filed a formal [TARGET: complaint] against the property owner.,complaint,The tenant filed a formal <mask> against the property owner.
+LAW,5,The appellate court agreed to review the lower court’s [TARGET: judgment].,judgment,The appellate court agreed to review the lower court’s <mask>.
+LAW,6,The police obtained a [TARGET: warrant] before searching the warehouse.,warrant,The police obtained a <mask> before searching the warehouse.
+LAW,7,The defendant entered a plea of [TARGET: guilty] during the hearing.,guilty,The defendant entered a plea of <mask> during the hearing.
+LAW,8,The court dismissed the claim because the plaintiff lacked [TARGET: standing].,standing,The court dismissed the claim because the plaintiff lacked <mask>.
+LAW,9,The contract included an arbitration [TARGET: clause] for resolving disputes.,clause,The contract included an arbitration <mask> for resolving disputes.
+LAW,10,The jury returned an [TARGET: acquittal] after three hours of deliberation.,acquittal,The jury returned an <mask> after three hours of deliberation.
+LAW,11,The attorney submitted a written [TARGET: motion] requesting a postponement.,motion,The attorney submitted a written <mask> requesting a postponement.
+LAW,12,The court found the testimony [TARGET: admissible] under the applicable evidence rules.,admissible,The court found the testimony <mask> under the applicable evidence rules.
+LAW,13,The defendant requested a public [TARGET: defender] because he could not afford counsel.,defender,The defendant requested a public <mask> because he could not afford counsel.
+LAW,14,The parties reached a confidential [TARGET: settlement] before the trial began.,settlement,The parties reached a confidential <mask> before the trial began.
+LAW,15,The judge issued an [TARGET: injunction] prohibiting construction near the wetland.,injunction,The judge issued an <mask> prohibiting construction near the wetland.
+LAW,16,The plaintiff alleged that the company had committed [TARGET: negligence].,negligence,The plaintiff alleged that the company had committed <mask>.
+LAW,17,The court granted the defendant’s request for [TARGET: bail].,bail,The court granted the defendant’s request for <mask>.
+LAW,18,The lawyer questioned the witness during [TARGET: cross-examination].,cross-examination,The lawyer questioned the witness during <mask>.
+LAW,19,The statute imposes a strict [TARGET: deadline] for filing the appeal.,deadline,The statute imposes a strict <mask> for filing the appeal.
+LAW,20,The judge declared a [TARGET: mistrial] after the jury learned about the excluded statement.,mistrial,The judge declared a <mask> after the jury learned about the excluded statement.
+LAW,21,The parties disagreed about the proper [TARGET: interpretation] of the agreement.,interpretation,The parties disagreed about the proper <mask> of the agreement.
+LAW,22,The prosecutor argued that the surveillance video established the defendant’s [TARGET: intent].,intent,The prosecutor argued that the surveillance video established the defendant’s <mask>.
+LAW,23,The court transferred the case because another district had [TARGET: jurisdiction].,jurisdiction,The court transferred the case because another district had <mask>.
+LAW,24,The company denied the employee’s [TARGET: allegation] of discrimination.,allegation,The company denied the employee’s <mask> of discrimination.
+LAW,25,The witness received a [TARGET: subpoena] requiring her to appear in court.,subpoena,The witness received a <mask> requiring her to appear in court.
+LAW,26,The parties exchanged documents during the [TARGET: discovery] stage of the lawsuit.,discovery,The parties exchanged documents during the <mask> stage of the lawsuit.
+LAW,27,The court ordered the defendant to pay monetary [TARGET: damages].,damages,The court ordered the defendant to pay monetary <mask>.
+LAW,28,The prosecutor challenged the witness’s [TARGET: credibility] with contradictory records.,credibility,The prosecutor challenged the witness’s <mask> with contradictory records.
+LAW,29,The appellate panel [TARGET: affirmed] the decision of the trial court.,affirmed,The appellate panel <mask> the decision of the trial court.
+LAW,30,The defendant filed an [TARGET: appeal] after receiving the sentence.,appeal,The defendant filed an <mask> after receiving the sentence.
+LAW,31,The court entered a default [TARGET: verdict] when the corporation failed to respond.,verdict,The court entered a default <mask> when the corporation failed to respond.
+LAW,32,The legal team reviewed the relevant [TARGET: precedent] before drafting its argument.,precedent,The legal team reviewed the relevant <mask> before drafting its argument.
+LAW,33,The agreement became [TARGET: binding] after both parties signed it.,binding,The agreement became <mask> after both parties signed it.
+LAW,34,The defendant invoked the constitutional [TARGET: privilege] against self-incrimination.,privilege,The defendant invoked the constitutional <mask> against self-incrimination.
+LAW,35,The court rejected the request because the proposed remedy was [TARGET: inadequate].,inadequate,The court rejected the request because the proposed remedy was <mask>.
+LAW,36,The plaintiff sought [TARGET: restitution] for money lost in the fraudulent transaction.,restitution,The plaintiff sought <mask> for money lost in the fraudulent transaction.
+LAW,37,The attorney asked the court to [TARGET: adjourn] the proceedings until the following week.,adjourn,The attorney asked the court to <mask> the proceedings until the following week.
+LAW,38,The statute makes the unauthorized disclosure of the records [TARGET: unlawful].,unlawful,The statute makes the unauthorized disclosure of the records <mask>.
+LAW,39,The parties appointed a neutral [TARGET: mediator] to help resolve the dispute.,mediator,The parties appointed a neutral <mask> to help resolve the dispute.
+LAW,40,The court refused to admit the statement because it was [TARGET: hearsay].,hearsay,The court refused to admit the statement because it was <mask>.
+LAW,41,The prosecution argued that the defendant had violated the [TARGET: statute].,statute,The prosecution argued that the defendant had violated the <mask>.
+LAW,42,The judge imposed a temporary [TARGET: restriction] on contact between the parties.,restriction,The judge imposed a temporary <mask> on contact between the parties.
+LAW,43,The court treated the document as an official [TARGET: exhibit].,exhibit,The court treated the document as an official <mask>.
+LAW,44,The victim submitted a written [TARGET: statement] before sentencing.,statement,The victim submitted a written <mask> before sentencing.
+LAW,45,The defense argued that the search violated the defendant’s [TARGET: privacy].,privacy,The defense argued that the search violated the defendant’s <mask>.
+LAW,46,The court granted the company’s [TARGET: petition] for permission to intervene.,petition,The court granted the company’s <mask> for permission to intervene.
+LAW,47,The prosecution had to prove the charge beyond a reasonable [TARGET: doubt].,doubt,The prosecution had to prove the charge beyond a reasonable <mask>.
+LAW,48,The judge appointed a [TARGET: guardian] to represent the child’s interests.,guardian,The judge appointed a <mask> to represent the child’s interests.
+LAW,49,The defendant waived his right to a jury [TARGET: trial].,trial,The defendant waived his right to a jury <mask>.
+LAW,50,The court declared the disputed contract [TARGET: void] because it violated public policy.,void,The court declared the disputed contract <mask> because it violated public policy.
+FINANCE,1,The company issued new [TARGET: shares] to raise money for expansion.,shares,The company issued new <mask> to raise money for expansion.
+FINANCE,2,The investor purchased a government [TARGET: bond] with a ten-year maturity.,bond,The investor purchased a government <mask> with a ten-year maturity.
+FINANCE,3,The bank approved a mortgage [TARGET: loan] for the first-time buyer.,loan,The bank approved a mortgage <mask> for the first-time buyer.
+FINANCE,4,The fund’s annual [TARGET: return] exceeded the benchmark by two percentage points.,return,The fund’s annual <mask> exceeded the benchmark by two percentage points.
+FINANCE,5,The portfolio manager reduced exposure to market [TARGET: volatility].,volatility,The portfolio manager reduced exposure to market <mask>.
+FINANCE,6,The customer paid the outstanding [TARGET: balance] before the billing date.,balance,The customer paid the outstanding <mask> before the billing date.
+FINANCE,7,The central bank announced a change in its [TARGET: policy] rate.,policy,The central bank announced a change in its <mask> rate.
+FINANCE,8,The analyst revised the company’s earnings [TARGET: forecast] downward.,forecast,The analyst revised the company’s earnings <mask> downward.
+FINANCE,9,The investment account charged a small management [TARGET: fee] each year.,fee,The investment account charged a small management <mask> each year.
+FINANCE,10,The retailer reported stronger quarterly [TARGET: revenue] than expected.,revenue,The retailer reported stronger quarterly <mask> than expected.
+FINANCE,11,The family created an emergency [TARGET: fund] for unexpected expenses.,fund,The family created an emergency <mask> for unexpected expenses.
+FINANCE,12,The accountant corrected an error in the company’s [TARGET: ledger].,ledger,The accountant corrected an error in the company’s <mask>.
+FINANCE,13,The corporation recorded a higher [TARGET: profit] after reducing production costs.,profit,The corporation recorded a higher <mask> after reducing production costs.
+FINANCE,14,The borrower missed a scheduled [TARGET: payment] on the personal loan.,payment,The borrower missed a scheduled <mask> on the personal loan.
+FINANCE,15,The broker executed the client’s [TARGET: order] at the quoted market price.,order,The broker executed the client’s <mask> at the quoted market price.
+FINANCE,16,The company’s stock experienced a sudden [TARGET: decline] after the announcement.,decline,The company’s stock experienced a sudden <mask> after the announcement.
+FINANCE,17,The pension plan invested part of its assets in [TARGET: equities].,equities,The pension plan invested part of its assets in <mask>.
+FINANCE,18,The borrower provided collateral to secure the [TARGET: mortgage].,mortgage,The borrower provided collateral to secure the <mask>.
+FINANCE,19,The fund held a diversified [TARGET: portfolio] of domestic and international assets.,portfolio,The fund held a diversified <mask> of domestic and international assets.
+FINANCE,20,The startup attracted private [TARGET: capital] from several investors.,capital,The startup attracted private <mask> from several investors.
+FINANCE,21,The bank assessed the applicant’s credit [TARGET: history] before approving the card.,history,The bank assessed the applicant’s credit <mask> before approving the card.
+FINANCE,22,The analyst calculated the firm’s expected [TARGET: earnings] for the next quarter.,earnings,The analyst calculated the firm’s expected <mask> for the next quarter.
+FINANCE,23,The account offered a variable [TARGET: interest] rate linked to market conditions.,interest,The account offered a variable <mask> rate linked to market conditions.
+FINANCE,24,The insurer collected a monthly [TARGET: premium] from the policyholder.,premium,The insurer collected a monthly <mask> from the policyholder.
+FINANCE,25,The exchange suspended trading because of unusual market [TARGET: activity].,activity,The exchange suspended trading because of unusual market <mask>.
+FINANCE,26,The company completed a public [TARGET: offering] of its common stock.,offering,The company completed a public <mask> of its common stock.
+FINANCE,27,The treasurer monitored the firm’s daily [TARGET: cashflow].,cashflow,The treasurer monitored the firm’s daily <mask>.
+FINANCE,28,The investor compared the asset’s potential [TARGET: yield] with its level of risk.,yield,The investor compared the asset’s potential <mask> with its level of risk.
+FINANCE,29,The fund manager used [TARGET: diversification] to spread investments across industries.,diversification,The fund manager used <mask> to spread investments across industries.
+FINANCE,30,The borrower requested a temporary [TARGET: deferment] of the repayment schedule.,deferment,The borrower requested a temporary <mask> of the repayment schedule.
+FINANCE,31,The company’s annual report disclosed a substantial [TARGET: liability].,liability,The company’s annual report disclosed a substantial <mask>.
+FINANCE,32,The bank required additional [TARGET: verification] before processing the transfer.,verification,The bank required additional <mask> before processing the transfer.
+FINANCE,33,The investor sold the shares to realize a taxable [TARGET: gain].,gain,The investor sold the shares to realize a taxable <mask>.
+FINANCE,34,The business recorded an operating [TARGET: loss**] during the difficult quarter.,loss,The business recorded an operating <mask> during the difficult quarter.
+FINANCE,35,The mutual fund’s [TARGET: holdings] included technology and healthcare companies.,holdings,The mutual fund’s <mask> included technology and healthcare companies.
+FINANCE,36,The company’s directors approved a quarterly [TARGET: dividend] for shareholders.,dividend,The company’s directors approved a quarterly <mask> for shareholders.
+FINANCE,37,The lender calculated the borrower’s debt-to-income [TARGET: ratio].,ratio,The lender calculated the borrower’s debt-to-income <mask>.
+FINANCE,38,The exchange rate changed after the currency [TARGET: intervention].,intervention,The exchange rate changed after the currency <mask>.
+FINANCE,39,The auditor examined the firm’s financial [TARGET: statements].,statements,The auditor examined the firm’s financial <mask>.
+FINANCE,40,The retailer offered customers a zero-interest [TARGET: installment] plan.,installment,The retailer offered customers a zero-interest <mask> plan.
+FINANCE,41,The investment became difficult to sell because of limited [TARGET: liquidity].,liquidity,The investment became difficult to sell because of limited <mask>.
+FINANCE,42,The company repurchased its own [TARGET: stock] during the quarter.,stock,The company repurchased its own <mask> during the quarter.
+FINANCE,43,The economist attributed the price increase to rising [TARGET: inflation].,inflation,The economist attributed the price increase to rising <mask>.
+FINANCE,44,The bank transferred the disputed amount into an escrow [TARGET: account].,account,The bank transferred the disputed amount into an escrow <mask>.
+FINANCE,45,The investor selected a low-risk [TARGET: allocation] for the retirement portfolio.,allocation,The investor selected a low-risk <mask> for the retirement portfolio.
+FINANCE,46,The company’s credit [TARGET: rating] improved after it reduced its debt.,rating,The company’s credit <mask> improved after it reduced its debt.
+FINANCE,47,The financial adviser explained how compound [TARGET: growth] affects long-term savings.,growth,The financial adviser explained how compound <mask> affects long-term savings.
+FINANCE,48,The startup offered employees an [TARGET: option] to purchase shares later.,option,The startup offered employees an <mask> to purchase shares later.
+FINANCE,49,The regulator investigated possible market [TARGET: manipulation] by the trading firm.,manipulation,The regulator investigated possible market <mask> by the trading firm.
+FINANCE,50,The family adjusted its monthly [TARGET: budget] after rent increased.,budget,The family adjusted its monthly <mask> after rent increased.
+CLIMATE SCIENCE,1,Rising atmospheric [TARGET: carbon] concentrations increase the planet’s heat-trapping capacity.,carbon,Rising atmospheric <mask> concentrations increase the planet’s heat-trapping capacity.
+CLIMATE SCIENCE,2,The researchers measured long-term changes in Arctic [TARGET: albedo].,albedo,The researchers measured long-term changes in Arctic <mask>.
+CLIMATE SCIENCE,3,Methane is a potent [TARGET: greenhouse] gas released by several natural and industrial processes.,greenhouse,Methane is a potent <mask> gas released by several natural and industrial processes.
+CLIMATE SCIENCE,4,The glacier’s annual [TARGET: retreat] exposed newly uncovered rock.,retreat,The glacier’s annual <mask> exposed newly uncovered rock.
+CLIMATE SCIENCE,5,Scientists reconstructed past temperatures using ice-core [TARGET: records].,records,Scientists reconstructed past temperatures using ice-core <mask>.
+CLIMATE SCIENCE,6,The city developed a coastal [TARGET: adaptation] plan for future flooding.,adaptation,The city developed a coastal <mask> plan for future flooding.
+CLIMATE SCIENCE,7,The power station reduced its annual [TARGET: emissions] after switching fuels.,emissions,The power station reduced its annual <mask> after switching fuels.
+CLIMATE SCIENCE,8,Warmer seawater caused the coral colony to undergo [TARGET: bleaching].,bleaching,Warmer seawater caused the coral colony to undergo <mask>.
+CLIMATE SCIENCE,9,The climate model projected more frequent summer [TARGET: heatwaves].,heatwaves,The climate model projected more frequent summer <mask>.
+CLIMATE SCIENCE,10,The wetland acts as an important [TARGET: sink] for atmospheric carbon.,sink,The wetland acts as an important <mask> for atmospheric carbon.
+CLIMATE SCIENCE,11,Researchers tracked the seasonal movement of the [TARGET: monsoon].,monsoon,Researchers tracked the seasonal movement of the <mask>.
+CLIMATE SCIENCE,12,The drought reduced soil [TARGET: moisture] across the agricultural region.,moisture,The drought reduced soil <mask> across the agricultural region.
+CLIMATE SCIENCE,13,The ocean absorbs a substantial amount of human-produced [TARGET: carbon dioxide].,carbon dioxide,The ocean absorbs a substantial amount of human-produced <mask>.
+CLIMATE SCIENCE,14,Satellite measurements showed accelerated [TARGET: melting] across the ice sheet.,melting,Satellite measurements showed accelerated <mask> across the ice sheet.
+CLIMATE SCIENCE,15,The study examined how vegetation responds to increased atmospheric [TARGET: dryness].,dryness,The study examined how vegetation responds to increased atmospheric <mask>.
+CLIMATE SCIENCE,16,Scientists calculated the climate system’s [TARGET: sensitivity] to doubled carbon dioxide.,sensitivity,Scientists calculated the climate system’s <mask> to doubled carbon dioxide.
+CLIMATE SCIENCE,17,A volcanic [TARGET: eruption] temporarily affected global temperatures.,eruption,A volcanic <mask> temporarily affected global temperatures.
+CLIMATE SCIENCE,18,The researchers compared rainfall [TARGET: anomalies] across several decades.,anomalies,The researchers compared rainfall <mask> across several decades.
+CLIMATE SCIENCE,19,The forest restoration project increased regional carbon [TARGET: storage].,storage,The forest restoration project increased regional carbon <mask>.
+CLIMATE SCIENCE,20,Rising temperatures are altering the timing of seasonal [TARGET: flowering].,flowering,Rising temperatures are altering the timing of seasonal <mask>.
+CLIMATE SCIENCE,21,The report assessed the climate [TARGET: vulnerability] of low-lying islands.,vulnerability,The report assessed the climate <mask> of low-lying islands.
+CLIMATE SCIENCE,22,Warmer air can hold more atmospheric [TARGET: water**] than cooler air.,water,Warmer air can hold more atmospheric <mask> than cooler air.
+CLIMATE SCIENCE,23,The research vessel recorded increasing ocean [TARGET: acidity] near the coastline.,acidity,The research vessel recorded increasing ocean <mask> near the coastline.
+CLIMATE SCIENCE,24,The agricultural agency promoted drought-resistant [TARGET: crops].,crops,The agricultural agency promoted drought-resistant <mask>.
+CLIMATE SCIENCE,25,The analysis separated natural variability from human [TARGET: influence].,influence,The analysis separated natural variability from human <mask>.
+CLIMATE SCIENCE,26,Melting mountain glaciers contribute to downstream [TARGET: runoff].,runoff,Melting mountain glaciers contribute to downstream <mask>.
+CLIMATE SCIENCE,27,The project used direct-air [TARGET: capture] to remove carbon dioxide from the atmosphere.,capture,The project used direct-air <mask> to remove carbon dioxide from the atmosphere.
+CLIMATE SCIENCE,28,The scientists estimated the radiative [TARGET: forcing] associated with the aerosol layer.,forcing,The scientists estimated the radiative <mask> associated with the aerosol layer.
+CLIMATE SCIENCE,29,The city expanded its tree canopy to reduce the urban heat [TARGET: island] effect.,island,The city expanded its tree canopy to reduce the urban heat <mask> effect.
+CLIMATE SCIENCE,30,The researchers mapped permafrost [TARGET: thaw] across the northern plateau.,thaw,The researchers mapped permafrost <mask> across the northern plateau.
+CLIMATE SCIENCE,31,The climate assessment described several possible future [TARGET: scenarios].,scenarios,The climate assessment described several possible future <mask>.
+CLIMATE SCIENCE,32,The model simulated changes in the global [TARGET: watercycle] under warmer conditions.,watercycle,The model simulated changes in the global <mask> under warmer conditions.
+CLIMATE SCIENCE,33,The government introduced a carbon [TARGET: tax] for selected industrial activities.,tax,The government introduced a carbon <mask> for selected industrial activities.
+CLIMATE SCIENCE,34,The researchers examined the relationship between warming and wildfire [TARGET: risk].,risk,The researchers examined the relationship between warming and wildfire <mask>.
+CLIMATE SCIENCE,35,The ocean circulation transports heat across the [TARGET: Atlantic].,Atlantic,The ocean circulation transports heat across the <mask>.
+CLIMATE SCIENCE,36,The conservation plan protects species threatened by habitat [TARGET: fragmentation].,fragmentation,The conservation plan protects species threatened by habitat <mask>.
+CLIMATE SCIENCE,37,The scientists analyzed historical changes in snow [TARGET: cover].,cover,The scientists analyzed historical changes in snow <mask>.
+CLIMATE SCIENCE,38,The country announced a national [TARGET: decarbonization] strategy for heavy industry.,decarbonization,The country announced a national <mask> strategy for heavy industry.
+CLIMATE SCIENCE,39,The climate station recorded an unusually warm [TARGET: baseline] period.,baseline,The climate station recorded an unusually warm <mask> period.
+CLIMATE SCIENCE,40,The study compared the energy balance between urban and rural [TARGET: surfaces].,surfaces,The study compared the energy balance between urban and rural <mask>.
+CLIMATE SCIENCE,41,The river basin faces increasing seasonal [TARGET: scarcity] as precipitation patterns shift.,scarcity,The river basin faces increasing seasonal <mask> as precipitation patterns shift.
+CLIMATE SCIENCE,42,The researchers monitored changes in Antarctic [TARGET: icebergs] after the ice-shelf fracture.,icebergs,The researchers monitored changes in Antarctic <mask> after the ice-shelf fracture.
+CLIMATE SCIENCE,43,The restoration project rebuilt a natural [TARGET: mangrove] barrier along the coast.,mangrove,The restoration project rebuilt a natural <mask> barrier along the coast.
+CLIMATE SCIENCE,44,The emissions inventory included methane from agricultural [TARGET: livestock].,livestock,The emissions inventory included methane from agricultural <mask>.
+CLIMATE SCIENCE,45,The report evaluated the economic [TARGET: damages] associated with extreme weather.,damages,The report evaluated the economic <mask> associated with extreme weather.
+CLIMATE SCIENCE,46,The researchers used tree-ring [TARGET: chronologies] to study historical droughts.,chronologies,The researchers used tree-ring <mask> to study historical droughts.
+CLIMATE SCIENCE,47,The policy combines emissions reduction with ecosystem [TARGET: restoration].,restoration,The policy combines emissions reduction with ecosystem <mask>.
+CLIMATE SCIENCE,48,The observatory detected a change in atmospheric [TARGET: circulation] above the continent.,circulation,The observatory detected a change in atmospheric <mask> above the continent.
+CLIMATE SCIENCE,49,The coastal community installed a flood [TARGET: barrier] near the harbor.,barrier,The coastal community installed a flood <mask> near the harbor.
+CLIMATE SCIENCE,50,The assessment identified renewable [TARGET: electrification] as one pathway for reducing fossil-fuel use.,electrification,The assessment identified renewable <mask> as one pathway for reducing fossil-fuel use.
+CYBERSECURITY,1,The security team detected a suspicious [TARGET: login] from an unfamiliar country.,login,The security team detected a suspicious <mask> from an unfamiliar country.
+CYBERSECURITY,2,The company required multifactor [TARGET: authentication] for all administrator accounts.,authentication,The company required multifactor <mask> for all administrator accounts.
+CYBERSECURITY,3,The monitoring system identified unusual network [TARGET: traffic] overnight.,traffic,The monitoring system identified unusual network <mask> overnight.
+CYBERSECURITY,4,The analyst isolated the infected [TARGET: workstation] from the corporate network.,workstation,The analyst isolated the infected <mask> from the corporate network.
+CYBERSECURITY,5,The employee reported a convincing [TARGET: phishing] message to the help desk.,phishing,The employee reported a convincing <mask> message to the help desk.
+CYBERSECURITY,6,The attackers encrypted the organization’s files with [TARGET: ransomware].,ransomware,The attackers encrypted the organization’s files with <mask>.
+CYBERSECURITY,7,The application team patched a critical software [TARGET: vulnerability].,vulnerability,The application team patched a critical software <mask>.
+CYBERSECURITY,8,The administrator rotated the compromised access [TARGET: credentials].,credentials,The administrator rotated the compromised access <mask>.
+CYBERSECURITY,9,The company stored sensitive records using strong [TARGET: encryption].,encryption,The company stored sensitive records using strong <mask>.
+CYBERSECURITY,10,The incident-response team preserved the relevant system [TARGET: logs].,logs,The incident-response team preserved the relevant system <mask>.
+CYBERSECURITY,11,The security auditor discovered an exposed database [TARGET: endpoint].,endpoint,The security auditor discovered an exposed database <mask>.
+CYBERSECURITY,12,The organization performed a quarterly access [TARGET: review].,review,The organization performed a quarterly access <mask>.
+CYBERSECURITY,13,The firewall blocked an unauthorized [TARGET: connection] from the public internet.,connection,The firewall blocked an unauthorized <mask> from the public internet.
+CYBERSECURITY,14,The developer removed a dangerous command [TARGET: injection] from the test application.,injection,The developer removed a dangerous command <mask> from the test application.
+CYBERSECURITY,15,The company created an offline [TARGET: backup] of its essential records.,backup,The company created an offline <mask> of its essential records.
+CYBERSECURITY,16,The security officer classified the event as a data [TARGET: breach].,breach,The security officer classified the event as a data <mask>.
+CYBERSECURITY,17,The network uses a segmented [TARGET: architecture] to limit lateral movement.,architecture,The network uses a segmented <mask> to limit lateral movement.
+CYBERSECURITY,18,The organization conducted a simulated [TARGET: exercise] for its incident-response plan.,exercise,The organization conducted a simulated <mask> for its incident-response plan.
+CYBERSECURITY,19,The analyst compared the file’s digital [TARGET: signature] with a trusted version.,signature,The analyst compared the file’s digital <mask> with a trusted version.
+CYBERSECURITY,20,The security gateway filtered malicious email [TARGET: attachments].,attachments,The security gateway filtered malicious email <mask>.
+CYBERSECURITY,21,The company adopted a [TARGET: zero-trust] approach to internal access.,zero-trust,The company adopted a <mask> approach to internal access.
+CYBERSECURITY,22,The engineer installed a certificate for secure [TARGET: communication].,communication,The engineer installed a certificate for secure <mask>.
+CYBERSECURITY,23,The audit found excessive user [TARGET: privileges] on several servers.,privileges,The audit found excessive user <mask> on several servers.
+CYBERSECURITY,24,The security team investigated a possible insider [TARGET: threat].,threat,The security team investigated a possible insider <mask>.
+CYBERSECURITY,25,The application rejected malformed user [TARGET: input].,input,The application rejected malformed user <mask>.
+CYBERSECURITY,26,The company used token [TARGET:ization] to reduce exposure of payment data.,ization,The company used token <mask> to reduce exposure of payment data.
+CYBERSECURITY,27,The administrator applied the latest security [TARGET: patch] to the server.,patch,The administrator applied the latest security <mask> to the server.
+CYBERSECURITY,28,The forensic team reconstructed the attacker’s [TARGET: timeline].,timeline,The forensic team reconstructed the attacker’s <mask>.
+CYBERSECURITY,29,The organization restricted access through a network [TARGET: gateway].,gateway,The organization restricted access through a network <mask>.
+CYBERSECURITY,30,The company established a formal incident [TARGET: response] procedure.,response,The company established a formal incident <mask> procedure.
+CYBERSECURITY,31,The malware attempted to establish persistence through a scheduled [TARGET: task].,task,The malware attempted to establish persistence through a scheduled <mask>.
+CYBERSECURITY,32,The security platform generated an alert for suspicious [TARGET: behavior].,behavior,The security platform generated an alert for suspicious <mask>.
+CYBERSECURITY,33,The organization encrypted the secret [TARGET: key**] before storing it.,key,The organization encrypted the secret <mask> before storing it.
+CYBERSECURITY,34,The analyst verified the software package’s [TARGET: checksum].,checksum,The analyst verified the software package’s <mask>.
+CYBERSECURITY,35,The company required annual security [TARGET: training] for every employee.,training,The company required annual security <mask> for every employee.
+CYBERSECURITY,36,The monitoring service detected an unusual [TARGET: query] against the customer database.,query,The monitoring service detected an unusual <mask> against the customer database.
+CYBERSECURITY,37,The security team revoked the former contractor’s [TARGET: access].,access,The security team revoked the former contractor’s <mask>.
+CYBERSECURITY,38,The application used output [TARGET: encoding] to reduce script-injection risk.,encoding,The application used output <mask> to reduce script-injection risk.
+CYBERSECURITY,39,The company tested its disaster-recovery [TARGET: procedure] twice a year.,procedure,The company tested its disaster-recovery <mask> twice a year.
+CYBERSECURITY,40,The investigator identified the malware’s command-and-control [TARGET: server].,server,The investigator identified the malware’s command-and-control <mask>.
+CYBERSECURITY,41,The security policy prohibits the reuse of account [TARGET: passwords].,passwords,The security policy prohibits the reuse of account <mask>.
+CYBERSECURITY,42,The organization deployed endpoint [TARGET: detection] software across its offices.,detection,The organization deployed endpoint <mask> software across its offices.
+CYBERSECURITY,43,The audit examined the vendor’s supply-chain [TARGET: controls].,controls,The audit examined the vendor’s supply-chain <mask>.
+CYBERSECURITY,44,The system required a biometric [TARGET: factor] in addition to a password.,factor,The system required a biometric <mask> in addition to a password.
+CYBERSECURITY,45,The analyst placed the suspicious file in a secure [TARGET: sandbox].,sandbox,The analyst placed the suspicious file in a secure <mask>.
+CYBERSECURITY,46,The organization classified customer information as restricted [TARGET: data].,data,The organization classified customer information as restricted <mask>.
+CYBERSECURITY,47,The security team searched the network for malicious [TARGET: indicators].,indicators,The security team searched the network for malicious <mask>.
+CYBERSECURITY,48,The company reviewed its cloud [TARGET: configuration] after the exposure was reported.,configuration,The company reviewed its cloud <mask> after the exposure was reported.
+CYBERSECURITY,49,The response team notified the affected users about the security [TARGET: incident].,incident,The response team notified the affected users about the security <mask>.
+CYBERSECURITY,50,The organization applied the principle of least [TARGET: privilege] to service accounts.,privilege,The organization applied the principle of least <mask> to service accounts.
+EDUCATION,1,The teacher designed a science [TARGET: lesson] about renewable energy.,lesson,The teacher designed a science <mask> about renewable energy.
+EDUCATION,2,The school revised its mathematics [TARGET: curriculum] for younger learners.,curriculum,The school revised its mathematics <mask> for younger learners.
+EDUCATION,3,The students completed a reading [TARGET: assessment] at the end of the term.,assessment,The students completed a reading <mask> at the end of the term.
+EDUCATION,4,The tutor encouraged independent [TARGET: learning] through weekly projects.,learning,The tutor encouraged independent <mask> through weekly projects.
+EDUCATION,5,The instructor wrote a clear [TARGET: objective] on the classroom board.,objective,The instructor wrote a clear <mask> on the classroom board.
+EDUCATION,6,The university awarded Maria a research [TARGET: scholarship].,scholarship,The university awarded Maria a research <mask>.
+EDUCATION,7,The principal announced a new student [TARGET: attendance] policy.,attendance,The principal announced a new student <mask> policy.
+EDUCATION,8,The children practiced their [TARGET: vocabulary] using picture cards.,vocabulary,The children practiced their <mask> using picture cards.
+EDUCATION,9,The lecturer divided the class into small [TARGET: groups] for discussion.,groups,The lecturer divided the class into small <mask> for discussion.
+EDUCATION,10,The laboratory course emphasized careful scientific [TARGET: observation].,observation,The laboratory course emphasized careful scientific <mask>.
+EDUCATION,11,The teacher provided written [TARGET: feedback] on each student’s essay.,feedback,The teacher provided written <mask> on each student’s essay.
+EDUCATION,12,The school built a digital [TARGET: library] for remote learners.,library,The school built a digital <mask> for remote learners.
+EDUCATION,13,The professor used a historical [TARGET: example] to explain the theory.,example,The professor used a historical <mask> to explain the theory.
+EDUCATION,14,The students submitted their final [TARGET: assignments] before the deadline.,assignments,The students submitted their final <mask> before the deadline.
+EDUCATION,15,The training program developed practical workplace [TARGET: skills].,skills,The training program developed practical workplace <mask>.
+EDUCATION,16,The teacher adapted the activity for a student with a visual [TARGET: impairment].,impairment,The teacher adapted the activity for a student with a visual <mask>.
+EDUCATION,17,The examination measured students’ conceptual [TARGET: understanding].,understanding,The examination measured students’ conceptual <mask>.
+EDUCATION,18,The school introduced a peer [TARGET: mentoring] program for new pupils.,mentoring,The school introduced a peer <mask> program for new pupils.
+EDUCATION,19,The instructor demonstrated the experiment before requesting student [TARGET: participation].,participation,The instructor demonstrated the experiment before requesting student <mask>.
+EDUCATION,20,The child improved her reading [TARGET: fluency] during the summer program.,fluency,The child improved her reading <mask> during the summer program.
+EDUCATION,21,The college expanded its online [TARGET: platform] for part-time students.,platform,The college expanded its online <mask> for part-time students.
+EDUCATION,22,The teacher used a rubric to grade the students’ oral [TARGET: presentations].,presentations,The teacher used a rubric to grade the students’ oral <mask>.
+EDUCATION,23,The district funded a new early-childhood [TARGET: initiative].,initiative,The district funded a new early-childhood <mask>.
+EDUCATION,24,The instructor encouraged students to question the source’s [TARGET: reliability].,reliability,The instructor encouraged students to question the source’s <mask>.
+EDUCATION,25,The class used a map to study regional [TARGET: geography].,geography,The class used a map to study regional <mask>.
+EDUCATION,26,The school counselor helped the student choose a suitable career [TARGET: pathway].,pathway,The school counselor helped the student choose a suitable career <mask>.
+EDUCATION,27,The teacher organized a debate about digital [TARGET: citizenship].,citizenship,The teacher organized a debate about digital <mask>.
+EDUCATION,28,The course included an introductory [TARGET: module] on academic writing.,module,The course included an introductory <mask> on academic writing.
+EDUCATION,29,The students collaborated on a community [TARGET: project].,project,The students collaborated on a community <mask>.
+EDUCATION,30,The school provided translated [TARGET: materials] for families who spoke other languages.,materials,The school provided translated <mask> for families who spoke other languages.
+EDUCATION,31,The professor compared two competing [TARGET: hypotheses] during the seminar.,hypotheses,The professor compared two competing <mask> during the seminar.
+EDUCATION,32,The teacher used formative [TARGET: questioning] to check understanding during the lesson.,questioning,The teacher used formative <mask> to check understanding during the lesson.
+EDUCATION,33,The university opened a quiet [TARGET: laboratory] for postgraduate research.,laboratory,The university opened a quiet <mask> for postgraduate research.
+EDUCATION,34,The students created a visual [TARGET: presentation] about local biodiversity.,presentation,The students created a visual <mask> about local biodiversity.
+EDUCATION,35,The school improved classroom [TARGET: accessibility] by installing ramps and lifts.,accessibility,The school improved classroom <mask> by installing ramps and lifts.
+EDUCATION,36,The teacher praised the student’s original [TARGET: reasoning].,reasoning,The teacher praised the student’s original <mask>.
+EDUCATION,37,The curriculum includes financial [TARGET: literacy] for secondary students.,literacy,The curriculum includes financial <mask> for secondary students.
+EDUCATION,38,The instructor assigned a reflective [TARGET: journal] after the field trip.,journal,The instructor assigned a reflective <mask> after the field trip.
+EDUCATION,39,The school introduced a breakfast [TARGET: program] for children from low-income households.,program,The school introduced a breakfast <mask> for children from low-income households.
+EDUCATION,40,The teacher rearranged the classroom [TARGET: seating] to support group work.,seating,The teacher rearranged the classroom <mask> to support group work.
+EDUCATION,41,The examination board published the official marking [TARGET: criteria].,criteria,The examination board published the official marking <mask>.
+EDUCATION,42,The student used a citation [TARGET: manager] while preparing the research paper.,manager,The student used a citation <mask> while preparing the research paper.
+EDUCATION,43,The college offered evening [TARGET: workshops] for adult learners.,workshops,The college offered evening <mask> for adult learners.
+EDUCATION,44,The education department measured school [TARGET: retention] across rural districts.,retention,The education department measured school <mask> across rural districts.
+EDUCATION,45,The teacher encouraged the pupils to develop [TARGET: creativity] through storytelling.,creativity,The teacher encouraged the pupils to develop <mask> through storytelling.
+EDUCATION,46,The professor explained how to distinguish correlation from [TARGET: causation].,causation,The professor explained how to distinguish correlation from <mask>.
+EDUCATION,47,The school established a confidential student [TARGET: counseling] service.,counseling,The school established a confidential student <mask> service.
+EDUCATION,48,The instructor assessed the students’ practical [TARGET: competence] in the workshop.,competence,The instructor assessed the students’ practical <mask> in the workshop.
+EDUCATION,49,The district compared educational [TARGET: outcomes] before and after the reform.,outcomes,The district compared educational <mask> before and after the reform.
+EDUCATION,50,The school created an inclusive [TARGET: environment] for learners from different backgrounds.,environment,The school created an inclusive <mask> for learners from different backgrounds.
+BIOLOGY,1,The researcher extracted [TARGET: DNA] from the preserved tissue sample.,DNA,The researcher extracted <mask> from the preserved tissue sample.
+BIOLOGY,2,A mutation altered the sequence of a regulatory [TARGET: gene].,gene,A mutation altered the sequence of a regulatory <mask>.
+BIOLOGY,3,The cell’s [TARGET: nucleus] contains most of its genetic material.,nucleus,The cell’s <mask> contains most of its genetic material.
+BIOLOGY,4,The microscope revealed several elongated [TARGET: mitochondria] inside the muscle cell.,mitochondria,The microscope revealed several elongated <mask> inside the muscle cell.
+BIOLOGY,5,The experiment measured the production of a specific [TARGET: protein].,protein,The experiment measured the production of a specific <mask>.
+BIOLOGY,6,The biologist compared two [TARGET: alleles] associated with flower color.,alleles,The biologist compared two <mask> associated with flower color.
+BIOLOGY,7,The laboratory sequenced the organism’s complete [TARGET: genome].,genome,The laboratory sequenced the organism’s complete <mask>.
+BIOLOGY,8,The cell membrane controls the movement of substances into the [TARGET: cytoplasm].,cytoplasm,The cell membrane controls the movement of substances into the <mask>.
+BIOLOGY,9,The developing embryo underwent rapid cell [TARGET: division].,division,The developing embryo underwent rapid cell <mask>.
+BIOLOGY,10,The scientist observed bacterial [TARGET: colonies] growing on the culture plate.,colonies,The scientist observed bacterial <mask> growing on the culture plate.
+BIOLOGY,11,The enzyme accelerated a chemical [TARGET: reaction] inside the test tube.,reaction,The enzyme accelerated a chemical <mask> inside the test tube.
+BIOLOGY,12,The ecologist recorded a decline in amphibian [TARGET: diversity] near the reservoir.,diversity,The ecologist recorded a decline in amphibian <mask> near the reservoir.
+BIOLOGY,13,The plant transported water through specialized [TARGET: vessels].,vessels,The plant transported water through specialized <mask>.
+BIOLOGY,14,The bird’s beak is an example of an evolutionary [TARGET: adaptation].,adaptation,The bird’s beak is an example of an evolutionary <mask>.
+BIOLOGY,15,The researchers tracked the fish [TARGET: population] during the breeding season.,population,The researchers tracked the fish <mask> during the breeding season.
+BIOLOGY,16,The cell produced energy through aerobic [TARGET: respiration].,respiration,The cell produced energy through aerobic <mask>.
+BIOLOGY,17,The biologist identified a new [TARGET: species] in the isolated valley.,species,The biologist identified a new <mask> in the isolated valley.
+BIOLOGY,18,The microscope showed a dense layer of [TARGET: chloroplasts] in the leaf cells.,chloroplasts,The microscope showed a dense layer of <mask> in the leaf cells.
+BIOLOGY,19,The researchers measured gene [TARGET: expression] under different temperatures.,expression,The researchers measured gene <mask> under different temperatures.
+BIOLOGY,20,The parasite depends on a host [TARGET: organism] for part of its life cycle.,organism,The parasite depends on a host <mask> for part of its life cycle.
+BIOLOGY,21,The animal’s inherited [TARGET: traits] varied between the two groups.,traits,The animal’s inherited <mask> varied between the two groups.
+BIOLOGY,22,The immune system produced antibodies against the foreign [TARGET: antigen].,antigen,The immune system produced antibodies against the foreign <mask>.
+BIOLOGY,23,The field study documented a complex predator–prey [TARGET: relationship].,relationship,The field study documented a complex predator–prey <mask>.
+BIOLOGY,24,The researchers used a fluorescent [TARGET: marker] to locate the protein.,marker,The researchers used a fluorescent <mask> to locate the protein.
+BIOLOGY,25,The plant’s roots formed a symbiotic [TARGET: association] with soil fungi.,association,The plant’s roots formed a symbiotic <mask> with soil fungi.
+BIOLOGY,26,The biologist examined the insect’s external [TARGET: morphology].,morphology,The biologist examined the insect’s external <mask>.
+BIOLOGY,27,The fossil provided evidence of gradual evolutionary [TARGET: change].,change,The fossil provided evidence of gradual evolutionary <mask>.
+BIOLOGY,28,The laboratory isolated a strain of antibiotic-resistant [TARGET: bacteria].,bacteria,The laboratory isolated a strain of antibiotic-resistant <mask>.
+BIOLOGY,29,The newborn animal relied on maternal [TARGET: antibodies] during its first weeks.,antibodies,The newborn animal relied on maternal <mask> during its first weeks.
+BIOLOGY,30,The scientist compared the genetic [TARGET: sequences] of three primate species.,sequences,The scientist compared the genetic <mask> of three primate species.
+BIOLOGY,31,The cell uses messenger [TARGET: RNA] to carry information from DNA.,RNA,The cell uses messenger <mask> to carry information from DNA.
+BIOLOGY,32,The researchers measured the rate of photosynthetic [TARGET: activity] in the leaves.,activity,The researchers measured the rate of photosynthetic <mask> in the leaves.
+BIOLOGY,33,The ecosystem lost an important [TARGET: predator] after years of habitat destruction.,predator,The ecosystem lost an important <mask> after years of habitat destruction.
+BIOLOGY,34,The genetic analysis revealed a rare [TARGET: mutation] in the population.,mutation,The genetic analysis revealed a rare <mask> in the population.
+BIOLOGY,35,The tissue sample contained several immature [TARGET: stem] cells.,stem,The tissue sample contained several immature <mask> cells.
+BIOLOGY,36,The marine survey recorded extensive [TARGET: plankton] growth near the surface.,plankton,The marine survey recorded extensive <mask> growth near the surface.
+BIOLOGY,37,The scientist measured the organism’s metabolic [TARGET: rate] at different temperatures.,rate,The scientist measured the organism’s metabolic <mask> at different temperatures.
+BIOLOGY,38,The frog’s skin helps regulate the movement of [TARGET: ions].,ions,The frog’s skin helps regulate the movement of <mask>.
+BIOLOGY,39,The researchers observed a protective bacterial [TARGET: biofilm] on the submerged rock.,biofilm,The researchers observed a protective bacterial <mask> on the submerged rock.
+BIOLOGY,40,The cell’s outer [TARGET: membrane] separates its internal contents from the surroundings.,membrane,The cell’s outer <mask> separates its internal contents from the surroundings.
+BIOLOGY,41,The experiment examined how light affects seed [TARGET: germination].,germination,The experiment examined how light affects seed <mask>.
+BIOLOGY,42,The geneticist used a molecular [TARGET: assay] to detect the variant.,assay,The geneticist used a molecular <mask> to detect the variant.
+BIOLOGY,43,The coral reef supports a rich marine [TARGET: community].,community,The coral reef supports a rich marine <mask>.
+BIOLOGY,44,The researchers compared the animal’s behavior before and after [TARGET: hibernation].,hibernation,The researchers compared the animal’s behavior before and after <mask>.
+BIOLOGY,45,The scientist recorded the larva’s transformation during [TARGET: metamorphosis].,metamorphosis,The scientist recorded the larva’s transformation during <mask>.
+BIOLOGY,46,The lab cultured the virus in a suitable host [TARGET: cell].,cell,The lab cultured the virus in a suitable host <mask>.
+BIOLOGY,47,The ecologist calculated the forest’s annual carbon [TARGET: productivity].,productivity,The ecologist calculated the forest’s annual carbon <mask>.
+BIOLOGY,48,The researcher analyzed the chromosome’s structural [TARGET: rearrangement].,rearrangement,The researcher analyzed the chromosome’s structural <mask>.
+BIOLOGY,49,The population showed substantial genetic [TARGET: variation] across the sampling sites.,variation,The population showed substantial genetic <mask> across the sampling sites.
+BIOLOGY,50,The study investigated how environmental [TARGET: stressors] affect reproductive success.,stressors,The study investigated how environmental <mask> affect reproductive success.
+TECHNOLOGY,1,The software team released a new [TARGET: version] of the mobile application.,version,The software team released a new <mask> of the mobile application.
+TECHNOLOGY,2,The server processed each database [TARGET: request] within a few milliseconds.,request,The server processed each database <mask> within a few milliseconds.
+TECHNOLOGY,3,The engineer designed a scalable cloud [TARGET: architecture] for the platform.,architecture,The engineer designed a scalable cloud <mask> for the platform.
+TECHNOLOGY,4,The smartphone uses a high-resolution [TARGET: display].,display,The smartphone uses a high-resolution <mask>.
+TECHNOLOGY,5,The application stores customer records in a relational [TARGET: database].,database,The application stores customer records in a relational <mask>.
+TECHNOLOGY,6,The developer published the project’s source [TARGET: repository].,repository,The developer published the project’s source <mask>.
+TECHNOLOGY,7,The robot used a camera [TARGET: sensor] to identify obstacles.,sensor,The robot used a camera <mask> to identify obstacles.
+TECHNOLOGY,8,The data scientist trained a classification [TARGET: model] on labeled examples.,model,The data scientist trained a classification <mask> on labeled examples.
+TECHNOLOGY,9,The operating system scheduled the background [TARGET: process] automatically.,process,The operating system scheduled the background <mask> automatically.
+TECHNOLOGY,10,The website returned an error because the application programming [TARGET: interface] was unavailable.,interface,The website returned an error because the application programming <mask> was unavailable.
+TECHNOLOGY,11,The network transmitted the files through an encrypted [TARGET: channel].,channel,The network transmitted the files through an encrypted <mask>.
+TECHNOLOGY,12,The company migrated its workloads to a public [TARGET: cloud].,cloud,The company migrated its workloads to a public <mask>.
+TECHNOLOGY,13,The processor executed the instruction using a dedicated [TARGET: circuit].,circuit,The processor executed the instruction using a dedicated <mask>.
+TECHNOLOGY,14,The analyst visualized the sales figures on an interactive [TARGET: dashboard].,dashboard,The analyst visualized the sales figures on an interactive <mask>.
+TECHNOLOGY,15,The engineer reduced latency by moving computation to the network [TARGET: edge].,edge,The engineer reduced latency by moving computation to the network <mask>.
+TECHNOLOGY,16,The application generated a unique session [TARGET: identifier] for each visitor.,identifier,The application generated a unique session <mask> for each visitor.
+TECHNOLOGY,17,The team used container [TARGET: orchestration] to manage the deployed services.,orchestration,The team used container <mask> to manage the deployed services.
+TECHNOLOGY,18,The researcher evaluated the algorithm’s prediction [TARGET: accuracy].,accuracy,The researcher evaluated the algorithm’s prediction <mask>.
+TECHNOLOGY,19,The device communicates with the router through a wireless [TARGET: protocol].,protocol,The device communicates with the router through a wireless <mask>.
+TECHNOLOGY,20,The company installed additional storage [TARGET: capacity] for its media archive.,capacity,The company installed additional storage <mask> for its media archive.
+TECHNOLOGY,21,The system automatically compressed the uploaded [TARGET: files].,files,The system automatically compressed the uploaded <mask>.
+TECHNOLOGY,22,The application’s user [TARGET: interface] was redesigned for smaller screens.,interface,The application’s user <mask> was redesigned for smaller screens.
+TECHNOLOGY,23,The machine-learning pipeline removed duplicate [TARGET: records] before training.,records,The machine-learning pipeline removed duplicate <mask> before training.
+TECHNOLOGY,24,The engineer configured a virtual [TARGET: machine] for testing legacy software.,machine,The engineer configured a virtual <mask> for testing legacy software.
+TECHNOLOGY,25,The service automatically scaled its computing [TARGET: resources] during peak demand.,resources,The service automatically scaled its computing <mask> during peak demand.
+TECHNOLOGY,26,The researcher compared several neural network [TARGET: architectures].,architectures,The researcher compared several neural network <mask>.
+TECHNOLOGY,27,The application used a background [TARGET: queue] to process large uploads.,queue,The application used a background <mask> to process large uploads.
+TECHNOLOGY,28,The software generated a detailed diagnostic [TARGET: report] after the failure.,report,The software generated a detailed diagnostic <mask> after the failure.
+TECHNOLOGY,29,The technician replaced the damaged [TARGET: battery] in the portable device.,battery,The technician replaced the damaged <mask> in the portable device.
+TECHNOLOGY,30,The company adopted a distributed [TARGET: ledger] for tracking transactions.,ledger,The company adopted a distributed <mask> for tracking transactions.
+TECHNOLOGY,31,The operating system installed a security [TARGET: update] overnight.,update,The operating system installed a security <mask> overnight.
+TECHNOLOGY,32,The data center relies on redundant power [TARGET: supplies].,supplies,The data center relies on redundant power <mask>.
+TECHNOLOGY,33,The artificial-intelligence system generated a natural-language [TARGET: summary].,summary,The artificial-intelligence system generated a natural-language <mask>.
+TECHNOLOGY,34,The engineer measured the network’s maximum data [TARGET: throughput].,throughput,The engineer measured the network’s maximum data <mask>.
+TECHNOLOGY,35,The application converted the image into a compressed [TARGET: format].,format,The application converted the image into a compressed <mask>.
+TECHNOLOGY,36,The developer added an automated testing [TARGET: framework] to the project.,framework,The developer added an automated testing <mask> to the project.
+TECHNOLOGY,37,The wearable device recorded the user’s daily activity [TARGET: patterns].,patterns,The wearable device recorded the user’s daily activity <mask>.
+TECHNOLOGY,38,The search engine ranked documents according to their textual [TARGET: relevance].,relevance,The search engine ranked documents according to their textual <mask>.
+TECHNOLOGY,39,The laboratory built a digital [TARGET: twin] of the manufacturing line.,twin,The laboratory built a digital <mask> of the manufacturing line.
+TECHNOLOGY,40,The system used a message [TARGET: broker] to connect independent services.,broker,The system used a message <mask> to connect independent services.
+TECHNOLOGY,41,The developer corrected a memory [TARGET: leak] in the desktop program.,leak,The developer corrected a memory <mask> in the desktop program.
+TECHNOLOGY,42,The platform supports real-time data [TARGET: streaming] from remote sensors.,streaming,The platform supports real-time data <mask> from remote sensors.
+TECHNOLOGY,43,The engineer selected a low-power [TARGET: chipset] for the embedded device.,chipset,The engineer selected a low-power <mask> for the embedded device.
+TECHNOLOGY,44,The program used a recursive [TARGET: algorithm] to search the graph.,algorithm,The program used a recursive <mask> to search the graph.
+TECHNOLOGY,45,The company published a software development [TARGET: roadmap] for the next two years.,roadmap,The company published a software development <mask> for the next two years.
+TECHNOLOGY,46,The network assigned each connected device an Internet [TARGET: address].,address,The network assigned each connected device an Internet <mask>.
+TECHNOLOGY,47,The artificial-intelligence model produced a confidence [TARGET: score] for each classification.,score,The artificial-intelligence model produced a confidence <mask> for each classification.
+TECHNOLOGY,48,The platform used metadata to improve document [TARGET: retrieval].,retrieval,The platform used metadata to improve document <mask>.
+TECHNOLOGY,49,The engineer tested the application’s cross-platform [TARGET: compatibility].,compatibility,The engineer tested the application’s cross-platform <mask>.
+TECHNOLOGY,50,The company adopted an open-source [TARGET: license] for the new library.,license,The company adopted an open-source <mask> for the new library.
+GEOGRAPHY,1,The mountain [TARGET: range] separates the two neighboring regions.,range,The mountain <mask> separates the two neighboring regions.
+GEOGRAPHY,2,The river deposited fertile sediment across its [TARGET: delta].,delta,The river deposited fertile sediment across its <mask>.
+GEOGRAPHY,3,The village lies on a broad [TARGET: plateau] above the valley floor.,plateau,The village lies on a broad <mask> above the valley floor.
+GEOGRAPHY,4,The map displays the country’s northern [TARGET: boundary].,boundary,The map displays the country’s northern <mask>.
+GEOGRAPHY,5,Heavy rainfall caused the river [TARGET: basin] to overflow.,basin,Heavy rainfall caused the river <mask> to overflow.
+GEOGRAPHY,6,The island is connected to the mainland by a narrow [TARGET: isthmus].,isthmus,The island is connected to the mainland by a narrow <mask>.
+GEOGRAPHY,7,The expedition crossed a dry [TARGET: desert] before reaching the coast.,desert,The expedition crossed a dry <mask> before reaching the coast.
+GEOGRAPHY,8,The city expanded along a densely populated [TARGET: coastline].,coastline,The city expanded along a densely populated <mask>.
+GEOGRAPHY,9,The survey measured the land’s average [TARGET: elevation].,elevation,The survey measured the land’s average <mask>.
+GEOGRAPHY,10,The map uses a different color for each vegetation [TARGET: zone].,zone,The map uses a different color for each vegetation <mask>.
+GEOGRAPHY,11,The glacier carved a deep [TARGET: valley] through the mountain range.,valley,The glacier carved a deep <mask> through the mountain range.
+GEOGRAPHY,12,The fishermen settled beside a sheltered [TARGET: harbor].,harbor,The fishermen settled beside a sheltered <mask>.
+GEOGRAPHY,13,The [TARGET: equator] divides Earth into northern and southern halves.,equator,The <mask> divides Earth into northern and southern halves.
+GEOGRAPHY,14,The region experiences a humid [TARGET: tropical] climate throughout the year.,tropical,The region experiences a humid <mask> climate throughout the year.
+GEOGRAPHY,15,The cartographer calculated the distance using the map’s [TARGET: scale].,scale,The cartographer calculated the distance using the map’s <mask>.
+GEOGRAPHY,16,The coastal [TARGET: plain] supports intensive agriculture.,plain,The coastal <mask> supports intensive agriculture.
+GEOGRAPHY,17,The researchers studied erosion along the river [TARGET: channel].,channel,The researchers studied erosion along the river <mask>.
+GEOGRAPHY,18,The urban [TARGET: corridor] connects the capital with several industrial towns.,corridor,The urban <mask> connects the capital with several industrial towns.
+GEOGRAPHY,19,The region’s [TARGET: population] is concentrated near reliable water sources.,population,The region’s <mask> is concentrated near reliable water sources.
+GEOGRAPHY,20,The satellite captured a detailed image of the volcanic [TARGET: crater].,crater,The satellite captured a detailed image of the volcanic <mask>.
+GEOGRAPHY,21,The archaeologists discovered settlements near an ancient [TARGET: oasis].,oasis,The archaeologists discovered settlements near an ancient <mask>.
+GEOGRAPHY,22,The island chain forms a large [TARGET: archipelago] in the western ocean.,archipelago,The island chain forms a large <mask> in the western ocean.
+GEOGRAPHY,23,The country’s interior is dominated by a high [TARGET: steppe].,steppe,The country’s interior is dominated by a high <mask>.
+GEOGRAPHY,24,The map identifies each city by a separate [TARGET: symbol].,symbol,The map identifies each city by a separate <mask>.
+GEOGRAPHY,25,The river passes through a narrow rocky [TARGET: gorge].,gorge,The river passes through a narrow rocky <mask>.
+GEOGRAPHY,26,The study compared rainfall patterns across several [TARGET: latitudes].,latitudes,The study compared rainfall patterns across several <mask>.
+GEOGRAPHY,27,The village was built on the lower [TARGET: slope] of the volcano.,slope,The village was built on the lower <mask> of the volcano.
+GEOGRAPHY,28,The survey identified a seasonal [TARGET: wetland] near the floodplain.,wetland,The survey identified a seasonal <mask> near the floodplain.
+GEOGRAPHY,29,The coastal road follows the edge of a rocky [TARGET: peninsula].,peninsula,The coastal road follows the edge of a rocky <mask>.
+GEOGRAPHY,30,The population relies on a shared underground [TARGET: aquifer].,aquifer,The population relies on a shared underground <mask>.
+GEOGRAPHY,31,The city’s rapid [TARGET: urbanization] replaced farmland with housing.,urbanization,The city’s rapid <mask> replaced farmland with housing.
+GEOGRAPHY,32,The region contains a mosaic of forest [TARGET: biomes].,biomes,The region contains a mosaic of forest <mask>.
+GEOGRAPHY,33,The geographer compared the settlement’s distance from the nearest [TARGET: river].,river,The geographer compared the settlement’s distance from the nearest <mask>.
+GEOGRAPHY,34,The earthquake shifted the local [TARGET: fault] line.,fault,The earthquake shifted the local <mask> line.
+GEOGRAPHY,35,The map projected the curved Earth onto a flat [TARGET: surface].,surface,The map projected the curved Earth onto a flat <mask>.
+GEOGRAPHY,36,The northern [TARGET: hemisphere] contains most of the world’s land area.,hemisphere,The northern <mask> contains most of the world’s land area.
+GEOGRAPHY,37,The port became an important commercial [TARGET: hub].,hub,The port became an important commercial <mask>.
+GEOGRAPHY,38,The researchers measured sediment [TARGET: deposition] along the riverbank.,deposition,The researchers measured sediment <mask> along the riverbank.
+GEOGRAPHY,39,The village is located near the mountain [TARGET: foothills].,foothills,The village is located near the mountain <mask>.
+GEOGRAPHY,40,The ocean current transports warm [TARGET: water] toward the northern coast.,water,The ocean current transports warm <mask> toward the northern coast.
+GEOGRAPHY,41,The regional economy depends heavily on [TARGET: agriculture].,agriculture,The regional economy depends heavily on <mask>.
+GEOGRAPHY,42,The map shows the location of the main transport [TARGET: routes].,routes,The map shows the location of the main transport <mask>.
+GEOGRAPHY,43,The researchers used satellite [TARGET: imagery] to monitor land-cover change.,imagery,The researchers used satellite <mask> to monitor land-cover change.
+GEOGRAPHY,44,The remote community is accessible only by a narrow mountain [TARGET: pass].,pass,The remote community is accessible only by a narrow mountain <mask>.
+GEOGRAPHY,45,The coastline contains several protected [TARGET: lagoons].,lagoons,The coastline contains several protected <mask>.
+GEOGRAPHY,46,The region’s steep terrain increases the risk of landslide [TARGET: hazards].,hazards,The region’s steep terrain increases the risk of landslide <mask>.
+GEOGRAPHY,47,The geographer analyzed the distribution of households across the [TARGET: district].,district,The geographer analyzed the distribution of households across the <mask>.
+GEOGRAPHY,48,The river rises in a snow-covered [TARGET: watershed].,watershed,The river rises in a snow-covered <mask>.
+GEOGRAPHY,49,The city’s central [TARGET: landmark] attracts visitors throughout the year.,landmark,The city’s central <mask> attracts visitors throughout the year.
+GEOGRAPHY,50,The researchers compared soil [TARGET: fertility] across the agricultural plain.,fertility,The researchers compared soil <mask> across the agricultural plain.

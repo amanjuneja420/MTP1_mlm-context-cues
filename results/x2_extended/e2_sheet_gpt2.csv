@@ -1,0 +1,501 @@
+domain,idx,target,pool_size,pool_rank,pool_top1,left_only_rank,left_only_top1
+GENERAL ENGLISH,1,umbrella,19,18,purse,2772,job
+GENERAL ENGLISH,2,loaf,24,3,bread,6,bread
+GENERAL ENGLISH,3,spectacles,23,23,phone,1006,phone
+GENERAL ENGLISH,4,drizzle,20,14,calm,1762,surge
+GENERAL ENGLISH,5,notebook,23,2,camera,21,collection
+GENERAL ENGLISH,6,shelter,22,4,tree,20,house
+GENERAL ENGLISH,7,basil,20,14,vegetables,83,vegetables
+GENERAL ENGLISH,8,pulley,28,28,thread,3827,end
+GENERAL ENGLISH,9,laundry,20,12,sheet,73,sheet
+GENERAL ENGLISH,10,clicking,16,5,humming,26,sound
+GENERAL ENGLISH,11,bowl,14,1,bowl,1,bowl
+GENERAL ENGLISH,12,trolley,15,13,shelf,47,shelf
+GENERAL ENGLISH,13,alleyway,14,9,alley,60,path
+GENERAL ENGLISH,14,greeting,17,15,smile,148,smile
+GENERAL ENGLISH,15,pruning,21,2,cutting,65,knife
+GENERAL ENGLISH,16,puzzle,21,21,spoon,175,spoon
+GENERAL ENGLISH,17,lantern,19,13,light,1841,light
+GENERAL ENGLISH,18,discount,24,1,discount,2,offer
+GENERAL ENGLISH,19,violin,22,9,headphones,47,guitar
+GENERAL ENGLISH,20,slipper,25,25,blanket,90,river
+GENERAL ENGLISH,21,peaches,22,22,fruit,102,fruit
+GENERAL ENGLISH,22,signpost,17,16,trail,11,trail
+GENERAL ENGLISH,23,routine,17,1,routine,2,was
+GENERAL ENGLISH,24,lemonade,19,19,milk,117,a
+GENERAL ENGLISH,25,squirrel,25,13,hand,31,","
+GENERAL ENGLISH,26,collar,21,1,collar,18,ACL
+GENERAL ENGLISH,27,thunder,18,11,sounds,7,voices
+GENERAL ENGLISH,28,mattress,19,2,bed,31,-
+GENERAL ENGLISH,29,folder,22,10,format,12,format
+GENERAL ENGLISH,30,netting,25,25,boat,25,boat
+GENERAL ENGLISH,31,bracelet,19,8,gift,13,gift
+GENERAL ENGLISH,32,delay,24,4,stop,1,delay
+GENERAL ENGLISH,33,cinnamon,18,9,floral,90,","
+GENERAL ENGLISH,34,focus,19,2,lens,1,focus
+GENERAL ENGLISH,35,parade,14,1,parade,2,lineup
+GENERAL ENGLISH,36,map,18,9,note,20,paper
+GENERAL ENGLISH,37,staircase,19,19,frame,435,frame
+GENERAL ENGLISH,38,agreement,17,1,agreement,1,agreement
+GENERAL ENGLISH,39,oranges,25,23,fingers,849,sets
+GENERAL ENGLISH,40,curtain,16,9,fog,86,layer
+GENERAL ENGLISH,41,jacket,21,3,helmet,2,helmet
+GENERAL ENGLISH,42,compass,18,17,sword,815,statue
+GENERAL ENGLISH,43,humming,19,3,touch,12,touch
+GENERAL ENGLISH,44,saffron,18,18,salt,26,salt
+GENERAL ENGLISH,45,balcony,18,1,balcony,10,","
+GENERAL ENGLISH,46,explanation,23,21,approach,58,and
+GENERAL ENGLISH,47,zipper,26,13,arm,1451,window
+GENERAL ENGLISH,48,fountain,19,9,pillar,21,wall
+GENERAL ENGLISH,49,station,29,4,ceremony,43,.
+GENERAL ENGLISH,50,puppy,17,7,baby,8,baby
+MEDICINE,1,pressure,21,13,temperature,56,blood
+MEDICINE,2,insulin,17,10,oxygen,7,the
+MEDICINE,3,dressing,20,1,dressing,3,saline
+MEDICINE,4,fever,16,1,fever,3,form
+MEDICINE,5,scan,23,22,body,975,medical
+MEDICINE,6,procedure,16,3,surgery,3,surgery
+MEDICINE,7,headache,21,3,sore,2,cough
+MEDICINE,8,test,22,12,process,60,-
+MEDICINE,9,container,18,1,container,1,container
+MEDICINE,10,medication,22,2,drug,7,air
+MEDICINE,11,reflexes,23,19,symptoms,138,symptoms
+MEDICINE,12,heartbeat,17,3,breathing,2,breathing
+MEDICINE,13,tissue,22,5,growth,3,growth
+MEDICINE,14,mobility,21,3,strength,3,strength
+MEDICINE,15,seizures,22,6,infections,21,infections
+MEDICINE,16,hygiene,23,9,operating,51,rules
+MEDICINE,17,ultrasound,16,1,ultrasound,5,emergency
+MEDICINE,18,dizziness,20,3,pain,20,and
+MEDICINE,19,responses,15,1,responses,1,responses
+MEDICINE,20,fracture,18,2,cut,23,vein
+MEDICINE,21,fibre,25,1,fibre,5,fiber
+MEDICINE,22,platelet,23,2,sperm,99,risk
+MEDICINE,23,oxygen,22,8,glucose,206,sleep
+MEDICINE,24,catheter,26,12,tube,64,tube
+MEDICINE,25,outbreak,19,6,problem,11,problem
+MEDICINE,26,therapy,23,1,therapy,1,therapy
+MEDICINE,27,numbness,20,1,numbness,11,paralysis
+MEDICINE,28,tumour,19,2,tumor,6,tumor
+MEDICINE,29,temperature,20,5,pulse,17,pulse
+MEDICINE,30,screening,19,7,therapy,26,exercise
+MEDICINE,31,anaesthetic,30,1,anaesthetic,4,emergency
+MEDICINE,32,allergies,27,16,symptoms,146,history
+MEDICINE,33,radiograph,28,5,infection,15,X
+MEDICINE,34,pathogen,20,15,infection,52,infection
+MEDICINE,35,glucose,23,5,cortisol,61,history
+MEDICINE,36,infusion,20,3,drip,1,infusion
+MEDICINE,37,cholesterol,19,5,cortisol,40,blood
+MEDICINE,38,splint,23,11,procedure,145,restraining
+MEDICINE,39,asthma,22,7,epilepsy,7,diabetes
+MEDICINE,40,specimens,16,5,samples,9,samples
+MEDICINE,41,inflammation,19,5,infections,17,infections
+MEDICINE,42,nebulizer,28,28,computer,5001,","
+MEDICINE,43,monitoring,16,1,monitoring,2,attention
+MEDICINE,44,sample,23,17,genome,82,genome
+MEDICINE,45,function,19,1,function,1,function
+MEDICINE,46,sensation,21,3,pain,14,pain
+MEDICINE,47,immunity,22,3,health,3,health
+MEDICINE,48,comprehension,25,24,immediately,98,and
+MEDICINE,49,dosage,24,5,condition,61,medical
+MEDICINE,50,follow-up,23,23,maintenance,559,increase
+LAW,1,arraignment,15,1,arraignment,2,trial
+LAW,2,affidavit,19,1,affidavit,1,affidavit
+LAW,3,evidence,18,1,evidence,1,evidence
+LAW,4,complaint,17,1,complaint,1,complaint
+LAW,5,judgment,16,6,decision,6,decision
+LAW,6,warrant,25,1,warrant,1,warrant
+LAW,7,guilty,22,1,guilty,2,not
+LAW,8,standing,20,1,standing,1,standing
+LAW,9,clause,17,2,mechanism,1,clause
+LAW,10,acquittal,19,1,acquittal,1,acqu
+LAW,11,motion,15,1,motion,10,response
+LAW,12,admissible,25,2,reasonable,67,of
+LAW,13,defender,19,1,defender,1,defender
+LAW,14,settlement,14,1,settlement,2,agreement
+LAW,15,injunction,16,1,injunction,2,order
+LAW,16,negligence,17,5,fraud,26,fraud
+LAW,17,bail,18,1,bail,9,a
+LAW,18,cross-examination,21,2,questioning,7,the
+LAW,19,deadline,15,1,deadline,39,penalty
+LAW,20,mistrial,29,1,mistrial,1,mist
+LAW,21,interpretation,20,5,scope,13,role
+LAW,22,intent,20,8,innocence,11,guilt
+LAW,23,jurisdiction,24,3,appealed,31,not
+LAW,24,allegation,14,4,claims,5,allegations
+LAW,25,subpoena,21,5,summons,83,call
+LAW,26,discovery,20,18,initial,491,meeting
+LAW,27,damages,17,1,damages,1,damages
+LAW,28,credibility,18,1,credibility,2,testimony
+LAW,29,affirmed,16,2,upheld,43,of
+LAW,30,appeal,20,1,appeal,2,affidavit
+LAW,31,verdict,22,4,judgment,5,judgment
+LAW,32,precedent,22,22,evidence,385,documents
+LAW,33,binding,14,6,law,14,law
+LAW,34,privilege,17,2,right,3,right
+LAW,35,inadequate,19,3,unconstitutional,7,not
+LAW,36,restitution,20,3,damages,29,to
+LAW,37,adjourn,18,5,suspend,186,order
+LAW,38,unlawful,20,3,prohibited,20,of
+LAW,39,mediator,20,1,mediator,3,arbit
+LAW,40,hearsay,25,8,false,88,not
+LAW,41,statute,17,5,law,26,law
+LAW,42,restriction,17,6,ban,17,restraining
+LAW,43,exhibit,20,19,document,202,document
+LAW,44,statement,23,1,statement,1,statement
+LAW,45,privacy,20,1,privacy,10,Fourth
+LAW,46,petition,17,3,request,4,request
+LAW,47,doubt,22,1,doubt,1,doubt
+LAW,48,guardian,16,7,lawyer,226,special
+LAW,49,trial,25,1,trial,1,trial
+LAW,50,void,17,1,void,3,between
+FINANCE,1,shares,21,2,stock,105,guidance
+FINANCE,2,bond,19,1,bond,6,-
+FINANCE,3,loan,21,1,loan,1,loan
+FINANCE,4,return,20,2,performance,24,report
+FINANCE,5,volatility,24,2,risk,2,risk
+FINANCE,6,balance,16,1,balance,3,amount
+FINANCE,7,policy,22,2,interest,1,policy
+FINANCE,8,forecast,27,3,estimates,4,estimates
+FINANCE,9,fee,21,1,fee,1,fee
+FINANCE,10,revenue,17,4,results,4,results
+FINANCE,11,fund,18,1,fund,1,fund
+FINANCE,12,ledger,22,13,website,62,website
+FINANCE,13,profit,21,1,profit,5,percentage
+FINANCE,14,payment,21,1,payment,1,payment
+FINANCE,15,order,20,5,bid,3,request
+FINANCE,16,decline,20,4,drop,4,drop
+FINANCE,17,equities,26,5,bonds,194,a
+FINANCE,18,mortgage,19,2,loan,2,loan
+FINANCE,19,portfolio,18,1,portfolio,1,portfolio
+FINANCE,20,capital,16,4,investment,9,investors
+FINANCE,21,history,22,2,score,3,worthiness
+FINANCE,22,earnings,17,1,earnings,2,return
+FINANCE,23,interest,27,1,interest,13,number
+FINANCE,24,premium,18,3,fee,1,premium
+FINANCE,25,activity,22,5,conditions,5,conditions
+FINANCE,26,offering,21,1,offering,1,offering
+FINANCE,27,cashflow,23,23,operations,34,operations
+FINANCE,28,yield,22,10,value,62,to
+FINANCE,29,diversification,24,14,it,3855,to
+FINANCE,30,deferment,19,16,extension,84,loan
+FINANCE,31,liability,25,22,loss,697,increase
+FINANCE,32,verification,21,2,documentation,11,security
+FINANCE,33,gain,22,2,profit,3,profit
+FINANCE,34,loss,21,1,loss,2,profit
+FINANCE,35,holdings,21,6,clients,41,chief
+FINANCE,36,dividend,29,1,dividend,1,dividend
+FINANCE,37,ratio,21,1,ratio,1,ratio
+FINANCE,38,intervention,26,21,fell,1197,was
+FINANCE,39,statements,19,1,statements,1,statements
+FINANCE,40,installment,22,5,savings,57,savings
+FINANCE,41,liquidity,20,1,liquidity,1,liquidity
+FINANCE,42,stock,21,2,shares,2,shares
+FINANCE,43,inflation,20,2,demand,8,demand
+FINANCE,44,account,25,1,account,1,account
+FINANCE,45,allocation,20,18,portfolio,117,","
+FINANCE,46,rating,21,1,rating,1,rating
+FINANCE,47,growth,20,5,interest,17,interest
+FINANCE,48,option,18,1,option,2,opportunity
+FINANCE,49,manipulation,20,1,manipulation,1,manipulation
+FINANCE,50,budget,18,11,income,6,income
+CLIMATE SCIENCE,1,carbon,15,2,methane,2,temperatures
+CLIMATE SCIENCE,2,albedo,20,20,temperatures,71,sea
+CLIMATE SCIENCE,3,greenhouse,20,1,greenhouse,1,greenhouse
+CLIMATE SCIENCE,4,retreat,21,4,melt,3,melt
+CLIMATE SCIENCE,5,records,19,2,data,2,data
+CLIMATE SCIENCE,6,adaptation,23,19,contingency,688,park
+CLIMATE SCIENCE,7,emissions,24,1,emissions,2,operating
+CLIMATE SCIENCE,8,bleaching,27,1,bleaching,22,a
+CLIMATE SCIENCE,9,heatwaves,21,3,storms,2,storms
+CLIMATE SCIENCE,10,sink,19,11,reservoir,31,buffer
+CLIMATE SCIENCE,11,monsoon,21,21,birds,571,sea
+CLIMATE SCIENCE,12,moisture,17,1,moisture,1,moisture
+CLIMATE SCIENCE,13,carbon dioxide,21,1,carbon dioxide,1,carbon
+CLIMATE SCIENCE,14,melting,20,2,warming,5,sea
+CLIMATE SCIENCE,15,dryness,17,16,pressure,479,pressure
+CLIMATE SCIENCE,16,sensitivity,25,2,response,30,temperature
+CLIMATE SCIENCE,17,eruption,21,1,eruption,1,eruption
+CLIMATE SCIENCE,18,anomalies,15,12,patterns,31,patterns
+CLIMATE SCIENCE,19,storage,26,8,emissions,11,emissions
+CLIMATE SCIENCE,20,flowering,23,13,rainfall,35,rainfall
+CLIMATE SCIENCE,21,vulnerability,21,4,impacts,24,change
+CLIMATE SCIENCE,22,water,17,7,moisture,11,moisture
+CLIMATE SCIENCE,23,acidity,19,8,temperatures,5,temperatures
+CLIMATE SCIENCE,24,crops,18,1,crops,1,crops
+CLIMATE SCIENCE,25,influence,25,4,variability,7,-
+CLIMATE SCIENCE,26,runoff,20,16,flooding,102,flooding
+CLIMATE SCIENCE,27,capture,26,22,combustion,163,craft
+CLIMATE SCIENCE,28,forcing,24,1,forcing,1,forcing
+CLIMATE SCIENCE,29,island,17,1,island,1,island
+CLIMATE SCIENCE,30,thaw,21,17,cover,85,and
+CLIMATE SCIENCE,31,scenarios,21,1,scenarios,1,scenarios
+CLIMATE SCIENCE,32,watercycle,18,18,temperature,10,temperature
+CLIMATE SCIENCE,33,tax,24,1,tax,1,tax
+CLIMATE SCIENCE,34,risk,19,1,risk,1,risk
+CLIMATE SCIENCE,35,Atlantic,14,7,globe,8,globe
+CLIMATE SCIENCE,36,fragmentation,15,4,loss,4,loss
+CLIMATE SCIENCE,37,cover,21,1,cover,2,fall
+CLIMATE SCIENCE,38,decarbonization,21,21,development,2057,ban
+CLIMATE SCIENCE,39,baseline,18,15,winter,1256,day
+CLIMATE SCIENCE,40,surfaces,21,17,areas,412,areas
+CLIMATE SCIENCE,41,scarcity,22,22,changes,217,flooding
+CLIMATE SCIENCE,42,icebergs,17,17,ice,410,sea
+CLIMATE SCIENCE,43,mangrove,21,21,flood,472,gas
+CLIMATE SCIENCE,44,livestock,21,21,production,52,and
+CLIMATE SCIENCE,45,damages,16,15,risks,214,impact
+CLIMATE SCIENCE,46,chronologies,20,9,analysis,30,analysis
+CLIMATE SCIENCE,47,restoration,19,4,services,4,services
+CLIMATE SCIENCE,48,circulation,15,6,pressure,3,pressure
+CLIMATE SCIENCE,49,barrier,18,1,barrier,1,barrier
+CLIMATE SCIENCE,50,electrification,12,12,energy,492,energy
+CYBERSECURITY,1,login,23,23,package,200,activity
+CYBERSECURITY,2,authentication,23,1,authentication,2,doors
+CYBERSECURITY,3,traffic,22,6,activity,2,activity
+CYBERSECURITY,4,workstation,24,21,computer,315,cells
+CYBERSECURITY,5,phishing,25,20,text,875,case
+CYBERSECURITY,6,ransomware,27,2,malware,48,a
+CYBERSECURITY,7,vulnerability,15,3,bug,2,bug
+CYBERSECURITY,8,credentials,22,7,points,11,point
+CYBERSECURITY,9,encryption,20,1,encryption,1,encryption
+CYBERSECURITY,10,logs,22,3,data,6,and
+CYBERSECURITY,11,endpoint,27,27,file,1509,of
+CYBERSECURITY,12,review,19,6,survey,10,survey
+CYBERSECURITY,13,connection,25,5,user,28,user
+CYBERSECURITY,14,injection,27,24,line,90,line
+CYBERSECURITY,15,backup,16,1,backup,39,version
+CYBERSECURITY,16,breach,17,1,breach,1,breach
+CYBERSECURITY,17,architecture,20,3,design,9,approach
+CYBERSECURITY,18,exercise,25,16,test,35,test
+CYBERSECURITY,19,signature,21,2,signatures,5,footprint
+CYBERSECURITY,20,attachments,23,5,messages,20,messages
+CYBERSECURITY,21,zero-trust,23,23,new,31,new
+CYBERSECURITY,22,communication,22,3,login,2,access
+CYBERSECURITY,23,privileges,23,7,activity,177,fees
+CYBERSECURITY,24,threat,26,2,attack,2,attack
+CYBERSECURITY,25,input,20,2,data,2,data
+CYBERSECURITY,26,ization,22,17,sales,881,sales
+CYBERSECURITY,27,patch,24,2,update,2,update
+CYBERSECURITY,28,timeline,25,18,body,68,body
+CYBERSECURITY,29,gateway,28,21,connection,219,of
+CYBERSECURITY,30,response,13,5,reporting,1,response
+CYBERSECURITY,31,task,31,9,update,35,update
+CYBERSECURITY,32,behavior,19,4,activity,4,activity
+CYBERSECURITY,33,key,18,4,data,23,messages
+CYBERSECURITY,34,checksum,18,18,authenticity,556,source
+CYBERSECURITY,35,training,23,3,checks,6,audits
+CYBERSECURITY,36,query,25,11,attack,1621,number
+CYBERSECURITY,37,access,22,13,passport,3,passport
+CYBERSECURITY,38,encoding,27,14,files,143,from
+CYBERSECURITY,39,procedure,18,17,technology,189,technology
+CYBERSECURITY,40,server,22,2,servers,2,servers
+CYBERSECURITY,41,passwords,21,3,information,3,information
+CYBERSECURITY,42,detection,28,5,management,21,-
+CYBERSECURITY,43,controls,22,15,performance,45,and
+CYBERSECURITY,44,factor,23,23,authentication,384,signature
+CYBERSECURITY,45,sandbox,24,23,location,293,location
+CYBERSECURITY,46,data,20,2,information,7,to
+CYBERSECURITY,47,indicators,23,23,code,208,code
+CYBERSECURITY,48,configuration,30,23,services,111,computing
+CYBERSECURITY,49,incident,22,15,issue,20,issue
+CYBERSECURITY,50,privilege,28,3,cost,5,-
+EDUCATION,1,lesson,18,1,lesson,5,-
+EDUCATION,2,curriculum,22,1,curriculum,1,curriculum
+EDUCATION,3,assessment,21,10,assignment,89,of
+EDUCATION,4,learning,20,1,learning,8,students
+EDUCATION,5,objective,23,23,message,881,and
+EDUCATION,6,scholarship,16,4,fellowship,4,fellowship
+EDUCATION,7,attendance,28,9,conduct,171,loan
+EDUCATION,8,vocabulary,27,17,magic,1456,own
+EDUCATION,9,groups,15,1,groups,1,groups
+EDUCATION,10,observation,19,3,analysis,6,analysis
+EDUCATION,11,feedback,19,1,feedback,14,instructions
+EDUCATION,12,library,22,1,library,1,library
+EDUCATION,13,example,23,4,analogy,7,perspective
+EDUCATION,14,assignments,23,19,report,176,report
+EDUCATION,15,skills,18,2,training,3,training
+EDUCATION,16,impairment,25,1,impairment,1,impairment
+EDUCATION,17,understanding,18,8,abilities,1,understanding
+EDUCATION,18,mentoring,23,6,support,25,-
+EDUCATION,19,participation,19,2,consent,3,consent
+EDUCATION,20,fluency,15,15,skills,60,ability
+EDUCATION,21,platform,16,16,courses,86,presence
+EDUCATION,22,presentations,27,5,skills,10,skills
+EDUCATION,23,initiative,22,8,program,23,program
+EDUCATION,24,reliability,21,17,conclusions,72,claims
+EDUCATION,25,geography,27,2,trends,11,differences
+EDUCATION,26,pathway,18,8,path,28,path
+EDUCATION,27,citizenship,20,19,literacy,111,literacy
+EDUCATION,28,module,18,13,course,77,course
+EDUCATION,29,project,23,1,project,1,project
+EDUCATION,30,materials,20,2,languages,1,materials
+EDUCATION,31,hypotheses,25,12,theories,2,theories
+EDUCATION,32,questioning,26,22,memory,1066,years
+EDUCATION,33,laboratory,20,5,campus,290,","
+EDUCATION,34,presentation,26,1,presentation,13,representation
+EDUCATION,35,accessibility,20,5,safety,153,performance
+EDUCATION,36,reasoning,20,14,work,111,work
+EDUCATION,37,literacy,20,1,literacy,1,literacy
+EDUCATION,38,journal,36,30,helmet,986,mask
+EDUCATION,39,program,21,1,program,2,menu
+EDUCATION,40,seating,21,20,environment,67,to
+EDUCATION,41,criteria,26,22,certificate,122,of
+EDUCATION,42,manager,24,20,card,429,to
+EDUCATION,43,workshops,19,12,classes,73,classes
+EDUCATION,44,retention,23,15,performance,41,performance
+EDUCATION,45,creativity,20,2,empathy,46,a
+EDUCATION,46,causation,23,1,causation,1,causation
+EDUCATION,47,counseling,22,9,referral,58,-
+EDUCATION,48,competence,20,9,skills,18,skills
+EDUCATION,49,outcomes,25,2,attainment,2,attainment
+EDUCATION,50,environment,17,1,environment,3,and
+BIOLOGY,1,DNA,22,1,DNA,11,the
+BIOLOGY,2,gene,18,1,gene,2,protein
+BIOLOGY,3,nucleus,16,2,genome,52,DNA
+BIOLOGY,4,mitochondria,23,8,structures,594,","
+BIOLOGY,5,protein,19,1,protein,2,type
+BIOLOGY,6,alleles,25,15,genes,1343,different
+BIOLOGY,7,genome,19,1,genome,1,genome
+BIOLOGY,8,cytoplasm,17,5,cell,7,cell
+BIOLOGY,9,division,17,1,division,1,division
+BIOLOGY,10,colonies,19,2,spores,5,growth
+BIOLOGY,11,reaction,21,1,reaction,1,reaction
+BIOLOGY,12,diversity,15,11,populations,10,populations
+BIOLOGY,13,vessels,23,15,pipes,24,pipes
+BIOLOGY,14,adaptation,22,1,adaptation,2,process
+BIOLOGY,15,population,15,2,only,21,'s
+BIOLOGY,16,respiration,26,2,metabolism,2,metabolism
+BIOLOGY,17,species,22,1,species,1,species
+BIOLOGY,18,chloroplasts,23,19,protein,77,protein
+BIOLOGY,19,expression,19,1,expression,1,expression
+BIOLOGY,20,organism,17,2,plant,9,of
+BIOLOGY,21,traits,18,1,traits,4,genetic
+BIOLOGY,22,antigen,20,2,invaders,4,proteins
+BIOLOGY,23,relationship,20,1,relationship,1,relationship
+BIOLOGY,24,marker,22,7,dye,13,dye
+BIOLOGY,25,association,16,4,relationship,8,relationship
+BIOLOGY,26,morphology,19,6,appearance,8,structure
+BIOLOGY,27,change,17,1,change,1,change
+BIOLOGY,28,bacteria,16,1,bacteria,1,bacteria
+BIOLOGY,29,antibodies,23,21,care,38,care
+BIOLOGY,30,sequences,18,4,makeup,19,makeup
+BIOLOGY,31,RNA,22,1,RNA,1,RNA
+BIOLOGY,32,activity,21,1,activity,1,activity
+BIOLOGY,33,predator,21,7,resource,229,part
+BIOLOGY,34,mutation,15,1,mutation,2,genetic
+BIOLOGY,35,stem,18,1,stem,13,cells
+BIOLOGY,36,plankton,19,2,algae,51,changes
+BIOLOGY,37,rate,22,1,rate,1,rate
+BIOLOGY,38,ions,25,16,water,64,the
+BIOLOGY,39,biofilm,26,9,colony,46,population
+BIOLOGY,40,membrane,20,1,membrane,1,membrane
+BIOLOGY,41,germination,19,1,germination,1,ger
+BIOLOGY,42,assay,18,8,approach,51,technique
+BIOLOGY,43,community,18,10,ecosystem,17,ecosystem
+BIOLOGY,44,hibernation,20,20,eating,707,the
+BIOLOGY,45,metamorphosis,24,23,mating,617,the
+BIOLOGY,46,cell,17,1,cell,1,cell
+BIOLOGY,47,productivity,23,23,footprint,312,emissions
+BIOLOGY,48,rearrangement,18,17,characteristics,68,and
+BIOLOGY,49,variation,15,1,variation,1,variation
+BIOLOGY,50,stressors,19,8,factors,2,factors
+TECHNOLOGY,1,version,17,1,version,1,version
+TECHNOLOGY,2,request,21,1,request,1,request
+TECHNOLOGY,3,architecture,17,1,architecture,11,-
+TECHNOLOGY,4,display,17,2,camera,2,camera
+TECHNOLOGY,5,database,23,1,database,1,database
+TECHNOLOGY,6,repository,20,8,code,22,code
+TECHNOLOGY,7,sensor,25,2,system,15,to
+TECHNOLOGY,8,model,18,7,system,19,system
+TECHNOLOGY,9,process,27,2,check,7,check
+TECHNOLOGY,10,interface,20,1,interface,1,interface
+TECHNOLOGY,11,channel,19,3,connection,3,connection
+TECHNOLOGY,12,cloud,25,1,cloud,1,cloud
+TECHNOLOGY,13,circuit,26,17,thread,149,instruction
+TECHNOLOGY,14,dashboard,21,10,map,21,map
+TECHNOLOGY,15,edge,24,17,layer,77,.
+TECHNOLOGY,16,identifier,21,1,identifier,2,ID
+TECHNOLOGY,17,orchestration,23,1,orchestration,50,ized
+TECHNOLOGY,18,accuracy,27,1,accuracy,2,of
+TECHNOLOGY,19,protocol,19,4,connection,3,connection
+TECHNOLOGY,20,capacity,19,3,space,7,for
+TECHNOLOGY,21,files,19,1,files,1,files
+TECHNOLOGY,22,interface,23,1,interface,1,interface
+TECHNOLOGY,23,records,27,12,data,18,entries
+TECHNOLOGY,24,machine,18,1,machine,1,machine
+TECHNOLOGY,25,resources,18,4,power,4,power
+TECHNOLOGY,26,architectures,21,2,models,2,models
+TECHNOLOGY,27,queue,26,22,thread,1118,image
+TECHNOLOGY,28,report,23,1,report,1,report
+TECHNOLOGY,29,battery,22,1,battery,3,parts
+TECHNOLOGY,30,ledger,18,1,ledger,1,ledger
+TECHNOLOGY,31,update,28,3,patch,4,flaw
+TECHNOLOGY,32,supplies,16,1,supplies,1,supplies
+TECHNOLOGY,33,summary,26,25,sentence,105,learning
+TECHNOLOGY,34,throughput,19,1,throughput,1,throughput
+TECHNOLOGY,35,format,19,3,file,5,file
+TECHNOLOGY,36,framework,22,1,framework,1,framework
+TECHNOLOGY,37,patterns,19,3,level,19,and
+TECHNOLOGY,38,relevance,25,15,quality,23,quality
+TECHNOLOGY,39,twin,18,18,version,2713,camera
+TECHNOLOGY,40,broker,23,14,bus,109,from
+TECHNOLOGY,41,leak,19,1,leak,1,leak
+TECHNOLOGY,42,streaming,17,14,collection,28,analysis
+TECHNOLOGY,43,chipset,27,24,design,780,","
+TECHNOLOGY,44,algorithm,18,1,algorithm,1,algorithm
+TECHNOLOGY,45,roadmap,21,1,roadmap,1,roadmap
+TECHNOLOGY,46,address,20,1,address,1,address
+TECHNOLOGY,47,score,22,5,index,6,level
+TECHNOLOGY,48,retrieval,20,6,integrity,8,integrity
+TECHNOLOGY,49,compatibility,18,2,performance,1,compatibility
+TECHNOLOGY,50,license,19,1,license,14,code
+GEOGRAPHY,1,range,20,2,ridge,4,of
+GEOGRAPHY,2,delta,19,17,banks,94,banks
+GEOGRAPHY,3,plateau,16,3,ridge,19,","
+GEOGRAPHY,4,boundary,20,10,border,18,and
+GEOGRAPHY,5,basin,18,3,bank,18,to
+GEOGRAPHY,6,isthmus,22,21,channel,312,","
+GEOGRAPHY,7,desert,17,5,river,9,river
+GEOGRAPHY,8,coastline,18,15,street,107,stretch
+GEOGRAPHY,9,elevation,19,9,temperature,20,temperature
+GEOGRAPHY,10,zone,17,8,type,21,type
+GEOGRAPHY,11,valley,17,2,path,2,","
+GEOGRAPHY,12,harbor,24,18,beach,76,beach
+GEOGRAPHY,13,equator,22,21,map,7827,first
+GEOGRAPHY,14,tropical,20,1,tropical,12,climate
+GEOGRAPHY,15,scale,28,4,coordinates,13,latitude
+GEOGRAPHY,16,plain,18,8,environment,12,city
+GEOGRAPHY,17,channel,14,7,bed,28,'s
+GEOGRAPHY,18,corridor,16,3,motorway,136,legend
+GEOGRAPHY,19,population,20,1,population,7,largest
+GEOGRAPHY,20,crater,24,3,eruption,7,eruption
+GEOGRAPHY,21,oasis,16,15,city,148,city
+GEOGRAPHY,22,archipelago,24,6,region,72,part
+GEOGRAPHY,23,steppe,19,18,wall,4798,-
+GEOGRAPHY,24,symbol,24,13,name,49,name
+GEOGRAPHY,25,gorge,17,2,valley,4,channel
+GEOGRAPHY,26,latitudes,16,14,countries,78,regions
+GEOGRAPHY,27,slope,19,5,slopes,7,slopes
+GEOGRAPHY,28,wetland,22,18,area,587,pattern
+GEOGRAPHY,29,peninsula,17,13,cliff,19,out
+GEOGRAPHY,30,aquifer,23,13,economy,47,network
+GEOGRAPHY,31,urbanization,17,1,urbanization,7,growth
+GEOGRAPHY,32,biomes,19,17,habitats,123,ed
+GEOGRAPHY,33,river,17,4,city,7,point
+GEOGRAPHY,34,fault,26,1,fault,55,population
+GEOGRAPHY,35,surface,20,1,surface,1,surface
+GEOGRAPHY,36,hemisphere,19,1,hemisphere,2,most
+GEOGRAPHY,37,hub,15,1,hub,1,hub
+GEOGRAPHY,38,deposition,19,4,flow,11,ation
+GEOGRAPHY,39,foothills,23,19,range,45,range
+GEOGRAPHY,40,water,21,1,water,1,water
+GEOGRAPHY,41,agriculture,20,4,tourism,8,the
+GEOGRAPHY,42,routes,21,3,hubs,3,hubs
+GEOGRAPHY,43,imagery,17,1,imagery,1,imagery
+GEOGRAPHY,44,pass,16,1,pass,2,road
+GEOGRAPHY,45,lagoons,21,20,areas,98,areas
+GEOGRAPHY,46,hazards,24,1,hazards,2,damage
+GEOGRAPHY,47,district,18,15,country,191,country
+GEOGRAPHY,48,watershed,17,17,valley,299,valley
+GEOGRAPHY,49,landmark,18,12,park,239,business
+GEOGRAPHY,50,fertility,17,3,moisture,6,moisture

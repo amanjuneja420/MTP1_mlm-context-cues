@@ -1,0 +1,10 @@
+case,winner,winner_p,medication_rank,medication_p,top6
+patient (strong medical cue),medication,0.4303860366344452,1,0.430385023355484,"medication, treatment, care, drugs, medications, antibiotics"
+person (generic human),medication,0.09291111677885056,1,0.09291141480207443,"medication, drugs, care, it, classes, part"
+someone (indefinite human),over,0.2057218849658966,26,0.0068228296004235744,"over, drugs, it, him, off, her"
+"they (pronoun, no content)",over,0.12154871970415115,79,0.0015822888817638159,"over, place, off, part, lessons, it"
+it (non-human),place,0.8926873207092285,1000,6.167946594359819e-06,"place, off, hold, over, time, part"
+no subject at all,place,0.800555408000946,376,3.6138346331426874e-05,"place, part, over, effect, off, places"
+machine (non-human agent),place,0.21296651661396027,331,0.00015952518151607364,"place, over, off, up, time, years"
+company (institution),over,0.17217737436294556,1119,5.629616862279363e-05,"over, off, losses, profit, control, profits"
+dog (animate non-human),care,0.17830801010131836,8,0.0162500012665987,"care, lessons, off, over, turns, part"

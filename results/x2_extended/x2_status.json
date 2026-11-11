@@ -1,0 +1,14 @@
+{
+  "grid2": "ok (414s)",
+  "patch": "ok (315s)",
+  "domain": "ok (232s)",
+  "conf": "ok (539s)",
+  "multi": "ok (679s)",
+  "ar": "ok (1216s)",
+  "attn": "ok (727s)",
+  "aoyama": "ok (1423s)",
+  "versions": {
+    "torch": "2.13.0+cpu",
+    "transformers": "5.14.1"
+  }
+}

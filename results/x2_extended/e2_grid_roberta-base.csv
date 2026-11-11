@@ -1,0 +1,81 @@
+subject,tail,medical_share,top1
+patient,(none),0.8631468539698418,insulin
+patient,since the last 2 years,0.9636879020268289,medication
+patient,for the last two years,0.9396683363495174,medication
+patient,for years,0.9597321955959184,medication
+patient,for two days,0.944811529176617,antibiotics
+patient,since the last 2 minutes,0.7595131580379212,medication
+patient,since yesterday,0.9810606781870435,medication
+patient,every day,0.8302874783727268,insulin
+patient,right now,0.800959115268862,medication
+patient,at the moment,0.8762654637765276,medication
+person,(none),0.16563278650781196,notes
+person,since the last 2 years,0.7120185640351179,drugs
+person,for the last two years,0.5779467837072276,medication
+person,for years,0.7994752417667745,medication
+person,for two days,0.8056739621108856,medication
+person,since the last 2 minutes,0.04063989085159016,pictures
+person,since yesterday,0.7996424409303909,medication
+person,every day,0.581240824647811,medication
+person,right now,0.17654499051986697,pictures
+person,at the moment,0.10217878657231227,selfies
+woman,(none),0.03555553551927401,photos
+woman,since the last 2 years,0.7506349372503663,medication
+woman,for the last two years,0.5603785958240679,medication
+woman,for years,0.7205757197152439,medication
+woman,for two days,0.8903897346074964,antibiotics
+woman,since the last 2 minutes,0.13562137649156003,pictures
+woman,since yesterday,0.8945635409936115,medication
+woman,every day,0.535498324348728,medication
+woman,right now,0.13732114153118694,pictures
+woman,at the moment,0.16506477416131282,photos
+man,(none),0.03315129177036966,notes
+man,since the last 2 years,0.15685844499309437,bribes
+man,for the last two years,0.0674747338350859,responsibility
+man,for years,0.6777560825323602,medication
+man,for two days,0.8401118943485132,antibiotics
+man,since the last 2 minutes,0.08851239765052721,pictures
+man,since yesterday,0.6326153543914887,medication
+man,every day,0.4180013728337261,it
+man,right now,0.07257792703123453,pictures
+man,at the moment,0.07846708584290203,photos
+someone,(none),0.010187770461859985,notice
+someone,since the last 2 years,0.03937454716012881,over
+someone,for the last two years,0.0037876057544347216,over
+someone,for years,0.30701349499116004,it
+someone,for two days,0.2579644895132339,off
+someone,since the last 2 minutes,0.00921698456588878,notes
+someone,since yesterday,0.28692509336594624,pictures
+someone,every day,0.12175958231473252,it
+someone,right now,0.060086184422891306,notes
+someone,at the moment,0.05970416724780655,notes
+child,(none),0.13646800968854117,notes
+child,since the last 2 years,0.7759352545087654,medication
+child,for the last two years,0.6270374320774005,medication
+child,for years,0.7673464822496859,medication
+child,for two days,0.7576029140070146,medication
+child,since the last 2 minutes,0.1890766752390977,notes
+child,since yesterday,0.9159065422169652,medication
+child,every day,0.6117833642392616,medication
+child,right now,0.49890195080904204,medication
+child,at the moment,0.23196807987980397,photos
+dog,(none),0.03336293927407574,off
+dog,since the last 2 years,0.2950760766857238,off
+dog,for the last two years,0.2015433921027504,responsibility
+dog,for years,0.33215936477040037,breaks
+dog,for two days,0.5205209030437995,antibiotics
+dog,since the last 2 minutes,0.054173140849029314,off
+dog,since yesterday,0.2911875618996979,off
+dog,every day,0.1560650088942835,off
+dog,right now,0.06066434072210556,pictures
+dog,at the moment,0.08001239934773793,photos
+machine,(none),0.007567981013621578,notes
+machine,since the last 2 years,0.03255844538140372,breaks
+machine,for the last two years,0.029670620887949715,orders
+machine,for years,0.013581540081733425,photos
+machine,for two days,0.06663039676588081,pictures
+machine,since the last 2 minutes,0.009925563169263355,off
+machine,since yesterday,0.030099279177083188,pictures
+machine,every day,0.047629291594054726,pictures
+machine,right now,0.016279675033033868,pictures
+machine,at the moment,0.01239592958515403,pictures

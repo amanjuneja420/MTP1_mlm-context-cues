@@ -1,0 +1,5 @@
+case,winner,winner_p,medication_rank,medication_p,top6
+playing / person,football,0.13093797862529755,2319,2.4000763005460612e-05,"football, again, it, basketball, tennis, here"
+playing / no subj,coach,0.04610690847039223,6264,4.577981144393561e-06,"coach, there, not, football, continuously, record"
+growing / person,up,0.2308131903409958,3507,6.0336819842632394e-06,"up, rapidly, fast, stronger, worse, older"
+growing / no subj,steadily,0.21193018555641174,6097,1.8644991541805211e-06,"steadily, fast, up, rapidly, slowly, again"

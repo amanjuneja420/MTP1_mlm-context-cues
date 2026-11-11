@@ -1,0 +1,46 @@
+{
+  "bert-base-uncased": {
+    "n_layers": 12,
+    "seconds": 422.8,
+    "n_sentences": 500,
+    "parts": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "bert-large-uncased": {
+    "n_layers": 24,
+    "seconds": 726.2,
+    "n_sentences": 500,
+    "parts": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "roberta-base": {
+    "n_layers": 12,
+    "seconds": 296.7,
+    "n_sentences": 500,
+    "parts": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "roberta-large": {
+    "n_layers": 24,
+    "seconds": 1170.8,
+    "n_sentences": 500,
+    "parts": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "versions": {
+    "torch": "2.13.0+cpu",
+    "transformers": "5.14.1"
+  }
+}

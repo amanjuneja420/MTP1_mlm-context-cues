@@ -1,0 +1,6 @@
+setup,peak_restoration_excl_L0,peak_layer,peak_position,peak_token,L0_sanity_check
+patient_to_athlete,1.0,12,5,[MASK],1.0
+patient_to_machine,1.0,12,5,[MASK],1.0
+taking_to_eating,1.1947936991416375,5,4,taking,1.0
+occlude_subject_COMPARISON,1.0,12,5,[MASK],1.0
+occlude_verb_COMPARISON,1.3675496071255788,5,4,taking,1.0

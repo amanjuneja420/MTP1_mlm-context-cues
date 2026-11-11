@@ -1,0 +1,21 @@
+domain,idx,target,pool_size,pool_rank,pool_top1,left_only_rank,left_only_top1
+GENERAL ENGLISH,1,umbrella,19,16,shoes,1726,home
+GENERAL ENGLISH,2,loaf,24,2,bread,3,bread
+MEDICINE,1,pressure,21,8,pulse,41,blood
+MEDICINE,2,insulin,17,16,protein,51,the
+LAW,1,arraignment,15,1,arraignment,5,sentencing
+LAW,2,affidavit,19,1,affidavit,1,affidavit
+FINANCE,1,shares,21,2,bonds,32,guidance
+FINANCE,2,bond,19,1,bond,2,-
+CLIMATE SCIENCE,1,carbon,15,1,carbon,1,carbon
+CLIMATE SCIENCE,2,albedo,20,16,temperatures,48,sea
+CYBERSECURITY,1,login,23,18,package,52,package
+CYBERSECURITY,2,authentication,23,1,authentication,1,authentication
+EDUCATION,1,lesson,18,1,lesson,2,project
+EDUCATION,2,curriculum,22,1,curriculum,1,curriculum
+BIOLOGY,1,DNA,22,1,DNA,2,the
+BIOLOGY,2,gene,18,2,protein,2,protein
+TECHNOLOGY,1,version,17,1,version,1,version
+TECHNOLOGY,2,request,21,1,request,1,request
+GEOGRAPHY,1,range,20,1,range,9,lion
+GEOGRAPHY,2,delta,19,18,banks,58,banks

@@ -1,0 +1,9 @@
+# Results in this repository were produced with torch 2.13.0 (CPU) and transformers 5.14.1.
+torch>=2.1
+transformers>=5.0
+numpy
+pandas
+matplotlib
+scipy
+wordfreq
+stanza

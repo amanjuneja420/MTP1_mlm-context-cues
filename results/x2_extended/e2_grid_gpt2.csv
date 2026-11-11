@@ -1,0 +1,81 @@
+subject,tail,medical_share,top1
+patient,(none),0.9357433837326559,medication
+patient,since the last 2 years,0.8361964322682138,antidepressants
+patient,for the last two years,0.9186180369780907,antidepressants
+patient,for years,0.8812219900690323,antibiotics
+patient,for two days,0.8937379333018356,insulin
+patient,since the last 2 minutes,0.7366080940235411,medication
+patient,since yesterday,0.876256727048697,medication
+patient,every day,0.7921104865656331,medication
+patient,right now,0.8231878528908975,medication
+patient,at the moment,0.97466180327227,medication
+person,(none),0.166912286789738,pictures
+person,since the last 2 years,0.1783517648424456,pictures
+person,for the last two years,0.4821425613426485,drugs
+person,for years,0.31784656159556307,drugs
+person,for two days,0.3428232015868438,notes
+person,since the last 2 minutes,0.02923019854002002,pictures
+person,since yesterday,0.11053550643763224,pictures
+person,every day,0.3409343812513391,it
+person,right now,0.11529372044693453,it
+person,at the moment,0.2897035709603271,pictures
+woman,(none),0.32838426248722413,pictures
+woman,since the last 2 years,0.4210858318960904,antidepressants
+woman,for the last two years,0.8186605506971536,antidepressants
+woman,for years,0.6145109921806658,antidepressants
+woman,for two days,0.6031472864495699,drugs
+woman,since the last 2 minutes,0.07562608931284327,pictures
+woman,since yesterday,0.2225794174825023,pictures
+woman,every day,0.43681104987758373,it
+woman,right now,0.2218482545992634,it
+woman,at the moment,0.5498417681168607,antidepressants
+man,(none),0.11840705537712623,pictures
+man,since the last 2 years,0.10803958173961987,over
+man,for the last two years,0.6758905707258833,drugs
+man,for years,0.3715620183975686,drugs
+man,for two days,0.3565078935645771,off
+man,since the last 2 minutes,0.023332990467102965,pictures
+man,since yesterday,0.07085307851234861,pictures
+man,every day,0.17703879768406364,selfies
+man,right now,0.07380819782202654,it
+man,at the moment,0.17381358236278155,charge
+someone,(none),0.042731379524991675,over
+someone,since the last 2 years,0.012919245993995014,over
+someone,for the last two years,0.15576342898796358,responsibility
+someone,for years,0.19098986153088565,notes
+someone,for two days,0.1411048280299512,off
+someone,since the last 2 minutes,0.005515081282115434,over
+someone,since yesterday,0.017675673445406395,pictures
+someone,every day,0.12001454631298608,it
+someone,right now,0.03617636370834919,it
+someone,at the moment,0.048482535416446516,notice
+child,(none),0.23491844770577197,it
+child,since the last 2 years,0.18564046797079828,over
+child,for the last two years,0.26596271537531796,classes
+child,for years,0.22911664358890485,lessons
+child,for two days,0.37461005078004733,classes
+child,since the last 2 minutes,0.06050694005556891,pictures
+child,since yesterday,0.15307705096427815,pictures
+child,every day,0.16072501609451834,it
+child,right now,0.12230558704999257,it
+child,at the moment,0.37581315494269146,drugs
+dog,(none),0.07841106160050997,off
+dog,since the last 2 years,0.018447087537102773,over
+dog,for the last two years,0.2684760146570325,drugs
+dog,for years,0.16335754608101313,it
+dog,for two days,0.21329791592443817,off
+dog,since the last 2 minutes,0.009262776946973205,over
+dog,since yesterday,0.04301970239656517,off
+dog,every day,0.1282134811507648,off
+dog,right now,0.05642868636426938,off
+dog,at the moment,0.14481694205053944,off
+machine,(none),0.010935724774879411,off
+machine,since the last 2 years,0.004015529083448045,over
+machine,for the last two years,0.03608997006187045,over
+machine,for years,0.056660665923638664,orders
+machine,for two days,0.03502623672761031,pictures
+machine,since the last 2 minutes,0.0008530745155646773,pictures
+machine,since yesterday,0.0032251244338933373,off
+machine,every day,0.029816609778122515,pictures
+machine,right now,0.006548212014928097,orders
+machine,at the moment,0.009081643077564046,pictures

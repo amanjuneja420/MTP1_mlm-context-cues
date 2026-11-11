@@ -1,0 +1,601 @@
+subject,tail,sentence,medication_rank,medication_p,medical_mass,top1,top5,model
+patient,(none),The patient is taking <mask>.,1,0.2906870245933532,0.4090917110443115,medication,"medication, care, blood, it, antibiotics",BERT-base
+patient,since the last 2 years,The patient is taking <mask> since the last 2 years.,1,0.4303844571113586,0.6735234260559082,medication,"medication, treatment, care, drugs, medications",BERT-base
+patient,for the last two years,The patient is taking <mask> for the last two years.,1,0.4041211903095245,0.6861963868141174,medication,"medication, antibiotics, treatment, medications, chemotherapy",BERT-base
+patient,for years,The patient is taking <mask> for years.,1,0.3254840075969696,0.6888939738273621,medication,"medication, drugs, antibiotics, it, medications",BERT-base
+patient,for two days,The patient is taking <mask> for two days.,1,0.5162698030471802,0.7108712792396545,medication,"medication, antibiotics, medications, it, drugs",BERT-base
+patient,since the last 2 minutes,The patient is taking <mask> since the last 2 minutes.,1,0.4308542311191559,0.5762873291969299,medication,"medication, antibiotics, it, medications, drugs",BERT-base
+patient,since yesterday,The patient is taking <mask> since yesterday.,1,0.4063372313976288,0.5583364367485046,medication,"medication, drugs, it, antibiotics, care",BERT-base
+patient,every day,The patient is taking <mask> every day.,1,0.3289429247379303,0.4649732112884521,medication,"medication, it, them, antibiotics, drugs",BERT-base
+patient,right now,The patient is taking <mask> right now.,1,0.1072127968072891,0.1850741654634475,medication,"medication, it, off, over, surgery",BERT-base
+patient,at the moment,The patient is taking <mask> at the moment.,2,0.1538372784852981,0.2186781018972396,care,"care, medication, risks, it, control",BERT-base
+person,(none),The person is taking <mask>.,20,0.0076250475831329,0.0377063080668449,over,"over, off, pictures, it, risks",BERT-base
+person,since the last 2 years,The person is taking <mask> since the last 2 years.,1,0.0929112434387207,0.2014880776405334,medication,"medication, drugs, care, it, classes",BERT-base
+person,for the last two years,The person is taking <mask> for the last two years.,1,0.1866903007030487,0.3179031014442444,medication,"medication, drugs, over, classes, medications",BERT-base
+person,for years,The person is taking <mask> for years.,2,0.1710910201072693,0.7201559543609619,drugs,"drugs, medication, it, medications, pills",BERT-base
+person,for two days,The person is taking <mask> for two days.,1,0.5196509957313538,0.702722430229187,medication,"medication, drugs, medications, it, care",BERT-base
+person,since the last 2 minutes,The person is taking <mask> since the last 2 minutes.,5,0.0326014459133148,0.0687769502401351,notes,"notes, it, turns, pictures, medication",BERT-base
+person,since yesterday,The person is taking <mask> since yesterday.,12,0.0190445426851511,0.0598136074841022,it,"it, notes, over, drugs, her",BERT-base
+person,every day,The person is taking <mask> every day.,2,0.0605277381837368,0.1238562315702438,it,"it, medication, them, drugs, off",BERT-base
+person,right now,The person is taking <mask> right now.,27,0.0036667282693088,0.0155834071338176,over,"over, off, it, charge, pictures",BERT-base
+person,at the moment,The person is taking <mask> at the moment.,40,0.002555425511673,0.0069849239662289,risks,"risks, charge, control, responsibility, over",BERT-base
+man,(none),The man is taking <mask>.,53,0.0016191999893635,0.0143799791112542,off,"off, pictures, over, it, her",BERT-base
+man,since the last 2 years,The man is taking <mask> since the last 2 years.,4,0.022415580227971,0.1649568080902099,drugs,"drugs, over, orders, medication, ill",BERT-base
+man,for the last two years,The man is taking <mask> for the last two years.,7,0.0219799559563398,0.1561530381441116,over,"over, drugs, off, notes, pictures",BERT-base
+man,for years,The man is taking <mask> for years.,19,0.0049115112051367,0.2091579735279083,drugs,"drugs, over, off, it, her",BERT-base
+man,for two days,The man is taking <mask> for two days.,10,0.0273842606693506,0.1224417090415954,off,"off, her, drugs, over, him",BERT-base
+man,since the last 2 minutes,The man is taking <mask> since the last 2 minutes.,8,0.0155382174998521,0.0671988502144813,off,"off, over, notes, drugs, it",BERT-base
+man,since yesterday,The man is taking <mask> since yesterday.,20,0.0086696334183216,0.0377579592168331,orders,"orders, it, off, over, me",BERT-base
+man,every day,The man is taking <mask> every day.,28,0.0040342514403164,0.0257697533816099,off,"off, it, me, orders, her",BERT-base
+man,right now,The man is taking <mask> right now.,50,0.0012772373156622,0.0103557044640183,off,"off, over, charge, it, her",BERT-base
+man,at the moment,The man is taking <mask> at the moment.,47,0.0025100698694586,0.0098373349756002,risks,"risks, charge, control, nothing, over",BERT-base
+woman,(none),The woman is taking <mask>.,25,0.0044615832157433,0.0142107745632529,off,"off, pictures, over, it, notes",BERT-base
+woman,since the last 2 years,The woman is taking <mask> since the last 2 years.,1,0.118640549480915,0.2565166652202606,medication,"medication, drugs, ill, over, care",BERT-base
+woman,for the last two years,The woman is taking <mask> for the last two years.,2,0.0789236947894096,0.1575176119804382,over,"over, medication, drugs, off, it",BERT-base
+woman,for years,The woman is taking <mask> for years.,6,0.0507208742201328,0.3012623190879822,drugs,"drugs, it, over, him, off",BERT-base
+woman,for two days,The woman is taking <mask> for two days.,1,0.1129514649510383,0.1857920736074447,medication,"medication, off, him, it, her",BERT-base
+woman,since the last 2 minutes,The woman is taking <mask> since the last 2 minutes.,4,0.0386252105236053,0.0867079719901084,notes,"notes, it, over, medication, off",BERT-base
+woman,since yesterday,The woman is taking <mask> since yesterday.,8,0.028905265033245,0.0615030936896801,it,"it, notes, care, orders, over",BERT-base
+woman,every day,The woman is taking <mask> every day.,15,0.0120851248502731,0.0279686544090509,it,"it, off, them, over, pictures",BERT-base
+woman,right now,The woman is taking <mask> right now.,28,0.0032594944350421,0.0129863442853093,off,"off, over, charge, it, her",BERT-base
+woman,at the moment,The woman is taking <mask> at the moment.,29,0.0047964216209948,0.0131119070574641,charge,"charge, risks, care, over, control",BERT-base
+someone,(none),Someone is taking <mask>.,60,0.0006155724986456,0.0126653695479035,her,"her, off, pictures, him, over",BERT-base
+someone,since the last 2 years,Someone is taking <mask> since the last 2 years.,26,0.0068228500895202,0.0693952068686485,over,"over, drugs, it, him, off",BERT-base
+someone,for the last two years,Someone is taking <mask> for the last two years.,35,0.0014703951310366,0.0232020560652017,over,"over, them, responsibility, him, her",BERT-base
+someone,for years,Someone is taking <mask> for years.,39,0.0012885541655123,0.0346249639987945,over,"over, her, him, it, them",BERT-base
+someone,for two days,Someone is taking <mask> for two days.,14,0.0042358227074146,0.0287215299904346,her,"her, him, me, over, off",BERT-base
+someone,since the last 2 minutes,Someone is taking <mask> since the last 2 minutes.,11,0.017345055937767,0.0951266959309578,over,"over, off, drugs, it, notes",BERT-base
+someone,since yesterday,Someone is taking <mask> since yesterday.,24,0.0060854661278426,0.0410887710750103,over,"over, off, her, it, him",BERT-base
+someone,every day,Someone is taking <mask> every day.,20,0.004077460616827,0.0180329978466033,over,"over, me, it, them, her",BERT-base
+someone,right now,Someone is taking <mask> right now.,46,0.0009261778322979,0.0146888373419642,off,"off, over, her, pictures, him",BERT-base
+someone,at the moment,Someone is taking <mask> at the moment.,68,0.0011676715221256,0.0083854300901293,over,"over, off, charge, pictures, cover",BERT-base
+he,(none),He is taking <mask>.,50,0.0014402121305465,0.0056795920245349,off,"off, over, me, her, it",BERT-base
+he,since the last 2 years,He is taking <mask> since the last 2 years.,9,0.0141018126159906,0.0429841950535774,over,"over, lessons, part, care, it",BERT-base
+he,for the last two years,He is taking <mask> for the last two years.,4,0.029361193999648,0.0585779584944248,over,"over, classes, off, medication, pictures",BERT-base
+he,for years,He is taking <mask> for years.,4,0.0415573306381702,0.2856591045856476,drugs,"drugs, it, over, medication, pictures",BERT-base
+he,for two days,He is taking <mask> for two days.,10,0.0211490634828805,0.0562535934150218,off,"off, her, me, it, over",BERT-base
+he,since the last 2 minutes,He is taking <mask> since the last 2 minutes.,41,0.0039037992246448,0.0142190912738442,over,"over, off, it, turns, me",BERT-base
+he,since yesterday,He is taking <mask> since yesterday.,12,0.0204207431524992,0.0447987355291843,it,"it, off, classes, lessons, over",BERT-base
+he,every day,He is taking <mask> every day.,17,0.0053027882240712,0.0137883992865681,me,"me, it, off, her, them",BERT-base
+he,right now,He is taking <mask> right now.,42,0.0009324259590357,0.0031809888314455,off,"off, over, her, me, it",BERT-base
+he,at the moment,He is taking <mask> at the moment.,57,0.0018645918462425,0.0061157280579209,control,"control, charge, risks, care, responsibility",BERT-base
+she,(none),She is taking <mask>.,33,0.0032978979870676,0.0082761272788047,off,"off, over, it, me, him",BERT-base
+she,since the last 2 years,She is taking <mask> since the last 2 years.,4,0.0422611273825168,0.0847836956381797,lessons,"lessons, classes, over, medication, care",BERT-base
+she,for the last two years,She is taking <mask> for the last two years.,3,0.055478423833847,0.086318202316761,classes,"classes, over, medication, off, lessons",BERT-base
+she,for years,She is taking <mask> for years.,2,0.109244979918003,0.3127411305904388,drugs,"drugs, medication, it, off, them",BERT-base
+she,for two days,She is taking <mask> for two days.,6,0.0404871515929698,0.0701042264699935,off,"off, it, him, me, over",BERT-base
+she,since the last 2 minutes,She is taking <mask> since the last 2 minutes.,10,0.0151736931875348,0.0372448489069938,it,"it, notes, off, over, turns",BERT-base
+she,since yesterday,She is taking <mask> since yesterday.,6,0.0461797937750816,0.0760358572006225,classes,"classes, it, lessons, off, care",BERT-base
+she,every day,She is taking <mask> every day.,15,0.0114200124517083,0.0224586874246597,it,"it, off, me, them, classes",BERT-base
+she,right now,She is taking <mask> right now.,25,0.0028998842462897,0.0075539485551416,off,"off, over, it, charge, me",BERT-base
+she,at the moment,She is taking <mask> at the moment.,32,0.0039974879473447,0.0106704887002706,risks,"risks, charge, control, care, nothing",BERT-base
+people,(none),People are taking <mask>.,22,0.0027434667572379,0.0208308231085538,pictures,"pictures, off, turns, over, notes",BERT-base
+people,since the last 2 years,People are taking <mask> since the last 2 years.,6,0.0262540057301521,0.1081950291991233,it,"it, drugs, classes, jobs, pictures",BERT-base
+people,for the last two years,People are taking <mask> for the last two years.,9,0.0247930381447076,0.1719664633274078,drugs,"drugs, pictures, over, it, off",BERT-base
+people,for years,People are taking <mask> for years.,5,0.0256385691463947,0.3352521657943725,drugs,"drugs, it, them, pills, medication",BERT-base
+people,for two days,People are taking <mask> for two days.,3,0.0850678384304046,0.2365049570798874,drugs,"drugs, it, medication, them, off",BERT-base
+people,since the last 2 minutes,People are taking <mask> since the last 2 minutes.,15,0.0071303923614323,0.0347312055528163,pictures,"pictures, turns, off, notes, breaks",BERT-base
+people,since yesterday,People are taking <mask> since yesterday.,22,0.0057315984740853,0.0378804430365562,off,"off, pictures, shifts, turns, it",BERT-base
+people,every day,People are taking <mask> every day.,10,0.0139611354097723,0.0773656740784645,pictures,"pictures, it, them, off, drugs",BERT-base
+people,right now,People are taking <mask> right now.,28,0.0035368136595934,0.0568244606256485,pictures,"pictures, off, drugs, turns, over",BERT-base
+people,at the moment,People are taking <mask> at the moment.,61,0.0014901275280863,0.0125817842781543,pictures,"pictures, turns, off, notes, risks",BERT-base
+doctor,(none),The doctor is taking <mask>.,11,0.0233141854405403,0.0400527268648147,over,"over, her, off, him, notes",BERT-base
+doctor,since the last 2 years,The doctor is taking <mask> since the last 2 years.,2,0.0922684296965599,0.1979672014713287,over,"over, medication, care, drugs, ill",BERT-base
+doctor,for the last two years,The doctor is taking <mask> for the last two years.,2,0.0510937981307506,0.1134237721562385,over,"over, medication, care, him, her",BERT-base
+doctor,for years,The doctor is taking <mask> for years.,5,0.0636028423905372,0.280670017004013,drugs,"drugs, over, her, him, medication",BERT-base
+doctor,for two days,The doctor is taking <mask> for two days.,9,0.0121094603091478,0.0277294348925352,her,"her, him, me, you, us",BERT-base
+doctor,since the last 2 minutes,The doctor is taking <mask> since the last 2 minutes.,1,0.1598521918058395,0.2317266762256622,medication,"medication, notes, over, pains, orders",BERT-base
+doctor,since yesterday,The doctor is taking <mask> since yesterday.,3,0.0653053075075149,0.1016444414854049,him,"him, her, medication, me, it",BERT-base
+doctor,every day,The doctor is taking <mask> every day.,11,0.0308309458196163,0.0458796992897987,me,"me, her, him, over, us",BERT-base
+doctor,right now,The doctor is taking <mask> right now.,13,0.0099733751267194,0.0204914696514606,over,"over, her, him, you, me",BERT-base
+doctor,at the moment,The doctor is taking <mask> at the moment.,11,0.0142237655818462,0.0290858764201402,care,"care, over, charge, orders, notes",BERT-base
+child,(none),The child is taking <mask>.,27,0.005708837416023,0.0153910871595144,off,"off, flight, care, over, it",BERT-base
+child,since the last 2 years,The child is taking <mask> since the last 2 years.,5,0.0260489899665117,0.0506497472524642,care,"care, birth, lessons, it, medication",BERT-base
+child,for the last two years,The child is taking <mask> for the last two years.,2,0.0718226432800293,0.1223171278834343,care,"care, medication, it, her, them",BERT-base
+child,for years,The child is taking <mask> for years.,3,0.0584201775491237,0.1377832293510437,care,"care, it, medication, drugs, her",BERT-base
+child,for two days,The child is taking <mask> for two days.,3,0.0717789456248283,0.1036369353532791,care,"care, it, medication, communion, shelter",BERT-base
+child,since the last 2 minutes,The child is taking <mask> since the last 2 minutes.,2,0.0575665235519409,0.10386224091053,care,"care, medication, it, blood, action",BERT-base
+child,since yesterday,The child is taking <mask> since yesterday.,19,0.0084258513525128,0.0170202013105154,care,"care, her, lessons, him, it",BERT-base
+child,every day,The child is taking <mask> every day.,6,0.0300679914653301,0.062803603708744,it,"it, care, them, lessons, communion",BERT-base
+child,right now,The child is taking <mask> right now.,35,0.0024644443765282,0.006227939389646,over,"over, her, off, care, charge",BERT-base
+child,at the moment,The child is taking <mask> at the moment.,47,0.0028380211442708,0.0088780829682946,care,"care, over, her, charge, control",BERT-base
+student,(none),The student is taking <mask>.,23,0.0066271871328353,0.0166111476719379,classes,"classes, notes, class, pictures, courses",BERT-base
+student,since the last 2 years,The student is taking <mask> since the last 2 years.,56,0.0009165228111669,0.0052236593328416,classes,"classes, courses, exams, lessons, education",BERT-base
+student,for the last two years,The student is taking <mask> for the last two years.,31,0.0015698575880378,0.0063452469184994,classes,"classes, courses, exams, class, tests",BERT-base
+student,for years,The student is taking <mask> for years.,27,0.0022459232714027,0.009196288883686,classes,"classes, courses, it, exams, lessons",BERT-base
+student,for two days,The student is taking <mask> for two days.,8,0.0106126703321933,0.0196471232920885,classes,"classes, courses, class, lessons, it",BERT-base
+student,since the last 2 minutes,The student is taking <mask> since the last 2 minutes.,16,0.007541752886027,0.0202426463365554,classes,"classes, notes, lessons, class, it",BERT-base
+student,since yesterday,The student is taking <mask> since yesterday.,15,0.0056501454673707,0.0138190099969506,classes,"classes, lessons, notes, class, it",BERT-base
+student,every day,The student is taking <mask> every day.,15,0.0057366592809557,0.0117967771366238,classes,"classes, it, courses, class, lessons",BERT-base
+student,right now,The student is taking <mask> right now.,22,0.0052296249195933,0.0123534332960844,classes,"classes, off, notes, over, class",BERT-base
+student,at the moment,The student is taking <mask> at the moment.,25,0.0056216581724584,0.0118647711351513,classes,"classes, notes, charge, risks, courses",BERT-base
+athlete,(none),The athlete is taking <mask>.,50,0.0010012735147029,0.0022941711358726,part,"part, position, charge, pictures, turns",BERT-base
+athlete,since the last 2 years,The athlete is taking <mask> since the last 2 years.,149,0.0002413610200164,0.0008757583564147,part,"part, place, training, medals, lessons",BERT-base
+athlete,for the last two years,The athlete is taking <mask> for the last two years.,63,0.0009112948318943,0.0022988724522292,part,"part, classes, training, place, measurements",BERT-base
+athlete,for years,The athlete is taking <mask> for years.,19,0.0065282164141535,0.0274618510156869,part,"part, training, lessons, classes, it",BERT-base
+athlete,for two days,The athlete is taking <mask> for two days.,9,0.0089552430436015,0.0162518508732318,part,"part, training, off, measurements, classes",BERT-base
+athlete,since the last 2 minutes,The athlete is taking <mask> since the last 2 minutes.,192,0.0001462471846025,0.0006744193378835,part,"part, penalties, turns, lead, position",BERT-base
+athlete,since yesterday,The athlete is taking <mask> since yesterday.,34,0.0037922295741736,0.0125124435871839,lessons,"lessons, part, it, off, training",BERT-base
+athlete,every day,The athlete is taking <mask> every day.,25,0.0038345581851899,0.0095938378944993,part,"part, walks, training, classes, pictures",BERT-base
+athlete,right now,The athlete is taking <mask> right now.,44,0.0014020300004631,0.0041382736526429,off,"off, over, charge, it, pictures",BERT-base
+athlete,at the moment,The athlete is taking <mask> at the moment.,38,0.0030785377603024,0.006754467729479,risks,"risks, part, control, responsibility, charge",BERT-base
+dog,(none),The dog is taking <mask>.,90,0.0002643101615831,0.0006766822189092,off,"off, over, cover, pictures, charge",BERT-base
+dog,since the last 2 years,The dog is taking <mask> since the last 2 years.,8,0.0162500496953725,0.0272040013223886,care,"care, lessons, off, over, turns",BERT-base
+dog,for the last two years,The dog is taking <mask> for the last two years.,6,0.0188383627682924,0.0378044508397579,care,"care, off, over, turns, him",BERT-base
+dog,for years,The dog is taking <mask> for years.,14,0.0164977759122848,0.0519559234380722,off,"off, over, care, him, it",BERT-base
+dog,for two days,The dog is taking <mask> for two days.,9,0.0225250553339719,0.0401104725897312,off,"off, care, him, her, it",BERT-base
+dog,since the last 2 minutes,The dog is taking <mask> since the last 2 minutes.,15,0.008246493525803,0.0189620703458786,off,"off, turns, over, it, control",BERT-base
+dog,since yesterday,The dog is taking <mask> since yesterday.,26,0.0049178460612893,0.0099124647676944,care,"care, him, off, her, over",BERT-base
+dog,every day,The dog is taking <mask> every day.,42,0.0018051755614578,0.0036113876849412,off,"off, it, turns, him, pictures",BERT-base
+dog,right now,The dog is taking <mask> right now.,60,0.0003981334448326,0.0008935805526562,off,"off, over, charge, her, care",BERT-base
+dog,at the moment,The dog is taking <mask> at the moment.,32,0.0040294043719768,0.0087860543280839,care,"care, off, charge, over, turns",BERT-base
+machine,(none),The machine is taking <mask>.,180,0.0001382536720484,0.0005915039218962,over,"over, off, shape, flight, forever",BERT-base
+machine,since the last 2 years,The machine is taking <mask> since the last 2 years.,331,0.0001595246430952,0.0008664359920658,place,"place, over, off, up, time",BERT-base
+machine,for the last two years,The machine is taking <mask> for the last two years.,155,0.000285977468593,0.0016834691632539,over,"over, place, off, up, shape",BERT-base
+machine,for years,The machine is taking <mask> for years.,251,0.000101575962617,0.0021357124205678,over,"over, off, place, us, up",BERT-base
+machine,for two days,The machine is taking <mask> for two days.,48,0.0014483863487839,0.0041323713958263,place,"place, off, over, up, us",BERT-base
+machine,since the last 2 minutes,The machine is taking <mask> since the last 2 minutes.,71,0.001566469320096,0.0050638779066503,off,"off, over, time, place, up",BERT-base
+machine,since yesterday,The machine is taking <mask> since yesterday.,107,0.0006994916475377,0.0029036800842732,over,"over, shape, time, place, it",BERT-base
+machine,every day,The machine is taking <mask> every day.,122,0.0004735180700663,0.0023012536112219,over,"over, off, place, up, shape",BERT-base
+machine,right now,The machine is taking <mask> right now.,109,0.0002183598116971,0.0007499722996726,over,"over, off, shape, flight, control",BERT-base
+machine,at the moment,The machine is taking <mask> at the moment.,218,0.0002289287949679,0.0013485978124663,over,"over, off, shape, place, time",BERT-base
+none,(none),Taking <mask>.,130,0.0004062190419062,0.0020424155518412,control,"control, turns, care, it, over",BERT-base
+none,since the last 2 years,Taking <mask> since the last 2 years.,376,3.613817898440175e-05,0.0002685092913452,place,"place, part, over, effect, off",BERT-base
+none,for the last two years,Taking <mask> for the last two years.,27,0.0043572736904025,0.0152578754350543,over,"over, her, off, me, them",BERT-base
+none,for years,Taking <mask> for years.,30,0.0013712185900658,0.0181421656161546,her,"her, him, me, off, it",BERT-base
+none,for two days,Taking <mask> for two days.,12,0.0041009611450135,0.0171190574765205,her,"her, off, him, me, it",BERT-base
+none,since the last 2 minutes,Taking <mask> since the last 2 minutes.,170,0.0005432071047835,0.0028383317403495,off,"off, over, me, turns, it",BERT-base
+none,since yesterday,Taking <mask> since yesterday.,78,0.0009002707083709,0.0043252883478999,her,"her, me, them, it, him",BERT-base
+none,every day,Taking <mask> every day.,60,0.000712486449629,0.0033865412697196,her,"her, it, them, him, off",BERT-base
+none,right now,Taking <mask> right now.,275,5.591774970525876e-05,0.0003563552163541,her,"her, control, charge, over, him",BERT-base
+none,at the moment,Taking <mask> at the moment.,301,0.0001421399210812,0.0012135863071307,nothing,"nothing, charge, care, control, her",BERT-base
+patient,(none),The patient is taking <mask>.,1,0.3313057422637939,0.6184982061386108,medication,"medication, drugs, medicine, care, blood",BERT-large
+patient,since the last 2 years,The patient is taking <mask> since the last 2 years.,1,0.5484835505485535,0.8320477604866028,medication,"medication, drugs, antibiotics, medications, treatment",BERT-large
+patient,for the last two years,The patient is taking <mask> for the last two years.,1,0.5006523132324219,0.8026295304298401,medication,"medication, drugs, treatment, medications, antibiotics",BERT-large
+patient,for years,The patient is taking <mask> for years.,2,0.2120729088783264,0.6397298574447632,drugs,"drugs, medication, it, treatment, medications",BERT-large
+patient,for two days,The patient is taking <mask> for two days.,1,0.4610077738761902,0.7478066086769104,medication,"medication, drugs, antibiotics, medications, insulin",BERT-large
+patient,since the last 2 minutes,The patient is taking <mask> since the last 2 minutes.,1,0.2928178906440735,0.4957462549209595,medication,"medication, oxygen, blood, drugs, insulin",BERT-large
+patient,since yesterday,The patient is taking <mask> since yesterday.,1,0.4712332487106323,0.7191452980041504,medication,"medication, drugs, antibiotics, insulin, medications",BERT-large
+patient,every day,The patient is taking <mask> every day.,2,0.1132963523268699,0.3284835815429687,it,"it, medication, them, drugs, insulin",BERT-large
+patient,right now,The patient is taking <mask> right now.,3,0.0548863597214221,0.1580797880887985,it,"it, notes, medication, care, off",BERT-large
+patient,at the moment,The patient is taking <mask> at the moment.,3,0.0960670188069343,0.1918963491916656,care,"care, ill, medication, leave, notes",BERT-large
+person,(none),The person is taking <mask>.,12,0.0199638120830059,0.2644157409667969,drugs,"drugs, risks, control, advantage, off",BERT-large
+person,since the last 2 years,The person is taking <mask> since the last 2 years.,3,0.0766542255878448,0.2871632277965545,drugs,"drugs, ill, medication, off, leave",BERT-large
+person,for the last two years,The person is taking <mask> for the last two years.,7,0.0347311608493328,0.1873477846384048,drugs,"drugs, off, bribes, residence, leave",BERT-large
+person,for years,The person is taking <mask> for years.,2,0.0870423838496208,0.693531334400177,drugs,"drugs, medication, it, pills, them",BERT-large
+person,for two days,The person is taking <mask> for two days.,2,0.1865338236093521,0.3586541414260864,care,"care, medication, drugs, medications, residence",BERT-large
+person,since the last 2 minutes,The person is taking <mask> since the last 2 minutes.,4,0.0593469701707363,0.237930566072464,drugs,"drugs, action, notes, medication, breath",BERT-large
+person,since yesterday,The person is taking <mask> since yesterday.,7,0.0239117071032524,0.1700154244899749,drugs,"drugs, off, it, over, notes",BERT-large
+person,every day,The person is taking <mask> every day.,4,0.0495073124766349,0.4643724262714386,drugs,"drugs, pills, it, medication, them",BERT-large
+person,right now,The person is taking <mask> right now.,58,0.0006825907039456,0.0168176218867301,me,"me, it, off, you, over",BERT-large
+person,at the moment,The person is taking <mask> at the moment.,19,0.0091995876282453,0.0453600399196147,charge,"charge, possession, notes, pictures, over",BERT-large
+man,(none),The man is taking <mask>.,130,0.0002830288722179,0.0116850873455405,over,"over, control, it, charge, off",BERT-large
+man,since the last 2 years,The man is taking <mask> since the last 2 years.,4,0.036499660462141,0.2099011987447738,drugs,"drugs, off, ill, medication, care",BERT-large
+man,for the last two years,The man is taking <mask> for the last two years.,10,0.0104615492746233,0.1019916459918022,off,"off, drugs, over, it, pictures",BERT-large
+man,for years,The man is taking <mask> for years.,19,0.00474164634943,0.1439370214939117,it,"it, drugs, me, her, them",BERT-large
+man,for two days,The man is taking <mask> for two days.,11,0.0101968897506594,0.0411175489425659,off,"off, her, me, you, him",BERT-large
+man,since the last 2 minutes,The man is taking <mask> since the last 2 minutes.,24,0.0083396844565868,0.0573337003588676,pictures,"pictures, notes, it, action, drugs",BERT-large
+man,since yesterday,The man is taking <mask> since yesterday.,20,0.0094683719798922,0.0709109976887703,over,"over, off, it, drugs, orders",BERT-large
+man,every day,The man is taking <mask> every day.,55,0.0015814494108781,0.0594515390694141,it,"it, off, them, more, me",BERT-large
+man,right now,The man is taking <mask> right now.,191,8.894548955140635e-05,0.0053526060655713,me,"me, off, her, over, you",BERT-large
+man,at the moment,The man is taking <mask> at the moment.,28,0.0041272738017141,0.0250742323696613,off,"off, pictures, over, charge, notes",BERT-large
+woman,(none),The woman is taking <mask>.,70,0.0006846919422969,0.014780388213694,over,"over, control, it, him, off",BERT-large
+woman,since the last 2 years,The woman is taking <mask> since the last 2 years.,2,0.1662402153015136,0.3120730221271515,ill,"ill, medication, drugs, care, cancer",BERT-large
+woman,for the last two years,The woman is taking <mask> for the last two years.,2,0.1337589472532272,0.310526967048645,off,"off, medication, drugs, ill, pills",BERT-large
+woman,for years,The woman is taking <mask> for years.,4,0.0706055536866188,0.2889499962329864,drugs,"drugs, it, them, medication, him",BERT-large
+woman,for two days,The woman is taking <mask> for two days.,2,0.1098259687423706,0.1952966153621673,off,"off, medication, ill, him, sick",BERT-large
+woman,since the last 2 minutes,The woman is taking <mask> since the last 2 minutes.,2,0.0828620642423629,0.2331642210483551,blood,"blood, medication, drugs, notes, pills",BERT-large
+woman,since yesterday,The woman is taking <mask> since yesterday.,4,0.0487353429198265,0.1303201913833618,over,"over, off, it, medication, drugs",BERT-large
+woman,every day,The woman is taking <mask> every day.,15,0.0100799994543194,0.1463870555162429,it,"it, more, them, off, pills",BERT-large
+woman,right now,The woman is taking <mask> right now.,103,0.0002381941158091,0.0097542740404605,me,"me, off, him, over, you",BERT-large
+woman,at the moment,The woman is taking <mask> at the moment.,17,0.0086690541356801,0.0247108880430459,over,"over, charge, pictures, off, notes",BERT-large
+someone,(none),Someone is taking <mask>.,136,0.0001426278467988,0.0057818875648081,her,"her, me, him, it, over",BERT-large
+someone,since the last 2 years,Someone is taking <mask> since the last 2 years.,68,0.0013678269460797,0.0567556545138359,over,"over, bribes, it, drugs, off",BERT-large
+someone,for the last two years,Someone is taking <mask> for the last two years.,75,0.0004337345599196,0.0174230076372623,over,"over, responsibility, it, credit, revenge",BERT-large
+someone,for years,Someone is taking <mask> for years.,36,0.0014983988367021,0.0558568611741066,it,"it, them, him, her, me",BERT-large
+someone,for two days,Someone is taking <mask> for two days.,21,0.0024842529091984,0.0227513778954744,him,"him, off, her, you, me",BERT-large
+someone,since the last 2 minutes,Someone is taking <mask> since the last 2 minutes.,88,0.0009649200364947,0.0297435317188501,pictures,"pictures, over, possession, notes, off",BERT-large
+someone,since yesterday,Someone is taking <mask> since yesterday.,63,0.0009306267020292,0.0342965722084045,over,"over, it, pictures, them, off",BERT-large
+someone,every day,Someone is taking <mask> every day.,58,0.0008407310815528,0.0641431435942649,it,"it, them, drugs, me, her",BERT-large
+someone,right now,Someone is taking <mask> right now.,148,9.37324803089723e-05,0.0050730435177683,me,"me, her, you, him, over",BERT-large
+someone,at the moment,Someone is taking <mask> at the moment.,99,0.0004060358332935,0.0104768527671694,over,"over, pictures, it, charge, possession",BERT-large
+he,(none),He is taking <mask>.,92,0.0005396285559982,0.0088180787861347,me,"me, control, her, it, over",BERT-large
+he,since the last 2 years,He is taking <mask> since the last 2 years.,23,0.005669352132827,0.0150049328804016,part,"part, over, off, lessons, classes",BERT-large
+he,for the last two years,He is taking <mask> for the last two years.,10,0.0129376268014311,0.0423533245921134,off,"off, leave, it, classes, over",BERT-large
+he,for years,He is taking <mask> for years.,5,0.0325141064822673,0.2278864681720733,it,"it, drugs, them, her, medication",BERT-large
+he,for two days,He is taking <mask> for two days.,12,0.0039849244058132,0.0114571750164031,off,"off, me, her, you, leave",BERT-large
+he,since the last 2 minutes,He is taking <mask> since the last 2 minutes.,90,0.0012986714718863,0.0113744363188743,off,"off, advantage, it, damage, action",BERT-large
+he,since yesterday,He is taking <mask> since yesterday.,3,0.0445076711475849,0.1102705374360084,off,"off, it, medication, notes, over",BERT-large
+he,every day,He is taking <mask> every day.,12,0.0148105612024664,0.1188766583800315,it,"it, them, one, me, pills",BERT-large
+he,right now,He is taking <mask> right now.,75,0.0001869477127911,0.0026836711913347,me,"me, off, her, you, it",BERT-large
+he,at the moment,He is taking <mask> at the moment.,15,0.0094153378158807,0.0277022197842597,off,"off, pictures, notes, over, photos",BERT-large
+she,(none),She is taking <mask>.,42,0.0029300791211426,0.0268590245395898,over,"over, control, it, me, off",BERT-large
+she,since the last 2 years,She is taking <mask> since the last 2 years.,9,0.0173855125904083,0.0410287790000438,classes,"classes, lessons, over, part, ill",BERT-large
+she,for the last two years,She is taking <mask> for the last two years.,3,0.0458587333559989,0.0987001955509185,off,"off, classes, medication, leave, it",BERT-large
+she,for years,She is taking <mask> for years.,3,0.0966878458857536,0.3041988611221313,it,"it, drugs, medication, them, pills",BERT-large
+she,for two days,She is taking <mask> for two days.,12,0.0140249049291014,0.028748394921422,off,"off, me, him, leave, them",BERT-large
+she,since the last 2 minutes,She is taking <mask> since the last 2 minutes.,24,0.0066527733579277,0.0365420617163181,off,"off, notes, it, pictures, action",BERT-large
+she,since yesterday,She is taking <mask> since yesterday.,2,0.0938479304313659,0.1927525550127029,off,"off, medication, tests, pills, it",BERT-large
+she,every day,She is taking <mask> every day.,7,0.0275552459061145,0.1421164572238922,them,"them, it, pills, tests, one",BERT-large
+she,right now,She is taking <mask> right now.,42,0.0009566268417984,0.008206789381802,off,"off, me, it, you, him",BERT-large
+she,at the moment,She is taking <mask> at the moment.,9,0.0235312040895223,0.0509686656296253,pictures,"pictures, notes, off, ill, over",BERT-large
+people,(none),People are taking <mask>.,140,0.0001691837969701,0.0121186431497335,pictures,"pictures, off, notice, photos, cover",BERT-large
+people,since the last 2 years,People are taking <mask> since the last 2 years.,33,0.0034529594704508,0.0181454736739397,shelter,"shelter, part, off, refuge, care",BERT-large
+people,for the last two years,People are taking <mask> for the last two years.,46,0.0016057291068136,0.0291753150522708,off,"off, pictures, over, notice, precautions",BERT-large
+people,for years,People are taking <mask> for years.,32,0.0029275023844093,0.1204843819141388,it,"it, off, drugs, them, pictures",BERT-large
+people,for two days,People are taking <mask> for two days.,39,0.0029579775873571,0.0314167775213718,off,"off, pictures, shelter, it, over",BERT-large
+people,since the last 2 minutes,People are taking <mask> since the last 2 minutes.,197,0.0001320906158071,0.0022190727759152,pictures,"pictures, off, photos, notice, notes",BERT-large
+people,since yesterday,People are taking <mask> since yesterday.,84,0.0006648293347097,0.0077053694985806,off,"off, pictures, notice, over, leave",BERT-large
+people,every day,People are taking <mask> every day.,35,0.0038081568200141,0.0733862295746803,off,"off, pictures, it, them, samples",BERT-large
+people,right now,People are taking <mask> right now.,205,0.0001030000785249,0.0119588011875748,off,"off, pictures, notice, photos, it",BERT-large
+people,at the moment,People are taking <mask> at the moment.,166,0.0002319672057637,0.0049032536335289,pictures,"pictures, off, notice, photos, notes",BERT-large
+doctor,(none),The doctor is taking <mask>.,19,0.0085309585556387,0.0391507744789123,notes,"notes, over, him, me, it",BERT-large
+doctor,since the last 2 years,The doctor is taking <mask> since the last 2 years.,2,0.1128779649734497,0.2045766562223434,care,"care, medication, ill, sick, drugs",BERT-large
+doctor,for the last two years,The doctor is taking <mask> for the last two years.,1,0.1229762583971023,0.2754988074302673,medication,"medication, him, drugs, it, notes",BERT-large
+doctor,for years,The doctor is taking <mask> for years.,9,0.0189903210848569,0.1005545780062675,it,"it, him, her, them, me",BERT-large
+doctor,for two days,The doctor is taking <mask> for two days.,39,0.0001306978956563,0.0004886970273219,me,"me, him, her, you, us",BERT-large
+doctor,since the last 2 minutes,The doctor is taking <mask> since the last 2 minutes.,5,0.0366112627089023,0.0988022461533546,notes,"notes, blood, care, him, medication",BERT-large
+doctor,since yesterday,The doctor is taking <mask> since yesterday.,10,0.0150551181286573,0.0454650372266769,him,"him, her, tests, it, me",BERT-large
+doctor,every day,The doctor is taking <mask> every day.,22,0.002601696876809,0.0169342085719108,me,"me, him, them, you, tests",BERT-large
+doctor,right now,The doctor is taking <mask> right now.,31,0.001818643300794,0.0088058216497302,him,"him, her, me, you, it",BERT-large
+doctor,at the moment,The doctor is taking <mask> at the moment.,22,0.0036101108416914,0.0118103260174393,over,"over, notes, it, charge, me",BERT-large
+child,(none),The child is taking <mask>.,43,0.0043042586185038,0.0297985225915908,control,"control, it, over, charge, ill",BERT-large
+child,since the last 2 years,The child is taking <mask> since the last 2 years.,1,0.2305037528276443,0.4748143851757049,medication,"medication, ill, drugs, care, sick",BERT-large
+child,for the last two years,The child is taking <mask> for the last two years.,1,0.2646310329437256,0.4816505908966064,medication,"medication, ill, drugs, sick, medications",BERT-large
+child,for years,The child is taking <mask> for years.,2,0.1635327935218811,0.5384800434112549,drugs,"drugs, medication, ill, it, medications",BERT-large
+child,for two days,The child is taking <mask> for two days.,1,0.1798973232507705,0.3445664942264557,medication,"medication, care, drugs, sick, ill",BERT-large
+child,since the last 2 minutes,The child is taking <mask> since the last 2 minutes.,1,0.1509587615728378,0.334968090057373,medication,"medication, drugs, oxygen, blood, breaths",BERT-large
+child,since yesterday,The child is taking <mask> since yesterday.,3,0.0458693020045757,0.1183404326438903,ill,"ill, sick, medication, blood, tests",BERT-large
+child,every day,The child is taking <mask> every day.,4,0.0530366003513336,0.2117099016904831,it,"it, drugs, more, medication, sick",BERT-large
+child,right now,The child is taking <mask> right now.,95,0.0004231964994687,0.0049090571701526,me,"me, him, over, you, her",BERT-large
+child,at the moment,The child is taking <mask> at the moment.,43,0.0028567991685122,0.0124014047905802,ill,"ill, care, priority, charge, over",BERT-large
+student,(none),The student is taking <mask>.,6,0.0382005535066127,0.0604855008423328,notes,"notes, tests, english, exams, courses",BERT-large
+student,since the last 2 years,The student is taking <mask> since the last 2 years.,25,0.0030625637155026,0.0077057369053363,courses,"courses, classes, exams, part, it",BERT-large
+student,for the last two years,The student is taking <mask> for the last two years.,37,0.0014657168649137,0.0034242577385157,courses,"courses, classes, exams, it, english",BERT-large
+student,for years,The student is taking <mask> for years.,6,0.0324461795389652,0.1023855581879615,classes,"classes, it, lessons, courses, drugs",BERT-large
+student,for two days,The student is taking <mask> for two days.,34,0.002059958409518,0.0037042940966784,classes,"classes, courses, class, it, lessons",BERT-large
+student,since the last 2 minutes,The student is taking <mask> since the last 2 minutes.,8,0.0140001690015196,0.0342592895030975,notes,"notes, action, pictures, tests, it",BERT-large
+student,since yesterday,The student is taking <mask> since yesterday.,4,0.0279277451336383,0.0464131087064743,notes,"notes, classes, tests, medication, courses",BERT-large
+student,every day,The student is taking <mask> every day.,5,0.0374532602727413,0.0710745081305503,tests,"tests, classes, exams, notes, medication",BERT-large
+student,right now,The student is taking <mask> right now.,38,0.0024682513903826,0.0064994781278073,notes,"notes, off, it, class, classes",BERT-large
+student,at the moment,The student is taking <mask> at the moment.,25,0.0057312417775392,0.011478018015623,notes,"notes, leave, residence, classes, pictures",BERT-large
+athlete,(none),The athlete is taking <mask>.,75,0.0005368798738345,0.0124954041093587,part,"part, off, turns, notes, action",BERT-large
+athlete,since the last 2 years,The athlete is taking <mask> since the last 2 years.,38,0.0018287891289219,0.0090205036103725,part,"part, off, classes, lessons, training",BERT-large
+athlete,for the last two years,The athlete is taking <mask> for the last two years.,34,0.0027046613395214,0.0195686016231775,part,"part, residence, classes, off, leave",BERT-large
+athlete,for years,The athlete is taking <mask> for years.,2,0.0503662638366222,0.3530517816543579,drugs,"drugs, medication, it, ill, off",BERT-large
+athlete,for two days,The athlete is taking <mask> for two days.,14,0.0147109040990471,0.0442982278764247,off,"off, rest, residence, part, showers",BERT-large
+athlete,since the last 2 minutes,The athlete is taking <mask> since the last 2 minutes.,77,0.0010979296639561,0.0370231606066226,action,"action, position, aim, off, turns",BERT-large
+athlete,since yesterday,The athlete is taking <mask> since yesterday.,8,0.0258299242705106,0.0791321024298667,off,"off, notes, tests, showers, drugs",BERT-large
+athlete,every day,The athlete is taking <mask> every day.,17,0.0116220861673355,0.0788183659315109,part,"part, tests, off, drugs, rest",BERT-large
+athlete,right now,The athlete is taking <mask> right now.,74,0.0005545868189074,0.0067352433688938,off,"off, it, action, over, charge",BERT-large
+athlete,at the moment,The athlete is taking <mask> at the moment.,34,0.0028405799530446,0.0176302157342433,off,"off, part, notes, pictures, charge",BERT-large
+dog,(none),The dog is taking <mask>.,338,5.895057620364241e-05,0.0013446217635646,off,"off, over, me, him, it",BERT-large
+dog,since the last 2 years,The dog is taking <mask> since the last 2 years.,11,0.012410051189363,0.0445663183927536,off,"off, care, ill, over, pictures",BERT-large
+dog,for the last two years,The dog is taking <mask> for the last two years.,17,0.0098855113610625,0.0509871467947959,off,"off, him, it, ill, baths",BERT-large
+dog,for years,The dog is taking <mask> for years.,30,0.0030165903735905,0.0197885204106569,it,"it, him, off, baths, me",BERT-large
+dog,for two days,The dog is taking <mask> for two days.,32,0.0025943205691874,0.0120286494493484,him,"him, her, off, it, over",BERT-large
+dog,since the last 2 minutes,The dog is taking <mask> since the last 2 minutes.,93,0.001255695708096,0.0073303068056702,off,"off, over, it, care, damage",BERT-large
+dog,since yesterday,The dog is taking <mask> since yesterday.,86,0.0008101548883132,0.0064589660614728,over,"over, off, me, him, it",BERT-large
+dog,every day,The dog is taking <mask> every day.,128,0.0004161591350566,0.0060441098175942,me,"me, him, it, off, pictures",BERT-large
+dog,right now,The dog is taking <mask> right now.,440,3.624452438089065e-05,0.0006585263181477,me,"me, off, over, him, you",BERT-large
+dog,at the moment,The dog is taking <mask> at the moment.,129,0.0003764794964808,0.0024689910933375,over,"over, off, pictures, me, care",BERT-large
+machine,(none),The machine is taking <mask>.,312,5.200885425438173e-05,0.0009796805679798,over,"over, off, charge, control, pictures",BERT-large
+machine,since the last 2 years,The machine is taking <mask> since the last 2 years.,391,0.0001563210535096,0.0011811862932518,shape,"shape, off, up, place, over",BERT-large
+machine,for the last two years,The machine is taking <mask> for the last two years.,84,0.0015807232121005,0.0119537413120269,over,"over, off, pictures, place, up",BERT-large
+machine,for years,The machine is taking <mask> for years.,154,0.0006044800393283,0.0082416199147701,pictures,"pictures, place, over, me, off",BERT-large
+machine,for two days,The machine is taking <mask> for two days.,111,0.000704986101482,0.0048815254122018,off,"off, pictures, him, effect, place",BERT-large
+machine,since the last 2 minutes,The machine is taking <mask> since the last 2 minutes.,119,0.0007837491575628,0.005084672011435,pictures,"pictures, off, time, action, over",BERT-large
+machine,since yesterday,The machine is taking <mask> since yesterday.,105,0.0008145465399138,0.0051603843457996,over,"over, pictures, turns, off, time",BERT-large
+machine,every day,The machine is taking <mask> every day.,138,0.0005514152580872,0.0115511668846011,over,"over, pictures, turns, off, samples",BERT-large
+machine,right now,The machine is taking <mask> right now.,168,0.0001161804539151,0.0016014563152566,over,"over, me, off, you, us",BERT-large
+machine,at the moment,The machine is taking <mask> at the moment.,227,0.000145430851262,0.0013190527679398,over,"over, charge, effect, pictures, off",BERT-large
+none,(none),Taking <mask>.,309,0.0001258988922927,0.0032133876811712,pictures,"pictures, risks, care, control, notes",BERT-large
+none,since the last 2 years,Taking <mask> since the last 2 years.,1878,1.6645356026856462e-06,2.45140035985969e-05,place,"place, shape, off, part, effect",BERT-large
+none,for the last two years,Taking <mask> for the last two years.,116,0.0007554407930001,0.0051620379090309,over,"over, off, it, place, classes",BERT-large
+none,for years,Taking <mask> for years.,149,0.000157837945153,0.0066616423428058,me,"me, her, it, him, off",BERT-large
+none,for two days,Taking <mask> for two days.,796,1.9672303096740507e-05,0.0005923608550801,off,"off, him, it, them, me",BERT-large
+none,since the last 2 minutes,Taking <mask> since the last 2 minutes.,483,9.605180821381508e-05,0.0008815607288852,place,"place, effect, time, off, action",BERT-large
+none,since yesterday,Taking <mask> since yesterday.,172,0.0002497441018931,0.0033761225640773,over,"over, off, time, notes, it",BERT-large
+none,every day,Taking <mask> every day.,29,0.0054393224418163,0.0482508912682533,one,"one, notes, pictures, classes, them",BERT-large
+none,right now,Taking <mask> right now.,2230,8.273818252746423e-07,8.013987098820508e-05,her,"her, me, you, off, him",BERT-large
+none,at the moment,Taking <mask> at the moment.,759,9.86166051006876e-05,0.0016462907660752,care,"care, charge, up, off, it",BERT-large
+patient,(none),The patient is taking <mask>.,2,0.1177361756563186,0.4961470663547516,insulin,"insulin, medication, antidepressants, morphine, drugs",RoBERTa-base
+patient,since the last 2 years,The patient is taking <mask> since the last 2 years.,1,0.2363976091146469,0.6475286483764648,medication,"medication, drugs, insulin, medications, pills",RoBERTa-base
+patient,for the last two years,The patient is taking <mask> for the last two years.,1,0.2043534219264984,0.5500732660293579,medication,"medication, insulin, antidepressants, chemotherapy, testosterone",RoBERTa-base
+patient,for years,The patient is taking <mask> for years.,1,0.2552186846733093,0.7037409543991089,medication,"medication, medications, drugs, opioids, insulin",RoBERTa-base
+patient,for two days,The patient is taking <mask> for two days.,2,0.1464134901762008,0.6510089039802551,antibiotics,"antibiotics, medication, insulin, aspirin, morphine",RoBERTa-base
+patient,since the last 2 minutes,The patient is taking <mask> since the last 2 minutes.,2,0.0822010487318039,0.2454524338245391,nothing,"nothing, medication, oxygen, insulin, breaths",RoBERTa-base
+patient,since yesterday,The patient is taking <mask> since yesterday.,1,0.2064341008663177,0.6784132719039917,medication,"medication, antibiotics, insulin, morphine, medicine",RoBERTa-base
+patient,every day,The patient is taking <mask> every day.,2,0.0899526104331016,0.4891994595527649,insulin,"insulin, medication, it, aspirin, them",RoBERTa-base
+patient,right now,The patient is taking <mask> right now.,1,0.1241011321544647,0.4097769558429718,medication,"medication, antibiotics, insulin, antidepressants, chemotherapy",RoBERTa-base
+patient,at the moment,The patient is taking <mask> at the moment.,1,0.2585702240467071,0.5449479222297668,medication,"medication, antibiotics, antidepressants, morphine, oxygen",RoBERTa-base
+person,(none),The person is taking <mask>.,15,0.0079655898734927,0.0990858599543571,notes,"notes, selfies, pictures, drugs, photos",RoBERTa-base
+person,since the last 2 years,The person is taking <mask> since the last 2 years.,2,0.1169092655181884,0.4108983874320984,drugs,"drugs, medication, pills, medications, bribes",RoBERTa-base
+person,for the last two years,The person is taking <mask> for the last two years.,1,0.1698474735021591,0.2768056690692901,medication,"medication, classes, credit, testosterone, medications",RoBERTa-base
+person,for years,The person is taking <mask> for years.,1,0.1897539049386978,0.5078837871551514,medication,"medication, pills, drugs, medications, payments",RoBERTa-base
+person,for two days,The person is taking <mask> for two days.,1,0.3144348263740539,0.56678706407547,medication,"medication, antibiotics, off, it, insulin",RoBERTa-base
+person,since the last 2 minutes,The person is taking <mask> since the last 2 minutes.,18,0.0070360656827688,0.0194061156362295,pictures,"pictures, notes, selfies, photos, calls",RoBERTa-base
+person,since yesterday,The person is taking <mask> since yesterday.,1,0.2891368865966797,0.5015780925750732,medication,"medication, drugs, pills, medications, pictures",RoBERTa-base
+person,every day,The person is taking <mask> every day.,1,0.1115297824144363,0.3058204054832458,medication,"medication, vitamins, it, insulin, pills",RoBERTa-base
+person,right now,The person is taking <mask> right now.,4,0.0528559684753418,0.0926274806261062,pictures,"pictures, photos, action, medication, selfies",RoBERTa-base
+person,at the moment,The person is taking <mask> at the moment.,7,0.023853376507759,0.0602819770574569,selfies,"selfies, photos, pictures, notes, photographs",RoBERTa-base
+man,(none),The man is taking <mask>.,88,0.0009450573124922,0.0196416713297367,notes,"notes, off, pictures, photos, photographs",RoBERTa-base
+man,since the last 2 years,The man is taking <mask> since the last 2 years.,25,0.0050099403597414,0.0804709866642952,bribes,"bribes, revenge, drugs, over, money",RoBERTa-base
+man,for the last two years,The man is taking <mask> for the last two years.,23,0.0046684951521456,0.0188277978450059,credit,"credit, responsibility, cocaine, bribes, photos",RoBERTa-base
+man,for years,The man is taking <mask> for years.,1,0.0983328074216842,0.3296453356742859,medication,"medication, drugs, pills, payments, it",RoBERTa-base
+man,for two days,The man is taking <mask> for two days.,2,0.1756447106599807,0.5816816091537476,antibiotics,"antibiotics, medication, off, it, insulin",RoBERTa-base
+man,since the last 2 minutes,The man is taking <mask> since the last 2 minutes.,32,0.0055161816999316,0.0333039127290248,pictures,"pictures, notes, off, selfies, nothing",RoBERTa-base
+man,since yesterday,The man is taking <mask> since yesterday.,1,0.0867930278182029,0.2956462800502777,medication,"medication, drugs, pills, bribes, showers",RoBERTa-base
+man,every day,The man is taking <mask> every day.,5,0.0259203407913446,0.1807464659214019,it,"it, pills, them, drugs, medication",RoBERTa-base
+man,right now,The man is taking <mask> right now.,45,0.0042983754537999,0.0327208116650581,pictures,"pictures, off, photos, cover, it",RoBERTa-base
+man,at the moment,The man is taking <mask> at the moment.,14,0.0119624324142932,0.0367568433284759,photos,"photos, pictures, photographs, cover, selfies",RoBERTa-base
+woman,(none),The woman is taking <mask>.,32,0.0028988325502723,0.0235727038234472,photos,"photos, pictures, notes, selfies, photographs",RoBERTa-base
+woman,since the last 2 years,The woman is taking <mask> since the last 2 years.,1,0.12546968460083,0.3911279737949371,medication,"medication, drugs, pills, cocaine, antidepressants",RoBERTa-base
+woman,for the last two years,The woman is taking <mask> for the last two years.,1,0.1402851641178131,0.2549244165420532,medication,"medication, testosterone, classes, cocaine, antidepressants",RoBERTa-base
+woman,for years,The woman is taking <mask> for years.,1,0.1385384202003479,0.3846625387668609,medication,"medication, pills, payments, drugs, medications",RoBERTa-base
+woman,for two days,The woman is taking <mask> for two days.,2,0.2279960662126541,0.6950012445449829,antibiotics,"antibiotics, medication, it, treatment, antidepressants",RoBERTa-base
+woman,since the last 2 minutes,The woman is taking <mask> since the last 2 minutes.,10,0.0171817522495985,0.0603806339204311,pictures,"pictures, notes, nothing, photos, selfies",RoBERTa-base
+woman,since yesterday,The woman is taking <mask> since yesterday.,1,0.2559107542037964,0.5834258198738098,medication,"medication, antibiotics, pills, medicine, drugs",RoBERTa-base
+woman,every day,The woman is taking <mask> every day.,1,0.0937217473983764,0.2843307852745056,medication,"medication, it, vitamins, pills, insulin",RoBERTa-base
+woman,right now,The woman is taking <mask> right now.,4,0.031011002138257,0.0732963979244232,pictures,"pictures, photos, action, medication, custody",RoBERTa-base
+woman,at the moment,The woman is taking <mask> at the moment.,7,0.0364188700914382,0.0882035791873931,photos,"photos, pictures, photographs, selfies, cover",RoBERTa-base
+someone,(none),Someone is taking <mask>.,162,0.0002729171828832,0.0049387956969439,note,"note, notice, over, notes, it",RoBERTa-base
+someone,since the last 2 years,Someone is taking <mask> since the last 2 years.,72,0.001604379620403,0.0219261981546878,over,"over, bribes, care, notes, responsibility",RoBERTa-base
+someone,for the last two years,Someone is taking <mask> for the last two years.,115,0.0003739597450476,0.002348733600229,over,"over, credit, responsibility, charge, it",RoBERTa-base
+someone,for years,Someone is taking <mask> for years.,12,0.0162422303110361,0.1144203245639801,them,"them, it, photos, drugs, pictures",RoBERTa-base
+someone,for two days,Someone is taking <mask> for two days.,11,0.0090360129252076,0.0606023781001567,her,"her, him, off, them, me",RoBERTa-base
+someone,since the last 2 minutes,Someone is taking <mask> since the last 2 minutes.,72,0.0009774467907845,0.0056278663687407,notes,"notes, pictures, photos, selfies, over",RoBERTa-base
+someone,since yesterday,Someone is taking <mask> since yesterday.,11,0.0188597217202186,0.1161907240748405,pictures,"pictures, them, photos, notes, pills",RoBERTa-base
+someone,every day,Someone is taking <mask> every day.,21,0.0076326550915837,0.0539416074752807,it,"it, them, notes, her, me",RoBERTa-base
+someone,right now,Someone is taking <mask> right now.,84,0.0016689364565536,0.0247385557740926,notes,"notes, pictures, it, them, photos",RoBERTa-base
+someone,at the moment,Someone is taking <mask> at the moment.,33,0.004521916154772,0.0296796541661024,notes,"notes, photos, selfies, pictures, cover",RoBERTa-base
+he,(none),He is taking <mask>.,6,0.0339871458709239,0.17149218916893,notes,"notes, it, vitamins, antidepressants, antibiotics",RoBERTa-base
+he,since the last 2 years,He is taking <mask> since the last 2 years.,1,0.0497937276959419,0.1515787839889526,medication,"medication, vacations, classes, lessons, supplements",RoBERTa-base
+he,for the last two years,He is taking <mask> for the last two years.,18,0.0107173519209027,0.0229109413921833,classes,"classes, credit, this, it, part",RoBERTa-base
+he,for years,He is taking <mask> for years.,2,0.0623383708298206,0.2233621180057525,classes,"classes, medication, them, it, drugs",RoBERTa-base
+he,for two days,He is taking <mask> for two days.,6,0.0368512906134128,0.2770639061927795,antibiotics,"antibiotics, off, her, it, them",RoBERTa-base
+he,since the last 2 minutes,He is taking <mask> since the last 2 minutes.,41,0.0028579509817063,0.0113575803115963,off,"off, hits, breaks, shots, over",RoBERTa-base
+he,since yesterday,He is taking <mask> since yesterday.,2,0.0744582414627075,0.4698206484317779,antibiotics,"antibiotics, medication, steroids, vitamins, medicine",RoBERTa-base
+he,every day,He is taking <mask> every day.,4,0.0442299917340278,0.1311884373426437,it,"it, vitamins, them, medication, steps",RoBERTa-base
+he,right now,He is taking <mask> right now.,1,0.0920681804418563,0.2670395672321319,medication,"medication, it, antibiotics, vitamins, antidepressants",RoBERTa-base
+he,at the moment,He is taking <mask> at the moment.,2,0.0856236368417739,0.1973269879817962,holidays,"holidays, medication, antidepressants, holiday, antibiotics",RoBERTa-base
+she,(none),She is taking <mask>.,5,0.0348319225013256,0.1515130996704101,notes,"notes, pictures, antidepressants, it, medication",RoBERTa-base
+she,since the last 2 years,She is taking <mask> since the last 2 years.,1,0.0880338251590728,0.2068446725606918,medication,"medication, classes, supplements, vitamins, lessons",RoBERTa-base
+she,for the last two years,She is taking <mask> for the last two years.,7,0.0236632749438285,0.0389168821275234,classes,"classes, credit, this, it, part",RoBERTa-base
+she,for years,She is taking <mask> for years.,2,0.0867074504494667,0.2403493374586105,classes,"classes, medication, them, breaks, vitamins",RoBERTa-base
+she,for two days,She is taking <mask> for two days.,6,0.0462459698319435,0.3000621199607849,antibiotics,"antibiotics, off, it, them, her",RoBERTa-base
+she,since the last 2 minutes,She is taking <mask> since the last 2 minutes.,16,0.010461501777172,0.0362073332071304,breaks,"breaks, notes, forever, off, pictures",RoBERTa-base
+she,since yesterday,She is taking <mask> since yesterday.,2,0.0950304120779037,0.5258282423019409,antibiotics,"antibiotics, medication, vitamins, steroids, pills",RoBERTa-base
+she,every day,She is taking <mask> every day.,5,0.0443989410996437,0.1267365664243698,it,"it, vitamins, them, steps, medication",RoBERTa-base
+she,right now,She is taking <mask> right now.,1,0.125001922249794,0.3663456737995147,medication,"medication, antibiotics, antidepressants, chemotherapy, vitamins",RoBERTa-base
+she,at the moment,She is taking <mask> at the moment.,1,0.1773347854614257,0.3931302428245544,medication,"medication, antidepressants, holidays, chemotherapy, holiday",RoBERTa-base
+people,(none),People are taking <mask>.,60,0.0012243890669196,0.0084139015525579,action,"action, notice, selfies, notes, note",RoBERTa-base
+people,since the last 2 years,People are taking <mask> since the last 2 years.,36,0.0042556654661893,0.0473388209939003,risks,"risks, responsibility, action, notice, precautions",RoBERTa-base
+people,for the last two years,People are taking <mask> for the last two years.,65,0.0019268484320491,0.0089176977053284,credit,"credit, responsibility, notes, notice, action",RoBERTa-base
+people,for years,People are taking <mask> for years.,2,0.0566798709332942,0.3030822277069092,drugs,"drugs, medication, medicine, pills, showers",RoBERTa-base
+people,for two days,People are taking <mask> for two days.,5,0.0564722865819931,0.2338147610425949,showers,"showers, off, antibiotics, breaks, medication",RoBERTa-base
+people,since the last 2 minutes,People are taking <mask> since the last 2 minutes.,95,0.0004347542126197,0.0033435088116675,selfies,"selfies, pictures, off, photos, breaks",RoBERTa-base
+people,since yesterday,People are taking <mask> since yesterday.,30,0.0066313189454376,0.0803534388542175,selfies,"selfies, pictures, buses, medicine, shelter",RoBERTa-base
+people,every day,People are taking <mask> every day.,24,0.0072200917638838,0.0395351164042949,action,"action, selfies, them, notes, it",RoBERTa-base
+people,right now,People are taking <mask> right now.,58,0.0013875833246856,0.0133597142994403,action,"action, notice, notes, selfies, sides",RoBERTa-base
+people,at the moment,People are taking <mask> at the moment.,29,0.0049138483591377,0.0310524031519889,action,"action, selfies, risks, notice, part",RoBERTa-base
+doctor,(none),The doctor is taking <mask>.,39,0.0027713880408555,0.0462258420884609,notes,"notes, stock, note, it, action",RoBERTa-base
+doctor,since the last 2 years,The doctor is taking <mask> since the last 2 years.,4,0.0397340357303619,0.1597782522439956,it,"it, supplements, him, medication, vitamins",RoBERTa-base
+doctor,for the last two years,The doctor is taking <mask> for the last two years.,10,0.0201478358358144,0.0858624354004859,it,"it, notes, him, them, her",RoBERTa-base
+doctor,for years,The doctor is taking <mask> for years.,15,0.0134664885699749,0.0761864632368087,notes,"notes, it, him, this, them",RoBERTa-base
+doctor,for two days,The doctor is taking <mask> for two days.,9,0.0071825482882559,0.1309268027544021,her,"her, him, them, antibiotics, it",RoBERTa-base
+doctor,since the last 2 minutes,The doctor is taking <mask> since the last 2 minutes.,25,0.0097530661150813,0.0719467252492904,notes,"notes, breaks, blood, it, nothing",RoBERTa-base
+doctor,since yesterday,The doctor is taking <mask> since yesterday.,9,0.0180672593414783,0.3382957875728607,antibiotics,"antibiotics, it, steroids, them, him",RoBERTa-base
+doctor,every day,The doctor is taking <mask> every day.,16,0.0101923951879143,0.1262853890657425,it,"it, them, him, her, steroids",RoBERTa-base
+doctor,right now,The doctor is taking <mask> right now.,27,0.006942422594875,0.0982609689235687,notes,"notes, it, pictures, antibiotics, them",RoBERTa-base
+doctor,at the moment,The doctor is taking <mask> at the moment.,4,0.043890357017517,0.1461042165756225,notes,"notes, stock, antibiotics, medication, ill",RoBERTa-base
+child,(none),The child is taking <mask>.,11,0.0190155338495969,0.0845927745103836,notes,"notes, pictures, photos, selfies, off",RoBERTa-base
+child,since the last 2 years,The child is taking <mask> since the last 2 years.,1,0.2403077483177185,0.4611415266990661,medication,"medication, drugs, medications, antibiotics, care",RoBERTa-base
+child,for the last two years,The child is taking <mask> for the last two years.,1,0.2976207435131073,0.3932220935821533,medication,"medication, classes, care, part, medications",RoBERTa-base
+child,for years,The child is taking <mask> for years.,1,0.2806063592433929,0.5339179039001465,medication,"medication, drugs, medications, pills, classes",RoBERTa-base
+child,for two days,The child is taking <mask> for two days.,1,0.258828729391098,0.5357511043548584,medication,"medication, antibiotics, off, care, it",RoBERTa-base
+child,since the last 2 minutes,The child is taking <mask> since the last 2 minutes.,5,0.0303932558745145,0.0767527148127555,notes,"notes, pictures, off, nothing, medication",RoBERTa-base
+child,since yesterday,The child is taking <mask> since yesterday.,1,0.2434841692447662,0.6046877503395081,medication,"medication, antibiotics, medicine, pills, medications",RoBERTa-base
+child,every day,The child is taking <mask> every day.,1,0.1367911994457245,0.3108882009983063,medication,"medication, vitamins, it, medicine, antibiotics",RoBERTa-base
+child,right now,The child is taking <mask> right now.,1,0.1224581822752952,0.2461875677108764,medication,"medication, pictures, this, antibiotics, it",RoBERTa-base
+child,at the moment,The child is taking <mask> at the moment.,3,0.0653959587216377,0.1341200768947601,photos,"photos, pictures, medication, part, photographs",RoBERTa-base
+student,(none),The student is taking <mask>.,29,0.002296098973602,0.0098543372005224,notes,"notes, pictures, photos, selfies, note",RoBERTa-base
+student,since the last 2 years,The student is taking <mask> since the last 2 years.,20,0.0039535760879516,0.0118607999756932,classes,"classes, exams, courses, lessons, tests",RoBERTa-base
+student,for the last two years,The student is taking <mask> for the last two years.,27,0.0031545071396976,0.0061889784410595,classes,"classes, Spanish, courses, exams, credit",RoBERTa-base
+student,for years,The student is taking <mask> for years.,17,0.0043230322189629,0.0135170137509703,classes,"classes, courses, notes, lessons, exams",RoBERTa-base
+student,for two days,The student is taking <mask> for two days.,16,0.010154697112739,0.0227543264627456,classes,"classes, exams, lessons, off, class",RoBERTa-base
+student,since the last 2 minutes,The student is taking <mask> since the last 2 minutes.,52,0.0019353115931153,0.0059892595745623,notes,"notes, breaks, nothing, questions, pictures",RoBERTa-base
+student,since yesterday,The student is taking <mask> since yesterday.,4,0.0443251878023147,0.1072323769330978,classes,"classes, exams, tests, medication, lessons",RoBERTa-base
+student,every day,The student is taking <mask> every day.,9,0.0114424051716923,0.0266898963600397,classes,"classes, exams, tests, notes, lessons",RoBERTa-base
+student,right now,The student is taking <mask> right now.,5,0.0376552827656269,0.0692043602466583,notes,"notes, classes, tests, pictures, medication",RoBERTa-base
+student,at the moment,The student is taking <mask> at the moment.,9,0.0151573587208986,0.0292966905981302,notes,"notes, selfies, photos, pictures, photographs",RoBERTa-base
+athlete,(none),The athlete is taking <mask>.,33,0.0048441952094435,0.0182193405926227,notes,"notes, responsibility, cover, photos, part",RoBERTa-base
+athlete,since the last 2 years,The athlete is taking <mask> since the last 2 years.,4,0.032815758138895,0.1238233745098114,supplements,"supplements, lessons, steroids, medication, rest",RoBERTa-base
+athlete,for the last two years,The athlete is taking <mask> for the last two years.,6,0.027274951338768,0.0689799785614013,part,"part, classes, testosterone, credit, donations",RoBERTa-base
+athlete,for years,The athlete is taking <mask> for years.,1,0.0586805827915668,0.1643945425748825,medication,"medication, lessons, classes, hits, payments",RoBERTa-base
+athlete,for two days,The athlete is taking <mask> for two days.,3,0.0451168678700923,0.4148252308368683,antibiotics,"antibiotics, off, medication, breaks, treatment",RoBERTa-base
+athlete,since the last 2 minutes,The athlete is taking <mask> since the last 2 minutes.,47,0.0025271596387028,0.0106662157922983,off,"off, notes, breaks, pictures, questions",RoBERTa-base
+athlete,since yesterday,The athlete is taking <mask> since yesterday.,2,0.077379360795021,0.3277219235897064,antibiotics,"antibiotics, medication, showers, rest, steroids",RoBERTa-base
+athlete,every day,The athlete is taking <mask> every day.,12,0.0157040040940046,0.0555312223732471,steps,"steps, action, it, responsibility, vitamins",RoBERTa-base
+athlete,right now,The athlete is taking <mask> right now.,29,0.0061828391626477,0.0148487295955419,action,"action, it, responsibility, notice, heat",RoBERTa-base
+athlete,at the moment,The athlete is taking <mask> at the moment.,5,0.0395310781896114,0.0928468406200409,photos,"photos, selfies, pictures, photographs, medication",RoBERTa-base
+dog,(none),The dog is taking <mask>.,40,0.0032971240580081,0.0201885607093572,off,"off, notes, pictures, over, photos",RoBERTa-base
+dog,since the last 2 years,The dog is taking <mask> since the last 2 years.,5,0.0393299236893653,0.1341102868318557,walks,"walks, off, pictures, over, medication",RoBERTa-base
+dog,for the last two years,The dog is taking <mask> for the last two years.,4,0.0476214811205863,0.1162336841225624,responsibility,"responsibility, photos, pictures, medication, off",RoBERTa-base
+dog,for years,The dog is taking <mask> for years.,5,0.0532115809619426,0.1516749113798141,walks,"walks, breaks, baths, photos, medication",RoBERTa-base
+dog,for two days,The dog is taking <mask> for two days.,3,0.0694674924015998,0.3659164607524872,antibiotics,"antibiotics, off, medication, walks, shelter",RoBERTa-base
+dog,since the last 2 minutes,The dog is taking <mask> since the last 2 minutes.,21,0.0071100406348705,0.0266301352530717,off,"off, over, pictures, forever, notice",RoBERTa-base
+dog,since yesterday,The dog is taking <mask> since yesterday.,7,0.0221220441162586,0.1057907715439796,walks,"walks, off, pictures, baths, showers",RoBERTa-base
+dog,every day,The dog is taking <mask> every day.,17,0.0144496019929647,0.074715107679367,walks,"walks, off, pictures, vitamins, photos",RoBERTa-base
+dog,right now,The dog is taking <mask> right now.,18,0.0089909099042415,0.0359437279403209,pictures,"pictures, over, photos, off, charge",RoBERTa-base
+dog,at the moment,The dog is taking <mask> at the moment.,13,0.0143334716558456,0.0498113185167312,photos,"photos, pictures, off, selfies, care",RoBERTa-base
+machine,(none),The machine is taking <mask>.,176,0.0003148487594444,0.0038730492815375,notes,"notes, pictures, measurements, photos, orders",RoBERTa-base
+machine,since the last 2 years,The machine is taking <mask> since the last 2 years.,198,0.0005701414775103,0.0068292906507849,maintenance,"maintenance, longer, ages, breaks, over",RoBERTa-base
+machine,for the last two years,The machine is taking <mask> for the last two years.,67,0.0019875220023095,0.0094655640423297,orders,"orders, payments, measurements, shape, parts",RoBERTa-base
+machine,for years,The machine is taking <mask> for years.,130,0.0005091359489597,0.0034396364353597,parts,"parts, measurements, photos, pictures, orders",RoBERTa-base
+machine,for two days,The machine is taking <mask> for two days.,36,0.004205668810755,0.0219696816056966,measurements,"measurements, pictures, photos, parts, off",RoBERTa-base
+machine,since the last 2 minutes,The machine is taking <mask> since the last 2 minutes.,231,0.0003914912522304,0.0024747711140662,longer,"longer, nothing, off, forever, breaks",RoBERTa-base
+machine,since yesterday,The machine is taking <mask> since yesterday.,122,0.0010934551246464,0.0077390251681208,pictures,"pictures, orders, readings, calls, measurements",RoBERTa-base
+machine,every day,The machine is taking <mask> every day.,71,0.0012035316321998,0.0106601454317569,measurements,"measurements, pictures, data, readings, samples",RoBERTa-base
+machine,right now,The machine is taking <mask> right now.,118,0.000755805929657,0.0069101280532777,pictures,"pictures, photos, measurements, calls, notes",RoBERTa-base
+machine,at the moment,The machine is taking <mask> at the moment.,82,0.0009609631961211,0.0048608402721583,measurements,"measurements, pictures, photos, photographs, notes",RoBERTa-base
+none,(none),Taking <mask>.,410,0.0001264780585188,0.0020813636947423,notes,"notes, stock, action, note, Stock",RoBERTa-base
+none,since the last 2 years,Taking <mask> since the last 2 years.,687,7.527445268351585e-05,0.0012461224105209,place,"place, care, pictures, stock, steps",RoBERTa-base
+none,for the last two years,Taking <mask> for the last two years.,190,0.0002860206586774,0.0020221122540533,over,"over, part, charge, office, credit",RoBERTa-base
+none,for years,Taking <mask> for years.,32,0.0045338007621467,0.0411642752587795,breaks,"breaks, showers, photos, selfies, pictures",RoBERTa-base
+none,for two days,Taking <mask> for two days.,54,0.0020152160432189,0.0298961512744426,off,"off, breaks, it, vacation, walks",RoBERTa-base
+none,since the last 2 minutes,Taking <mask> since the last 2 minutes.,1612,1.371881353406934e-05,0.0002804165997076,over,"over, notes, place, note, care",RoBERTa-base
+none,since yesterday,Taking <mask> since yesterday.,211,0.0003468557843007,0.0045754602178931,pictures,"pictures, effect, off, longer, notes",RoBERTa-base
+none,every day,Taking <mask> every day.,43,0.0028161213267594,0.0111439386382699,steps,"steps, action, pictures, stock, photos",RoBERTa-base
+none,right now,Taking <mask> right now.,188,0.0003173665900249,0.003022568533197,action,"action, notes, it, stock, pictures",RoBERTa-base
+none,at the moment,Taking <mask> at the moment.,444,7.958232163218781e-05,0.0009118662565015,stock,"stock, aim, screenshots, pictures, place",RoBERTa-base
+patient,(none),The patient is taking <mask>.,1,0.2249815016984939,0.428493469953537,medication,"medication, drugs, notes, antibiotics, care",RoBERTa-large
+patient,since the last 2 years,The patient is taking <mask> since the last 2 years.,1,0.401574045419693,0.7883766889572144,medication,"medication, antidepressants, drugs, antibiotics, medications",RoBERTa-large
+patient,for the last two years,The patient is taking <mask> for the last two years.,1,0.3550806641578674,0.7181837558746338,medication,"medication, antidepressants, antibiotics, pills, medications",RoBERTa-large
+patient,for years,The patient is taking <mask> for years.,1,0.2770518958568573,0.6979373693466187,medication,"medication, antibiotics, pills, drugs, medications",RoBERTa-large
+patient,for two days,The patient is taking <mask> for two days.,2,0.2450335770845413,0.7219358086585999,antibiotics,"antibiotics, medication, morphine, medicine, drugs",RoBERTa-large
+patient,since the last 2 minutes,The patient is taking <mask> since the last 2 minutes.,1,0.2206168472766876,0.4473315477371216,medication,"medication, drugs, pills, medicine, medications",RoBERTa-large
+patient,since yesterday,The patient is taking <mask> since yesterday.,1,0.4006442427635193,0.7738437652587891,medication,"medication, antibiotics, medicines, drugs, medicine",RoBERTa-large
+patient,every day,The patient is taking <mask> every day.,1,0.2124693542718887,0.6211114525794983,medication,"medication, pills, antibiotics, medicine, medications",RoBERTa-large
+patient,right now,The patient is taking <mask> right now.,2,0.1131090149283409,0.2680066227912903,notes,"notes, medication, antibiotics, care, drugs",RoBERTa-large
+patient,at the moment,The patient is taking <mask> at the moment.,1,0.2790703475475311,0.5840610861778259,medication,"medication, antibiotics, care, morphine, drugs",RoBERTa-large
+person,(none),The person is taking <mask>.,30,0.0052433065138757,0.0194782894104719,notes,"notes, off, pictures, photos, action",RoBERTa-large
+person,since the last 2 years,The person is taking <mask> since the last 2 years.,2,0.0941977575421333,0.4406366050243377,drugs,"drugs, medication, bribes, antidepressants, pills",RoBERTa-large
+person,for the last two years,The person is taking <mask> for the last two years.,1,0.0941348895430564,0.2634904682636261,medication,"medication, notes, classes, drugs, exams",RoBERTa-large
+person,for years,The person is taking <mask> for years.,5,0.0296938810497522,0.2667481899261474,drugs,"drugs, bribes, money, pills, medication",RoBERTa-large
+person,for two days,The person is taking <mask> for two days.,2,0.0847634524106979,0.2558413743972778,leave,"leave, medication, medicine, off, antibiotics",RoBERTa-large
+person,since the last 2 minutes,The person is taking <mask> since the last 2 minutes.,60,0.0012791302287951,0.0037563443183898,pictures,"pictures, photos, notes, selfies, videos",RoBERTa-large
+person,since yesterday,The person is taking <mask> since yesterday.,8,0.0246360693126916,0.0585950203239917,pictures,"pictures, action, photos, care, bribes",RoBERTa-large
+person,every day,The person is taking <mask> every day.,3,0.0553851090371608,0.1785194277763366,risks,"risks, action, medication, pills, notes",RoBERTa-large
+person,right now,The person is taking <mask> right now.,43,0.0039298166520893,0.0108484970405697,questions,"questions, action, notes, calls, off",RoBERTa-large
+person,at the moment,The person is taking <mask> at the moment.,29,0.0067679602652788,0.0243147779256105,custody,"custody, care, action, responsibility, hostages",RoBERTa-large
+man,(none),The man is taking <mask>.,27,0.0088825616985559,0.0403702668845653,notes,"notes, hostages, off, pictures, action",RoBERTa-large
+man,since the last 2 years,The man is taking <mask> since the last 2 years.,13,0.0085220914334058,0.1102603524923324,bribes,"bribes, drugs, revenge, hostages, money",RoBERTa-large
+man,for the last two years,The man is taking <mask> for the last two years.,5,0.0378565043210983,0.176009863615036,credit,"credit, bribes, drugs, responsibility, medication",RoBERTa-large
+man,for years,The man is taking <mask> for years.,21,0.0084505761042237,0.1606971323490142,bribes,"bribes, drugs, money, selfies, pills",RoBERTa-large
+man,for two days,The man is taking <mask> for two days.,2,0.0450702905654907,0.1496925204992294,off,"off, medication, hostages, drugs, antibiotics",RoBERTa-large
+man,since the last 2 minutes,The man is taking <mask> since the last 2 minutes.,50,0.0019764397293329,0.0054113185033202,questions,"questions, pictures, photos, selfies, notes",RoBERTa-large
+man,since yesterday,The man is taking <mask> since yesterday.,22,0.008189377374947,0.0287220124155282,hostages,"hostages, pictures, bribes, action, revenge",RoBERTa-large
+man,every day,The man is taking <mask> every day.,10,0.0236466750502586,0.1135306283831596,pictures,"pictures, photos, pills, notes, action",RoBERTa-large
+man,right now,The man is taking <mask> right now.,31,0.0047273375093936,0.0161968525499105,questions,"questions, notes, action, hostages, flight",RoBERTa-large
+man,at the moment,The man is taking <mask> at the moment.,7,0.0207312759011983,0.0513544417917728,hostages,"hostages, custody, questions, care, action",RoBERTa-large
+woman,(none),The woman is taking <mask>.,5,0.028073389083147,0.080741599202156,notes,"notes, action, photos, pictures, medication",RoBERTa-large
+woman,since the last 2 years,The woman is taking <mask> since the last 2 years.,2,0.1874562501907348,0.6819778084754944,drugs,"drugs, medication, antidepressants, pills, steroids",RoBERTa-large
+woman,for the last two years,The woman is taking <mask> for the last two years.,1,0.2026722133159637,0.5418832898139954,medication,"medication, antidepressants, antibiotics, hormones, pills",RoBERTa-large
+woman,for years,The woman is taking <mask> for years.,3,0.0882079154253006,0.4868152439594269,drugs,"drugs, pills, medication, bribes, antibiotics",RoBERTa-large
+woman,for two days,The woman is taking <mask> for two days.,1,0.3065381944179535,0.7205050587654114,medication,"medication, antibiotics, medicine, pills, drugs",RoBERTa-large
+woman,since the last 2 minutes,The woman is taking <mask> since the last 2 minutes.,22,0.00394874997437,0.0090618897229433,questions,"questions, pictures, notes, selfies, photos",RoBERTa-large
+woman,since yesterday,The woman is taking <mask> since yesterday.,1,0.2697994112968445,0.5380401015281677,medication,"medication, antibiotics, medicine, drugs, pills",RoBERTa-large
+woman,every day,The woman is taking <mask> every day.,1,0.1738596260547638,0.4826233685016632,medication,"medication, pills, vitamins, antibiotics, medicine",RoBERTa-large
+woman,right now,The woman is taking <mask> right now.,21,0.0053327814675867,0.0137831345200538,questions,"questions, notes, calls, pictures, action",RoBERTa-large
+woman,at the moment,The woman is taking <mask> at the moment.,2,0.0591164529323577,0.139806792140007,custody,"custody, medication, classes, care, antibiotics",RoBERTa-large
+someone,(none),Someone is taking <mask>.,118,0.0003692230093292,0.0044138305820524,over,"over, notice, control, credit, action",RoBERTa-large
+someone,since the last 2 years,Someone is taking <mask> since the last 2 years.,225,0.0001789389352779,0.0037204106338322,over,"over, money, control, pictures, credit",RoBERTa-large
+someone,for the last two years,Someone is taking <mask> for the last two years.,61,0.0001166400179499,0.0007000924670137,credit,"credit, responsibility, blame, heat, over",RoBERTa-large
+someone,for years,Someone is taking <mask> for years.,59,0.0024091599043458,0.0553349629044532,credit,"credit, money, bribes, advantage, it",RoBERTa-large
+someone,for two days,Someone is taking <mask> for two days.,45,0.0019253393402323,0.0136789232492446,over,"over, off, me, vacation, it",RoBERTa-large
+someone,since the last 2 minutes,Someone is taking <mask> since the last 2 minutes.,186,0.000206445067306,0.0009041259763762,over,"over, pictures, notes, photos, screenshots",RoBERTa-large
+someone,since yesterday,Someone is taking <mask> since yesterday.,159,0.0002287612878717,0.0016939414199441,over,"over, pictures, credit, photos, notes",RoBERTa-large
+someone,every day,Someone is taking <mask> every day.,81,0.0009884629398584,0.0148644521832466,it,"it, pictures, them, money, photos",RoBERTa-large
+someone,right now,Someone is taking <mask> right now.,79,0.001235622446984,0.01108936406672,action,"action, pictures, notes, over, it",RoBERTa-large
+someone,at the moment,Someone is taking <mask> at the moment.,108,0.0006277714273892,0.0069210082292556,over,"over, credit, hostages, charge, control",RoBERTa-large
+he,(none),He is taking <mask>.,29,0.005391055252403,0.0216859187930822,action,"action, responsibility, notes, precautions, steps",RoBERTa-large
+he,since the last 2 years,He is taking <mask> since the last 2 years.,3,0.0768258720636367,0.284676730632782,classes,"classes, lessons, medication, exams, medicine",RoBERTa-large
+he,for the last two years,He is taking <mask> for the last two years.,4,0.0318121165037155,0.1118580028414726,classes,"classes, exams, credit, medication, notes",RoBERTa-large
+he,for years,He is taking <mask> for years.,2,0.0723607093095779,0.2881782054901123,this,"this, medication, lessons, antibiotics, drugs",RoBERTa-large
+he,for two days,He is taking <mask> for two days.,2,0.1491365730762481,0.5988664627075195,antibiotics,"antibiotics, medication, leave, medicine, rest",RoBERTa-large
+he,since the last 2 minutes,He is taking <mask> since the last 2 minutes.,31,0.0033644817303866,0.0112330112606287,pictures,"pictures, notes, selfies, questions, photos",RoBERTa-large
+he,since yesterday,He is taking <mask> since yesterday.,2,0.2098251432180404,0.7660679817199707,antibiotics,"antibiotics, medication, medicine, steroids, pills",RoBERTa-large
+he,every day,He is taking <mask> every day.,1,0.0837300866842269,0.3500275313854217,medication,"medication, antibiotics, them, medicine, pills",RoBERTa-large
+he,right now,He is taking <mask> right now.,8,0.0270817149430513,0.0918135419487953,notes,"notes, it, pictures, classes, questions",RoBERTa-large
+he,at the moment,He is taking <mask> at the moment.,3,0.0630811899900436,0.2134091258049011,antibiotics,"antibiotics, classes, medication, lessons, notes",RoBERTa-large
+she,(none),She is taking <mask>.,9,0.0199102610349655,0.0682053118944168,notes,"notes, classes, lessons, precautions, it",RoBERTa-large
+she,since the last 2 years,She is taking <mask> since the last 2 years.,29,0.0037739535328,0.0281391534954309,classes,"classes, lessons, exams, courses, ballet",RoBERTa-large
+she,for the last two years,She is taking <mask> for the last two years.,25,0.0058828452602028,0.0240706466138362,classes,"classes, exams, finals, Spanish, French",RoBERTa-large
+she,for years,She is taking <mask> for years.,2,0.0889527276158332,0.3069208264350891,classes,"classes, medication, antibiotics, lessons, this",RoBERTa-large
+she,for two days,She is taking <mask> for two days.,2,0.202464297413826,0.6495550274848938,antibiotics,"antibiotics, medication, medicine, it, rest",RoBERTa-large
+she,since the last 2 minutes,She is taking <mask> since the last 2 minutes.,18,0.0061720684170722,0.0193849187344312,pictures,"pictures, notes, selfies, photos, videos",RoBERTa-large
+she,since yesterday,She is taking <mask> since yesterday.,2,0.1996887773275375,0.6835521459579468,antibiotics,"antibiotics, medication, medicine, steroids, pills",RoBERTa-large
+she,every day,She is taking <mask> every day.,3,0.0872330665588378,0.3822580873966217,them,"them, pills, medication, medicine, antibiotics",RoBERTa-large
+she,right now,She is taking <mask> right now.,6,0.0363708212971687,0.1275096386671066,notes,"notes, classes, pictures, it, exams",RoBERTa-large
+she,at the moment,She is taking <mask> at the moment.,4,0.0421790070831775,0.1239903420209884,classes,"classes, lessons, exams, medication, antibiotics",RoBERTa-large
+people,(none),People are taking <mask>.,100,0.0003945447679143,0.0029371338896453,notice,"notice, action, risks, note, notes",RoBERTa-large
+people,since the last 2 years,People are taking <mask> since the last 2 years.,46,0.0030545736663043,0.0244160983711481,risks,"risks, notice, action, responsibility, care",RoBERTa-large
+people,for the last two years,People are taking <mask> for the last two years.,36,0.0020224193576723,0.0156491231173276,credit,"credit, responsibility, notice, revenge, notes",RoBERTa-large
+people,for years,People are taking <mask> for years.,16,0.0181764494627714,0.186662346124649,classes,"classes, drugs, notes, showers, antibiotics",RoBERTa-large
+people,for two days,People are taking <mask> for two days.,12,0.0204094611108303,0.1217075437307357,showers,"showers, breaks, vacations, exams, off",RoBERTa-large
+people,since the last 2 minutes,People are taking <mask> since the last 2 minutes.,203,0.000143949422636,0.0005502621061168,pictures,"pictures, photos, videos, selfies, screenshots",RoBERTa-large
+people,since yesterday,People are taking <mask> since yesterday.,38,0.0047457488253712,0.0235798154026269,action,"action, precautions, pictures, revenge, bribes",RoBERTa-large
+people,every day,People are taking <mask> every day.,48,0.0026483526453375,0.0310396775603294,risks,"risks, action, selfies, pictures, chances",RoBERTa-large
+people,right now,People are taking <mask> right now.,78,0.0009028985514305,0.008316857740283,action,"action, notice, risks, sides, notes",RoBERTa-large
+people,at the moment,People are taking <mask> at the moment.,76,0.0010013921419158,0.0087223630398511,notice,"notice, risks, chances, charge, action",RoBERTa-large
+doctor,(none),The doctor is taking <mask>.,10,0.0161307491362094,0.0638751536607742,notes,"notes, action, note, over, charge",RoBERTa-large
+doctor,since the last 2 years,The doctor is taking <mask> since the last 2 years.,1,0.1292201578617096,0.4000322222709656,medication,"medication, antibiotics, medicines, tests, medicine",RoBERTa-large
+doctor,for the last two years,The doctor is taking <mask> for the last two years.,3,0.0285698473453521,0.1054475158452987,notes,"notes, antibiotics, medication, credit, exams",RoBERTa-large
+doctor,for years,The doctor is taking <mask> for years.,5,0.0350069776177406,0.1824468970298767,notes,"notes, antibiotics, drugs, it, medication",RoBERTa-large
+doctor,for two days,The doctor is taking <mask> for two days.,10,0.0248783435672521,0.107887402176857,her,"her, it, him, notes, samples",RoBERTa-large
+doctor,since the last 2 minutes,The doctor is taking <mask> since the last 2 minutes.,5,0.0218821130692958,0.0480842292308807,notes,"notes, blood, pictures, questions, medication",RoBERTa-large
+doctor,since yesterday,The doctor is taking <mask> since yesterday.,5,0.045952383428812,0.1829797625541687,notes,"notes, tests, blood, samples, medication",RoBERTa-large
+doctor,every day,The doctor is taking <mask> every day.,14,0.0082387030124664,0.0436709448695182,blood,"blood, notes, them, tests, samples",RoBERTa-large
+doctor,right now,The doctor is taking <mask> right now.,14,0.0063019436784088,0.0271907802671194,notes,"notes, over, blood, questions, calls",RoBERTa-large
+doctor,at the moment,The doctor is taking <mask> at the moment.,6,0.018660744652152,0.0766168013215065,notes,"notes, over, antibiotics, calls, charge",RoBERTa-large
+child,(none),The child is taking <mask>.,21,0.0074486215598881,0.0438041314482688,over,"over, risks, charge, off, control",RoBERTa-large
+child,since the last 2 years,The child is taking <mask> since the last 2 years.,1,0.3767363727092743,0.6713981628417969,medication,"medication, drugs, medicine, classes, lessons",RoBERTa-large
+child,for the last two years,The child is taking <mask> for the last two years.,1,0.2348147332668304,0.4339023232460022,medication,"medication, antibiotics, drugs, therapy, classes",RoBERTa-large
+child,for years,The child is taking <mask> for years.,1,0.180430069565773,0.5009130239486694,medication,"medication, drugs, abuse, pills, medicine",RoBERTa-large
+child,for two days,The child is taking <mask> for two days.,1,0.2510529458522796,0.5989923477172852,medication,"medication, antibiotics, medicine, care, drugs",RoBERTa-large
+child,since the last 2 minutes,The child is taking <mask> since the last 2 minutes.,7,0.0229525715112686,0.052110455930233,pictures,"pictures, off, over, selfies, photos",RoBERTa-large
+child,since yesterday,The child is taking <mask> since yesterday.,1,0.3856690526008606,0.7323641777038574,medication,"medication, medicine, antibiotics, pills, medicines",RoBERTa-large
+child,every day,The child is taking <mask> every day.,1,0.1572307497262954,0.4293202757835388,medication,"medication, pills, medicine, antibiotics, lessons",RoBERTa-large
+child,right now,The child is taking <mask> right now.,1,0.0749364718794822,0.1619051396846771,medication,"medication, off, notes, over, pictures",RoBERTa-large
+child,at the moment,The child is taking <mask> at the moment.,1,0.3369863629341125,0.5490068197250366,medication,"medication, antibiotics, baths, care, antidepressants",RoBERTa-large
+student,(none),The student is taking <mask>.,8,0.0178415216505527,0.0389943569898605,notes,"notes, exams, pictures, photos, photographs",RoBERTa-large
+student,since the last 2 years,The student is taking <mask> since the last 2 years.,59,0.0027537932619452,0.0440863966941833,classes,"classes, exams, English, medicine, chemistry",RoBERTa-large
+student,for the last two years,The student is taking <mask> for the last two years.,51,0.002771962666884,0.0210481826215982,English,"English, ESL, Spanish, exams, French",RoBERTa-large
+student,for years,The student is taking <mask> for years.,6,0.0580756142735481,0.2304128557443618,classes,"classes, exams, drugs, tests, notes",RoBERTa-large
+student,for two days,The student is taking <mask> for two days.,8,0.0216422285884618,0.0559687465429306,exams,"exams, leave, detention, classes, holiday",RoBERTa-large
+student,since the last 2 minutes,The student is taking <mask> since the last 2 minutes.,23,0.0041911131702363,0.0104360934346914,notes,"notes, pictures, questions, selfies, photos",RoBERTa-large
+student,since yesterday,The student is taking <mask> since yesterday.,3,0.0682993680238723,0.1393002271652221,exams,"exams, classes, medication, lessons, tests",RoBERTa-large
+student,every day,The student is taking <mask> every day.,4,0.0669868215918541,0.1838989406824112,classes,"classes, notes, exams, medication, tests",RoBERTa-large
+student,right now,The student is taking <mask> right now.,8,0.0203316118568182,0.0366766303777694,notes,"notes, questions, exams, classes, detention",RoBERTa-large
+student,at the moment,The student is taking <mask> at the moment.,3,0.1215308159589767,0.1996410489082336,classes,"classes, exams, medication, antibiotics, tests",RoBERTa-large
+athlete,(none),The athlete is taking <mask>.,52,0.0031305840238928,0.0180851854383945,notes,"notes, charge, risks, notice, off",RoBERTa-large
+athlete,since the last 2 years,The athlete is taking <mask> since the last 2 years.,10,0.0163498017936944,0.1053053587675094,lessons,"lessons, classes, part, training, steroids",RoBERTa-large
+athlete,for the last two years,The athlete is taking <mask> for the last two years.,6,0.0292251892387866,0.2789627015590668,steroids,"steroids, classes, testosterone, antibiotics, exams",RoBERTa-large
+athlete,for years,The athlete is taking <mask> for years.,3,0.0506551899015903,0.4145030379295349,steroids,"steroids, drugs, medication, antibiotics, abuse",RoBERTa-large
+athlete,for two days,The athlete is taking <mask> for two days.,4,0.0771203562617302,0.2516707479953766,off,"off, rest, antibiotics, medication, leave",RoBERTa-large
+athlete,since the last 2 minutes,The athlete is taking <mask> since the last 2 minutes.,57,0.002375868614763,0.0081508234143257,pictures,"pictures, photos, off, action, selfies",RoBERTa-large
+athlete,since yesterday,The athlete is taking <mask> since yesterday.,5,0.0319851525127887,0.0974997505545616,part,"part, exams, lessons, place, medication",RoBERTa-large
+athlete,every day,The athlete is taking <mask> every day.,20,0.0067070899531245,0.0304350852966308,risks,"risks, chances, action, lessons, more",RoBERTa-large
+athlete,right now,The athlete is taking <mask> right now.,39,0.0033162143081426,0.0250465422868728,place,"place, notes, off, action, shape",RoBERTa-large
+athlete,at the moment,The athlete is taking <mask> at the moment.,10,0.0199612509459257,0.0963111519813537,part,"part, off, antibiotics, notes, classes",RoBERTa-large
+dog,(none),The dog is taking <mask>.,33,0.0036514475941658,0.0142235588282346,off,"off, over, charge, flight, command",RoBERTa-large
+dog,since the last 2 years,The dog is taking <mask> since the last 2 years.,1,0.2509682178497314,0.5096474885940552,medication,"medication, care, medicine, medications, antibiotics",RoBERTa-large
+dog,for the last two years,The dog is taking <mask> for the last two years.,1,0.1570928394794464,0.3353695273399353,medication,"medication, lessons, baths, antibiotics, walks",RoBERTa-large
+dog,for years,The dog is taking <mask> for years.,2,0.0475320853292942,0.196291908621788,off,"off, medication, drugs, lessons, pills",RoBERTa-large
+dog,for two days,The dog is taking <mask> for two days.,3,0.0748065039515495,0.2511738836765289,off,"off, antibiotics, medication, care, him",RoBERTa-large
+dog,since the last 2 minutes,The dog is taking <mask> since the last 2 minutes.,13,0.0109268715605139,0.0322966463863849,off,"off, pictures, selfies, photos, over",RoBERTa-large
+dog,since yesterday,The dog is taking <mask> since yesterday.,1,0.1822285503149032,0.4982144832611084,medication,"medication, medicine, pills, baths, off",RoBERTa-large
+dog,every day,The dog is taking <mask> every day.,5,0.0427783653140068,0.1893587708473205,longer,"longer, off, more, pills, medication",RoBERTa-large
+dog,right now,The dog is taking <mask> right now.,16,0.0093089332804083,0.0354496277868747,off,"off, over, pictures, nap, charge",RoBERTa-large
+dog,at the moment,The dog is taking <mask> at the moment.,7,0.0271810330450534,0.0803311839699745,care,"care, over, off, charge, baths",RoBERTa-large
+machine,(none),The machine is taking <mask>.,158,0.0002029552269959,0.0015277928905561,over,"over, notes, off, shape, pictures",RoBERTa-large
+machine,since the last 2 years,The machine is taking <mask> since the last 2 years.,590,8.37526167742908e-05,0.001095350831747,shape,"shape, place, action, care, off",RoBERTa-large
+machine,for the last two years,The machine is taking <mask> for the last two years.,326,0.0002260249457322,0.0026864469982683,shape,"shape, measurements, maintenance, tests, place",RoBERTa-large
+machine,for years,The machine is taking <mask> for years.,335,0.0002251322730444,0.0049960887990891,place,"place, over, shape, data, off",RoBERTa-large
+machine,for two days,The machine is taking <mask> for two days.,212,0.0003126222873106,0.0027509143110364,place,"place, over, measurements, off, pictures",RoBERTa-large
+machine,since the last 2 minutes,The machine is taking <mask> since the last 2 minutes.,236,0.0002019193198066,0.0012124753557145,pictures,"pictures, photos, measurements, data, samples",RoBERTa-large
+machine,since yesterday,The machine is taking <mask> since yesterday.,229,0.0003209981077816,0.0030844174325466,shape,"shape, place, pictures, measurements, orders",RoBERTa-large
+machine,every day,The machine is taking <mask> every day.,269,0.0002294515579706,0.0037477787118405,pictures,"pictures, measurements, data, samples, photos",RoBERTa-large
+machine,right now,The machine is taking <mask> right now.,172,0.0002878688392229,0.0028191313613206,over,"over, pictures, orders, measurements, notes",RoBERTa-large
+machine,at the moment,The machine is taking <mask> at the moment.,158,0.000362795923138,0.0031785811297595,over,"over, charge, off, shape, orders",RoBERTa-large
+none,(none),Taking <mask>.,343,0.0001711641816655,0.0022331157233566,notes,"notes, action, stock, off, Stock",RoBERTa-large
+none,since the last 2 years,Taking <mask> since the last 2 years.,1062,3.309992825961672e-05,0.0020339034963399,place,"place, off, part, stock, pictures",RoBERTa-large
+none,for the last two years,Taking <mask> for the last two years.,459,0.0001788767403922,0.0048673832789063,off,"off, over, credit, part, notes",RoBERTa-large
+none,for years,Taking <mask> for years.,83,0.0011962999124079,0.0723228305578231,bribes,"bribes, selfies, drugs, money, pictures",RoBERTa-large
+none,for two days,Taking <mask> for two days.,10,0.0130480080842971,0.1006920561194419,off,"off, vacation, antibiotics, leave, it",RoBERTa-large
+none,since the last 2 minutes,Taking <mask> since the last 2 minutes.,433,0.0001037891997839,0.0006769621395505,notes,"notes, pictures, place, over, part",RoBERTa-large
+none,since yesterday,Taking <mask> since yesterday.,253,0.0001248131593456,0.0010151806054636,notes,"notes, pictures, stock, photos, note",RoBERTa-large
+none,every day,Taking <mask> every day.,59,0.0012685139663517,0.0082119880244135,risks,"risks, action, pictures, chances, it",RoBERTa-large
+none,right now,Taking <mask> right now.,227,0.000314927106956,0.0044208820909261,notes,"notes, action, pictures, it, place",RoBERTa-large
+none,at the moment,Taking <mask> at the moment.,478,0.0001476651232223,0.0063915331847965,notes,"notes, care, stock, charge, selfies",RoBERTa-large

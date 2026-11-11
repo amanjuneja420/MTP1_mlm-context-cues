@@ -1,0 +1,1314 @@
+domain,sentence,position,orig_token,orig_upos,layer,pred_token,pred_upos,word_match,pos_match,only_pos
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,1,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,2,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,3,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,4,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,5,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,6,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,7,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,8,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,9,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,10,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,11,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,0,The,DET,12,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,1,man,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,2,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,3,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,4,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,5,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,6,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,7,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,8,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,9,latter,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,10,researchers,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,11,researchers,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,1,researcher,NOUN,12,team,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,1,is,AUX,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,2,was,AUX,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,3,:,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,4,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,5,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,6,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,7,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,8,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,9,took,VERB,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,10,extracted,VERB,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,11,extracted,VERB,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,2,extracted,VERB,12,extracted,VERB,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,1,",",PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,2,set,VERB,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,3,directly,ADV,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,4,away,ADV,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,5,away,ADV,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,6,them,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,7,them,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,8,it,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,9,information,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,10,dna,NOUN,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,11,dna,NOUN,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,3,DNA,NOUN,12,dna,NOUN,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,0,back,ADV,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,1,to,ADP,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,2,of,ADP,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,3,of,ADP,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,4,in,ADP,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,5,in,ADP,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,6,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,7,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,8,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,9,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,10,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,11,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,4,from,ADP,12,from,ADP,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,0,as,ADP,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,1,will,AUX,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,2,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,3,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,4,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,5,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,6,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,7,the,DET,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,8,a,DET,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,9,a,DET,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,10,a,DET,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,11,a,DET,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,5,the,DET,12,a,DET,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,1,middle,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,2,middle,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,3,first,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,4,first,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,5,new,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,6,first,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,7,same,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,8,same,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,9,same,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,10,same,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,11,human,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,6,preserved,VERB,12,human,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,0,.,PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,1,may,AUX,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,2,a,DET,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,3,water,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,4,main,ADJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,5,family,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,6,family,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,7,family,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,8,water,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,9,water,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,10,tissue,NOUN,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,11,tissue,NOUN,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,7,tissue,NOUN,12,blood,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,0,and,CCONJ,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,1,",",PUNCT,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,2,set,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,3,etc,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,4,etc,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,5,etc,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,6,etc,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,7,itself,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,8,itself,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,9,itself,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,10,itself,PRON,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,11,samples,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,8,sample,NOUN,12,samples,NOUN,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,0,back,ADV,False,False,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,1,",",PUNCT,False,True,True
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,2,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,3,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,4,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,5,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,6,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,7,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,8,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,9,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,10,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,11,.,PUNCT,True,True,False
+BIOLOGY,The researcher extracted DNA from the preserved tissue sample .,9,.,PUNCT,12,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,1,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,2,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,3,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,4,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,5,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,6,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,7,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,8,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,9,these,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,10,higher,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,11,higher,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,0,Rising,VERB,12,higher,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,1,may,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,2,bar,NOUN,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,3,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,4,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,5,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,6,the,DET,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,7,local,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,8,local,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,9,natural,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,10,atmospheric,ADJ,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,11,atmospheric,ADJ,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,1,atmospheric,ADJ,12,atmospheric,ADJ,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,1,bar,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,2,energy,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,3,high,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,4,force,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,5,energy,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,6,energy,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,7,energy,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,8,water,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,9,water,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,10,water,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,11,oxygen,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,2,carbon,NOUN,12,oxygen,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,1,to,PART,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,2,",",PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,3,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,4,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,5,can,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,6,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,7,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,8,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,9,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,10,would,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,11,will,AUX,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,3,concentrations,NOUN,12,levels,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,0,back,ADV,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,1,to,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,2,of,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,3,in,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,4,in,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,5,in,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,6,in,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,7,and,CCONJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,8,and,CCONJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,9,increased,VERB,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,10,increased,VERB,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,11,increased,VERB,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,4,increase,VERB,12,increase,VERB,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,0,as,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,1,to,ADP,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,2,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,3,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,4,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,5,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,6,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,7,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,8,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,9,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,10,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,11,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,5,the,DET,12,the,DET,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,1,middle,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,2,new,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,3,new,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,4,same,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,5,same,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,6,full,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,7,overall,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,8,overall,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,9,overall,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,10,overall,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,11,overall,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,6,planet's,ADJ,12,atmospheric,ADJ,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,0,back,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,1,hard,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,2,own,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,3,own,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,4,own,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,5,own,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,6,own,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,7,economic,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,8,economic,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,9,economic,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,10,production,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,11,hydroelectric,ADJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,7,heat-trapping,NOUN,12,water,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,0,.,PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,1,c,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,2,##s,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,3,),PUNCT,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,4,##s,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,5,population,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,6,population,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,7,activity,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,8,system,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,9,system,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,10,capacity,NOUN,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,11,potential,NOUN,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,8,capacity,NOUN,12,capacity,NOUN,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,0,and,CCONJ,False,False,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,1,",",PUNCT,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,2,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,3,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,4,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,5,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,6,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,7,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,8,;,PUNCT,False,True,True
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,9,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,10,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,11,.,PUNCT,True,True,False
+CLIMATE SCIENCE,Rising atmospheric carbon concentrations increase the planet's heat-trapping capacity .,9,.,PUNCT,12,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,1,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,2,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,3,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,4,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,5,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,6,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,7,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,8,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,9,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,10,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,11,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,0,The,DET,12,the,DET,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,1,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,2,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,3,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,4,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,5,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,6,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,7,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,8,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,9,latter,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,10,system,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,11,system,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,1,company,NOUN,12,system,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,1,is,AUX,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,2,",",PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,3,:,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,4,is,AUX,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,5,had,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,6,provided,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,7,has,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,8,provides,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,9,provides,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,10,provides,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,11,provides,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,2,required,VERB,12,provides,VERB,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,1,to,ADP,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,2,to,ADP,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,3,the,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,4,the,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,5,the,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,6,direct,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,7,direct,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,8,direct,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,9,no,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,10,no,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,11,user,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,3,multifactor,NOUN,12,password,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,1,",",PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,2,",",PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,3,set,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,4,support,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,5,support,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,6,support,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,7,support,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,8,##ies,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,9,##ies,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,10,##ies,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,11,##ies,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,4,authentication,NOUN,12,##ies,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,1,to,ADP,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,2,to,ADP,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,3,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,4,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,5,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,6,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,7,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,8,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,9,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,10,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,11,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,5,for,ADP,12,for,ADP,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,0,and,CCONJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,1,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,2,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,3,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,4,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,5,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,6,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,7,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,8,the,DET,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,9,its,PRON,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,10,its,PRON,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,11,its,PRON,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,6,all,DET,12,its,PRON,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,0,back,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,1,support,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,2,type,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,3,the,DET,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,4,other,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,5,individual,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,6,other,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,7,other,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,8,other,ADJ,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,9,three,NUM,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,10,three,NUM,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,11,customer,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,7,administrator,NOUN,12,its,PRON,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,0,.,PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,1,",",PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,2,),PUNCT,False,False,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,3,etc,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,4,etc,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,5,##s,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,6,##s,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,7,members,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,8,members,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,9,members,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,10,##s,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,11,positions,NOUN,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,8,accounts,NOUN,12,accounts,NOUN,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,0,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,1,",",PUNCT,False,True,True
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,2,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,3,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,4,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,5,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,6,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,7,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,8,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,9,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,10,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,11,.,PUNCT,True,True,False
+CYBERSECURITY,The company required multifactor authentication for all administrator accounts .,9,.,PUNCT,12,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,1,"""",PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,2,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,3,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,4,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,5,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,6,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,7,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,8,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,9,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,10,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,11,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,0,The,DET,12,the,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,1,man,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,2,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,3,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,4,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,5,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,6,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,7,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,8,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,9,latter,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,10,team,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,11,team,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,1,teacher,NOUN,12,students,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,1,is,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,2,",",PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,3,is,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,4,is,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,5,had,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,6,had,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,7,had,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,8,had,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,9,had,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,10,gave,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,11,taught,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,2,designed,VERB,12,gives,VERB,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,1,to,ADP,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,2,the,DET,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,3,the,DET,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,4,the,DET,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,5,the,DET,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,6,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,7,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,8,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,9,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,10,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,11,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,3,a,DET,12,a,DET,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,0,back,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,1,fan,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,2,fan,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,3,fan,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,4,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,5,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,6,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,7,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,8,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,9,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,10,new,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,11,short,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,4,science,NOUN,12,short,ADJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,0,as,ADP,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,1,is,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,2,is,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,3,set,VERB,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,4,set,VERB,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,5,section,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,6,book,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,7,project,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,8,lesson,NOUN,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,9,lesson,NOUN,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,10,lesson,NOUN,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,11,curriculum,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,5,lesson,NOUN,12,book,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,1,to,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,2,of,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,3,of,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,4,of,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,5,of,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,6,of,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,7,on,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,8,on,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,9,involving,VERB,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,10,about,ADP,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,11,about,ADP,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,6,about,ADP,12,on,ADP,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,0,.,PUNCT,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,1,may,AUX,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,2,the,DET,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,3,the,DET,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,4,the,DET,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,5,their,PRON,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,6,the,DET,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,7,the,DET,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,8,human,ADJ,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,9,free,ADJ,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,10,free,ADJ,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,11,renewable,ADJ,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,7,renewable,ADJ,12,renewable,ADJ,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,0,and,CCONJ,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,1,kill,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,2,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,3,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,4,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,5,content,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,6,content,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,7,content,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,8,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,9,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,10,##s,NOUN,False,True,True
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,11,energy,NOUN,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,8,energy,NOUN,12,energy,NOUN,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,0,back,ADV,False,False,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,1,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,2,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,3,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,4,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,5,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,6,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,7,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,8,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,9,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,10,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,11,.,PUNCT,True,True,False
+EDUCATION,The teacher designed a science lesson about renewable energy .,9,.,PUNCT,12,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,1,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,2,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,3,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,4,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,5,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,6,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,7,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,8,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,9,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,10,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,11,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,0,The,DET,12,the,DET,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,1,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,2,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,3,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,4,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,5,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,6,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,7,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,8,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,9,latter,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,10,group,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,11,company,NOUN,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,1,company,NOUN,12,company,NOUN,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,1,is,AUX,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,2,",",PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,3,was,AUX,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,4,had,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,5,took,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,6,took,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,7,took,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,8,took,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,9,used,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,10,sold,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,11,sold,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,2,issued,VERB,12,sold,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,1,to,ADP,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,2,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,3,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,4,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,5,two,NUM,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,6,several,ADJ,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,7,several,ADJ,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,8,their,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,9,several,ADJ,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,10,several,ADJ,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,11,ten,NUM,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,3,new,ADJ,12,its,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,0,back,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,1,set,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,2,work,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,3,intent,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,4,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,5,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,6,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,7,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,8,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,9,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,10,documents,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,11,contracts,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,4,shares,NOUN,12,bonds,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,0,as,SCONJ,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,1,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,2,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,3,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,4,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,5,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,6,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,7,and,CCONJ,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,8,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,9,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,10,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,11,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,5,to,PART,12,to,PART,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,1,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,2,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,3,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,4,the,DET,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,5,support,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,6,support,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,7,make,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,8,provide,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,9,provide,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,10,earn,VERB,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,11,raise,VERB,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,6,raise,VERB,12,raise,VERB,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,0,.,PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,1,bed,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,2,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,3,work,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,4,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,5,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,6,support,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,7,plans,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,8,funds,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,9,funds,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,10,funds,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,11,funds,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,7,money,NOUN,12,capital,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,0,and,CCONJ,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,1,to,ADP,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,2,",",PUNCT,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,3,and,CCONJ,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,4,of,ADP,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,5,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,6,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,7,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,8,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,9,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,10,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,11,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,8,for,ADP,12,for,ADP,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,0,back,ADV,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,1,him,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,2,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,3,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,4,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,5,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,6,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,7,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,8,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,9,them,PRON,False,False,False
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,10,sale,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,11,sale,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,9,expansion,NOUN,12,construction,NOUN,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,0,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,1,",",PUNCT,False,True,True
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,2,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,3,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,4,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,5,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,6,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,7,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,8,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,9,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,10,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,11,.,PUNCT,True,True,False
+FINANCE,The company issued new shares to raise money for expansion .,10,.,PUNCT,12,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,1,"""",PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,2,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,3,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,4,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,5,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,6,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,7,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,8,he,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,9,she,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,10,she,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,11,she,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,0,Maya,PROPN,12,she,PRON,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,1,may,AUX,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,2,had,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,3,took,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,4,took,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,5,took,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,6,pulled,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,7,took,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,8,pulled,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,9,put,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,10,placed,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,11,hung,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,1,left,VERB,12,hung,VERB,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,1,to,ADP,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,2,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,3,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,4,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,5,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,6,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,7,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,8,his,PRON,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,9,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,10,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,11,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,2,her,PRON,12,the,DET,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,1,back,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,2,back,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,3,back,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,4,back,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,5,right,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,6,right,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,7,standing,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,8,standing,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,9,standing,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,10,purse,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,11,purse,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,3,umbrella,NOUN,12,purse,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,0,back,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,1,to,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,2,on,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,3,on,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,4,on,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,5,on,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,6,at,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,7,on,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,8,at,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,9,behind,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,10,at,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,11,outside,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,4,beside,ADP,12,by,ADP,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,0,as,ADP,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,1,to,ADP,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,2,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,3,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,4,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,5,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,6,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,7,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,8,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,9,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,10,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,11,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,5,the,DET,12,the,DET,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,1,long,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,2,last,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,3,same,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,4,main,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,5,main,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,6,main,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,7,open,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,8,open,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,9,front,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,10,front,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,11,front,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,6,apartment,NOUN,12,front,ADJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,0,.,PUNCT,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,1,bed,NOUN,False,True,True
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,2,too,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,3,again,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,4,again,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,5,again,ADV,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,6,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,7,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,8,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,9,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,10,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,11,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,7,door,NOUN,12,door,NOUN,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,0,and,CCONJ,False,False,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,1,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,2,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,3,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,4,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,5,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,6,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,7,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,8,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,9,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,10,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,11,.,PUNCT,True,True,False
+GENERAL ENGLISH,Maya left her umbrella beside the apartment door .,8,.,PUNCT,12,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,1,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,2,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,3,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,4,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,5,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,6,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,7,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,8,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,9,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,10,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,11,a,DET,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,0,The,DET,12,a,DET,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,1,bar,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,2,last,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,3,second,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,4,current,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,5,same,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,6,main,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,7,main,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,8,middle,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,9,middle,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,10,mountain,NOUN,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,11,mountain,NOUN,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,1,mountain,NOUN,12,mountain,NOUN,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,1,bar,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,2,outside,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,3,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,4,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,5,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,6,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,7,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,8,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,9,also,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,10,chain,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,11,range,NOUN,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,2,range,NOUN,12,range,NOUN,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,1,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,2,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,3,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,4,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,5,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,6,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,7,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,8,of,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,9,between,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,10,between,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,11,connects,VERB,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,3,separates,VERB,12,separates,VERB,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,0,back,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,1,to,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,2,in,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,3,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,4,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,5,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,6,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,7,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,8,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,9,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,10,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,11,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,4,the,DET,12,the,DET,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,0,as,ADP,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,1,middle,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,2,middle,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,3,most,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,4,most,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,5,other,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,6,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,7,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,8,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,9,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,10,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,11,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,5,two,NUM,12,two,NUM,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,1,long,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,2,long,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,3,military,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,4,military,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,5,separate,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,6,separate,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,7,separate,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,8,main,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,9,main,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,10,main,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,11,geographical,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,6,neighboring,VERB,12,geographical,ADJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,0,.,PUNCT,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,1,may,AUX,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,2,bank,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,3,respectively,ADV,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,4,group,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,5,territory,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,6,mountains,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,7,areas,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,8,areas,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,9,areas,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,10,villages,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,11,villages,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,7,regions,NOUN,12,islands,NOUN,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,0,and,CCONJ,False,False,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,1,",",PUNCT,False,True,True
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,2,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,3,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,4,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,5,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,6,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,7,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,8,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,9,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,10,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,11,.,PUNCT,True,True,False
+GEOGRAPHY,The mountain range separates the two neighboring regions .,8,.,PUNCT,12,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,1,"""",PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,2,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,3,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,4,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,5,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,6,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,7,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,8,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,9,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,10,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,11,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,0,The,DET,12,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,1,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,2,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,3,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,4,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,5,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,6,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,7,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,8,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,9,latter,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,10,police,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,11,court,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,1,prosecutor,NOUN,12,prosecution,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,1,is,AUX,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,2,was,AUX,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,3,was,AUX,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,4,had,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,5,took,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,6,took,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,7,took,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,8,made,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,9,provided,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,10,provided,VERB,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,11,presented,VERB,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,2,presented,VERB,12,presented,VERB,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,1,to,ADP,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,2,to,ADP,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,3,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,4,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,5,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,6,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,7,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,8,the,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,9,no,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,10,no,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,11,no,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,3,new,ADJ,12,no,DET,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,0,back,ADV,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,1,life,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,2,life,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,3,men,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,4,position,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,5,position,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,6,interest,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,7,items,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,8,york,PROPN,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,9,information,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,10,information,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,11,evidence,NOUN,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,4,evidence,NOUN,12,evidence,NOUN,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,0,as,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,1,to,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,2,of,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,3,of,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,4,in,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,5,in,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,6,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,7,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,8,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,9,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,10,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,11,during,ADP,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,5,during,ADP,12,at,ADP,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,1,long,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,2,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,3,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,4,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,5,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,6,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,7,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,8,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,9,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,10,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,11,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,6,the,DET,12,the,DET,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,0,.,PUNCT,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,1,late,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,2,latter,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,3,latter,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,4,latter,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,5,latter,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,6,latter,ADJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,7,day,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,8,process,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,9,process,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,10,trial,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,11,trial,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,7,hearing,NOUN,12,trial,NOUN,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,0,and,CCONJ,False,False,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,1,",",PUNCT,False,True,True
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,2,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,3,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,4,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,5,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,6,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,7,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,8,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,9,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,10,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,11,.,PUNCT,True,True,False
+LAW,The prosecutor presented new evidence during the hearing .,8,.,PUNCT,12,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,1,"""",PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,2,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,3,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,4,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,5,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,6,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,7,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,8,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,9,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,10,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,11,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,0,The,DET,12,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,1,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,2,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,3,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,4,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,5,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,6,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,7,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,8,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,9,latter,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,10,camera,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,11,camera,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,1,physician,NOUN,12,instrument,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,1,is,AUX,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,2,of,ADP,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,3,of,ADP,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,4,took,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,5,took,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,6,took,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,7,took,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,8,saw,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,9,noted,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,10,noticed,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,11,noted,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,2,recorded,VERB,12,noted,VERB,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,1,to,ADP,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,2,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,3,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,4,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,5,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,6,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,7,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,8,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,9,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,10,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,11,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,3,the,DET,12,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,0,back,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,1,front,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,2,latter,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,3,first,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,4,first,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,5,first,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,6,first,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,7,same,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,8,same,ADJ,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,9,very,ADV,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,10,resulting,VERB,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,11,reported,VERB,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,4,patient's,ADJ,12,reported,VERB,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,1,always,ADV,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,2,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,3,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,4,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,5,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,6,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,7,own,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,8,blood,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,9,blood,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,10,blood,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,11,blood,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,5,elevated,VERB,12,blood,NOUN,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,0,and,CCONJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,1,",",PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,2,life,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,3,back,ADV,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,4,position,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,5,body,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,6,behavior,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,7,behavior,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,8,status,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,9,status,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,10,temperature,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,11,temperature,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,6,pressure,NOUN,12,heartbeat,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,0,back,ADV,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,1,to,ADP,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,2,of,ADP,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,3,in,ADP,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,4,in,ADP,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,5,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,6,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,7,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,8,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,9,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,10,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,11,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,7,during,ADP,12,during,ADP,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,1,her,PRON,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,2,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,3,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,4,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,5,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,6,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,7,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,8,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,9,this,DET,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,10,an,DET,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,11,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,8,the,DET,12,the,DET,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,0,.,PUNCT,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,1,life,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,2,second,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,3,latter,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,4,latter,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,5,latter,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,6,latter,ADJ,False,False,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,7,day,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,8,process,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,9,process,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,10,process,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,11,surgery,NOUN,False,True,True
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,9,examination,NOUN,12,examination,NOUN,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,0,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,1,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,2,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,3,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,4,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,5,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,6,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,7,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,8,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,9,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,10,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,11,.,PUNCT,True,True,False
+MEDICINE,The physician recorded the patient's elevated pressure during the examination .,10,.,PUNCT,12,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,1,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,2,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,3,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,4,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,5,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,6,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,7,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,8,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,9,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,10,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,11,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,0,The,DET,12,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,1,group,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,2,latter,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,3,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,4,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,5,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,6,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,7,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,8,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,9,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,10,same,ADJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,11,development,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,1,software,NOUN,12,development,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,1,is,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,2,was,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,3,was,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,4,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,5,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,6,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,7,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,8,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,9,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,10,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,11,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,2,team,NOUN,12,also,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,1,to,ADP,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,2,is,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,3,is,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,4,is,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,5,was,AUX,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,6,took,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,7,created,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,8,wrote,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,9,created,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,10,developed,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,11,developed,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,3,released,VERB,12,developed,VERB,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,0,back,ADV,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,1,to,ADP,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,2,the,DET,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,3,the,DET,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,4,the,DET,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,5,the,DET,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,6,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,7,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,8,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,9,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,10,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,11,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,4,a,DET,12,a,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,0,as,ADP,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,1,slave,NOUN,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,2,new,ADJ,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,3,new,ADJ,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,4,special,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,5,special,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,6,special,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,7,special,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,8,second,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,9,new,ADJ,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,10,new,ADJ,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,11,beta,NOUN,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,5,new,ADJ,12,mobile,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,1,part,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,2,part,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,3,part,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,4,part,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,5,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,6,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,7,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,8,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,9,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,10,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,11,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,6,version,NOUN,12,version,NOUN,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,1,to,ADP,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,2,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,3,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,4,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,5,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,6,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,7,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,8,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,9,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,10,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,11,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,7,of,ADP,12,of,ADP,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,0,and,CCONJ,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,1,to,ADP,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,2,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,3,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,4,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,5,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,6,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,7,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,8,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,9,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,10,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,11,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,8,the,DET,12,the,DET,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,0,back,NOUN,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,1,front,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,2,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,3,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,4,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,5,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,6,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,7,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,8,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,9,original,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,10,same,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,11,web,NOUN,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,9,mobile,ADJ,12,original,ADJ,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,0,.,PUNCT,False,False,False
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,1,bar,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,2,##s,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,3,group,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,4,group,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,5,group,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,6,version,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,7,version,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,8,program,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,9,version,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,10,version,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,11,phone,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,10,application,NOUN,12,app,NOUN,False,True,True
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,0,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,1,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,2,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,3,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,4,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,5,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,6,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,7,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,8,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,9,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,10,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,11,.,PUNCT,True,True,False
+TECHNOLOGY,The software team released a new version of the mobile application .,11,.,PUNCT,12,.,PUNCT,True,True,False
