@@ -11,8 +11,8 @@ Every part is tied to a paper from the project reading list. All outputs go to
                (a) candidate re-scoring on the sheet, (b) left-context-only next-word
                prediction, (c) the medical-vs-other share on the grid, for GPT-2 AND the
                MLMs over the SAME candidate set.
-  E3  aoyama   Aoyama & Schneider (2022) layer-wise word/POS prediction on 100 sheet
-               sentences (10 per domain) for the 4 base models.        [Aoyama & Schneider 2022]
+  E3  aoyama   Aoyama & Schneider (2022) layer-wise word/POS prediction on 50 sheet
+               sentences (5 per domain) for the 4 base models.        [Aoyama & Schneider 2022]
   E4  attn     Where the mask attends, per layer (CLS / SEP / self / neighbours / punct),
                attention entropy, on the 500 sentences.                [Clark et al. 2019]
   E5  conf     Saves each model's full sorted output distribution at the mask, for
@@ -601,7 +601,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--parts", nargs="+", default=PARTS, choices=PARTS)
     ap.add_argument("--limit", type=int, default=0, help="sentences per domain (0 = all 50)")
-    ap.add_argument("--aoyama-per-domain", type=int, default=10)
+    ap.add_argument("--aoyama-per-domain", type=int, default=5)
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--base", nargs="+", default=BASE4)
     ap.add_argument("--domain-models", nargs="+", default=DOMAIN_MODELS)

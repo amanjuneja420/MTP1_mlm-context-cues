@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Context and Domain Cues in Masked-Word Prediction: An Interpretability Study of BERT and RoBERTa (code)"
+authors:
+  - family-names: Juneja
+    given-names: Aman
+    affiliation: "Indian Institute of Technology Kharagpur"
+type: software
+license: MIT
+date-released: 2026-11-11
+repository-code: "https://github.com/amanjuneja420/MTP1_mlm-context-cues"
+keywords:
+  - interpretability
+  - masked language models
+  - BERT
+  - RoBERTa
+  - logit lens
+  - activation patching
